@@ -1,0 +1,3400 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns="http://www.w3.org/TR/REC-html40">
+<head>
+<meta http-equiv="Content-type" content="application/vnd.ms-excel;charset=utf-8" />
+<style>
+body {
+margin: 10px;
+overflow: scroll;
+}
+table {
+border-collapse: collapse;
+border-left: 2px solid black;
+border-right: 2px solid black;
+border-bottom: 2px solid black;
+}
+th, td {
+border-collapse: collapse;
+border: 1px solid black;
+height: 40px !important;
+padding: 2px;
+width: 250px !important;
+}
+th {
+border-top: 2px solid black;
+border-bottom: 2px solid black;
+}
+td div {
+height: 40px;
+overflow: hidden;
+width: 250px;
+}
+</style>
+</head>
+<body>
+<div align=center x:publishsource="Excel">
+<table cellpadding="100" cellspacing="0">
+<tr>
+<th>Název</th>
+<th>Kód&nbsp;lékárny</th>
+<th>Kód&nbsp;prac.</th>
+<th>IČZ</th>
+<th>Vedoucí lékárník</th>
+<th>Město</th>
+<th>Ulice a č.p.</th>
+<th>PSČ</th>
+<th>Telefon</th>
+<th>Fax</th>
+<th>E-mail</th>
+<th>Www</th>
+</tr>
+<tr>
+<td><div>OOVL-TILIA APOTHEKA s.r.o.</div></td>
+<td><div>80995460</div></td>
+<td><div>80467000001</div></td>
+<td><div>80467000</div></td>
+<td><div>Mgr. Dagmar Veselá </div></td>
+<td><div>Babice u Uherského Hradiště</div></td>
+<td><div>Huštěnovice 61</div></td>
+<td><div>687 03 </div></td>
+<td><div>572 503 361</div></td>
+<td><div></div></td>
+<td><div>tilia.apo@centrum.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL-L Dr.Max Most, Kabátnická</div></td>
+<td><div>57995310</div></td>
+<td><div>57995427001</div></td>
+<td><div>57995427</div></td>
+<td><div>Mgr. Jana Matějková </div></td>
+<td><div>Bečov u Mostu</div></td>
+<td><div>Bečov č.p. 17</div></td>
+<td><div>435 26</div></td>
+<td><div>0</div></td>
+<td><div></div></td>
+<td><div>becov@drmax.cz</div></td>
+<td><div>http://www.drmax.cz</div></td>
+</tr>
+<tr>
+<td><div>OOVL - L Lékárna U modrého ráčka</div></td>
+<td><div>23995270</div></td>
+<td><div>23318000001</div></td>
+<td><div>23318000</div></td>
+<td><div>Mgr. Dagmar Kratochvílová </div></td>
+<td><div>Bečváry</div></td>
+<td><div>Bečváry 185</div></td>
+<td><div>281 43</div></td>
+<td><div>725 878 806</div></td>
+<td><div>0</div></td>
+<td><div>mimara.lekarna@centrum.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L Nový dům</div></td>
+<td><div>78995270</div></td>
+<td><div>78503000003</div></td>
+<td><div>78503000</div></td>
+<td><div>PharmDr. Věra Hradilová </div></td>
+<td><div>Bedihošť</div></td>
+<td><div>Prostějovská 88</div></td>
+<td><div>798 21</div></td>
+<td><div>582 368 473</div></td>
+<td><div>0</div></td>
+<td><div>jpms@volny.cz</div></td>
+<td><div>http://www.lekarna-novydum.cz</div></td>
+</tr>
+<tr>
+<td><div>OOVL - Blížkovice</div></td>
+<td><div>79995240</div></td>
+<td><div>79040000001</div></td>
+<td><div>79040000</div></td>
+<td><div>PharmDr. Alena Vajová </div></td>
+<td><div>Blížkovice</div></td>
+<td><div>Blížkovice 131</div></td>
+<td><div>671 55</div></td>
+<td><div>775 577 995</div></td>
+<td><div></div></td>
+<td><div>alenavajova@seznam.cz</div></td>
+<td><div>http://www.novalekarnamb.cz/</div></td>
+</tr>
+<tr>
+<td><div>OOVL - L RAJHRAD</div></td>
+<td><div>73995420</div></td>
+<td><div>73646000001</div></td>
+<td><div>73646000</div></td>
+<td><div>PharmDr. Zdeněk Špaček </div></td>
+<td><div>Blučina</div></td>
+<td><div>ul. 9.května 598</div></td>
+<td><div>664 56</div></td>
+<td><div>547 213 258</div></td>
+<td><div>0</div></td>
+<td><div>moravskelekarny@centrum.cz</div></td>
+<td><div>http://www.moravskelekarny.cz</div></td>
+</tr>
+<tr>
+<td><div>OOVL - L U SALVÁTORA</div></td>
+<td><div>84995060</div></td>
+<td><div>84802000000</div></td>
+<td><div>84802000</div></td>
+<td><div>Mgr. Martin Prosecký </div></td>
+<td><div>Bobrová </div></td>
+<td><div>Bobrová 309</div></td>
+<td><div>592 55</div></td>
+<td><div>566 673 770</div></td>
+<td><div>0</div></td>
+<td><div>postapromagistra@seznam.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L U Zlaté rybky</div></td>
+<td><div>90995330</div></td>
+<td><div>90481000000</div></td>
+<td><div>90481000</div></td>
+<td><div>Mgr. Pavla Janošová </div></td>
+<td><div>Bolatice</div></td>
+<td><div>Hlučínská 6</div></td>
+<td><div>747 23</div></td>
+<td><div>553 654 471</div></td>
+<td><div>553 657 909</div></td>
+<td><div>lekarnauzlaterybky@volny.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L  U sv. Tadeáše</div></td>
+<td><div>74995290</div></td>
+<td><div>74819000000</div></td>
+<td><div>74819000</div></td>
+<td><div>PharmDr. Peter  Hytych </div></td>
+<td><div>Božice </div></td>
+<td><div>Božice 384</div></td>
+<td><div>671 64</div></td>
+<td><div>515 257 609</div></td>
+<td><div>0</div></td>
+<td><div>lekarna-bozice@hytych.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L Lékárna U Perly    </div></td>
+<td><div>70995380</div></td>
+<td><div>70611000002</div></td>
+<td><div>70611000</div></td>
+<td><div>Mgr. Tomáš  Nechvíl </div></td>
+<td><div>Brandýs nad Orlicí</div></td>
+<td><div>Lázeňská 226</div></td>
+<td><div>561 12</div></td>
+<td><div>465 544 133</div></td>
+<td><div>0</div></td>
+<td><div>brandys@oovl.cz</div></td>
+<td><div>http://www.lekarnauperly.cz</div></td>
+</tr>
+<tr>
+<td><div>OOVL - L Jarošov</div></td>
+<td><div>80995500</div></td>
+<td><div>80463000001</div></td>
+<td><div>80463000</div></td>
+<td><div>Mgr. Ladislava Švehlová </div></td>
+<td><div>Březolupy </div></td>
+<td><div>Březolupy 520</div></td>
+<td><div>687 13</div></td>
+<td><div>572 580 121</div></td>
+<td><div>0</div></td>
+<td><div>lekarna.brezolupy@centrum.cz</div></td>
+<td><div>http://www.lekarna-brezolupy.cz</div></td>
+</tr>
+<tr>
+<td><div>OOVL - L U Spasitele</div></td>
+<td><div>89995050</div></td>
+<td><div>85016000001</div></td>
+<td><div>85016000</div></td>
+<td><div>RNDr. Zdeněk Spáčil </div></td>
+<td><div>Břidličná</div></td>
+<td><div>Nábřežní 490</div></td>
+<td><div>793 51</div></td>
+<td><div>554 286 207</div></td>
+<td><div>0</div></td>
+<td><div>lek@iex.cz</div></td>
+<td><div>http://www.89259.ikp.cz/</div></td>
+</tr>
+<tr>
+<td><div>OOVL - L Jemelkova</div></td>
+<td><div>72995800</div></td>
+<td><div>72995081000</div></td>
+<td><div>72995081</div></td>
+<td><div>PharmDr. Ivona Černošková </div></td>
+<td><div>Brno - Chrlice</div></td>
+<td><div>U Zbrojnice</div></td>
+<td><div>643 00</div></td>
+<td><div>545 238 055</div></td>
+<td><div>0</div></td>
+<td><div>vydejna-chrlice@volny.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L Biovita</div></td>
+<td><div>72995600</div></td>
+<td><div>72995064001</div></td>
+<td><div>72995064</div></td>
+<td><div>PharmDr. Pavla Polanská </div></td>
+<td><div>Brno - Žebětín</div></td>
+<td><div>Křivánkovo nám. 16</div></td>
+<td><div>641 00</div></td>
+<td><div>546 217 693, 603 269 541</div></td>
+<td><div>0</div></td>
+<td><div>lekarnazebetin@medshop.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL Brtnice</div></td>
+<td><div>76995350</div></td>
+<td><div>76149000001</div></td>
+<td><div>76149000</div></td>
+<td><div>Mgr. Jana Matejková </div></td>
+<td><div>Brtnice</div></td>
+<td><div>Široká 376</div></td>
+<td><div>58832</div></td>
+<td><div>567 213 731</div></td>
+<td><div>0</div></td>
+<td><div>lek.brtnice@seznam.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L Mutěnice</div></td>
+<td><div>75995570</div></td>
+<td><div>75633000001</div></td>
+<td><div>75633000</div></td>
+<td><div>PharmDr. Karla Staňová </div></td>
+<td><div>Čejkovice </div></td>
+<td><div>Wurmova 724</div></td>
+<td><div>696 15</div></td>
+<td><div>518 362 049</div></td>
+<td><div>0</div></td>
+<td><div>cejkovice.lekarna@o2active.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL  </div></td>
+<td><div>86995110</div></td>
+<td><div>86370000002</div></td>
+<td><div>86370000</div></td>
+<td><div>PharmDr. Blanka  Juchelková </div></td>
+<td><div>Čeladná</div></td>
+<td><div>Čeladná 1</div></td>
+<td><div>739 12</div></td>
+<td><div>558 684 215</div></td>
+<td><div></div></td>
+<td><div>lekarna.celadna@seznam.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L U černého orla</div></td>
+<td><div>78995100</div></td>
+<td><div>78503000000</div></td>
+<td><div>78503000</div></td>
+<td><div>Mgr. Marcela  Machálková </div></td>
+<td><div>Čelechovice na Hané</div></td>
+<td><div>Ruská 289</div></td>
+<td><div>798 16</div></td>
+<td><div>582 373 408</div></td>
+<td><div>0</div></td>
+<td><div></div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L U Větrného kohouta</div></td>
+<td><div>47995060</div></td>
+<td><div>47289000000</div></td>
+<td><div>47289000</div></td>
+<td><div>Mgr. Petr Fiala </div></td>
+<td><div>Cerhovice</div></td>
+<td><div>Nám. kapitána Kučery 10</div></td>
+<td><div>267 61</div></td>
+<td><div>311 510 544</div></td>
+<td><div>0</div></td>
+<td><div>petrf88@seznam.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L Tilia</div></td>
+<td><div>61995410</div></td>
+<td><div>61514000000</div></td>
+<td><div>61514000</div></td>
+<td><div>RNDr. Marie Řehulová </div></td>
+<td><div>Černožice nad Labem</div></td>
+<td><div>gen.Svobody 266</div></td>
+<td><div>503 04</div></td>
+<td><div>603 823 387</div></td>
+<td><div>0</div></td>
+<td><div>tilia.v@seznam.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - Zámecká lékárna</div></td>
+<td><div>34995160</div></td>
+<td><div>34621000001</div></td>
+<td><div>34621000</div></td>
+<td><div>PharmDr. Jiří Cach </div></td>
+<td><div>Chlum u Třeboně</div></td>
+<td><div>Třeboňská 215</div></td>
+<td><div>378 04</div></td>
+<td><div>378 797 588</div></td>
+<td><div>0</div></td>
+<td><div>lek.chlum@seznam.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L Svatovítská lékárna</div></td>
+<td><div>45995050</div></td>
+<td><div>44304000007</div></td>
+<td><div>44304000</div></td>
+<td><div>PharmDr. Martina Juhásová </div></td>
+<td><div>Chlumčany</div></td>
+<td><div>nám. B. Kašpara 450</div></td>
+<td><div>334 42</div></td>
+<td><div>377 973 433</div></td>
+<td><div>0</div></td>
+<td><div>chlumcany@devetsil.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L 002 Praha</div></td>
+<td><div>01995570</div></td>
+<td><div>59886000000</div></td>
+<td><div>59886000</div></td>
+<td><div>PharmDr. Dalila Hajmerlová </div></td>
+<td><div>Chlumec</div></td>
+<td><div>Krušnohorská 39</div></td>
+<td><div>403 39</div></td>
+<td><div>475 200 523, 776 062 389</div></td>
+<td><div>0</div></td>
+<td><div>lekarnachlumec@seznam.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L Pod Věží</div></td>
+<td><div>49995230</div></td>
+<td><div>49059000000</div></td>
+<td><div>49059000</div></td>
+<td><div>Mgr. Ivana Tomášková </div></td>
+<td><div>Chodová Planá</div></td>
+<td><div>Chodská 4</div></td>
+<td><div>348 13</div></td>
+<td><div>374 791 679</div></td>
+<td><div>0</div></td>
+<td><div>lekarna.chodovka@seznam.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L U Zlatého hada II</div></td>
+<td><div>46995130</div></td>
+<td><div>46686000006</div></td>
+<td><div>46686000</div></td>
+<td><div>RNDr. Jiří Kofroň </div></td>
+<td><div>Chotěšov</div></td>
+<td><div>Plzeňská 88</div></td>
+<td><div>330 23</div></td>
+<td><div>373 034 600</div></td>
+<td><div>0</div></td>
+<td><div>lekarnachotesov@seznam.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L BENU Lékárna</div></td>
+<td><div>44995160</div></td>
+<td><div>44345000000</div></td>
+<td><div>44345000</div></td>
+<td><div>Mgr. Renata Chourová </div></td>
+<td><div>Chotíkov</div></td>
+<td><div>Chotíkov 385, OC Globus</div></td>
+<td><div>330 17</div></td>
+<td><div>731 638 134</div></td>
+<td><div>0</div></td>
+<td><div>plzen.ocglobus@benu.cz</div></td>
+<td><div>http://www.benu.cz</div></td>
+</tr>
+<tr>
+<td><div>OOVL - L Denisovo nábřeží</div></td>
+<td><div>44995050</div></td>
+<td><div>44338000001</div></td>
+<td><div>44338000</div></td>
+<td><div>PharmDr. Lenka Láníčková </div></td>
+<td><div>Chrást</div></td>
+<td><div>nám. Českých legií 599</div></td>
+<td><div>330 03</div></td>
+<td><div>377 945 251</div></td>
+<td><div></div></td>
+<td><div>lekchrast@seznam.cz</div></td>
+<td><div>http://www.videolekarna.cz</div></td>
+</tr>
+<tr>
+<td><div>OOVL - L U Zlatého hada</div></td>
+<td><div>64995030</div></td>
+<td><div>64608000001</div></td>
+<td><div>64608000</div></td>
+<td><div>Mgr. Ivana Mejstříková </div></td>
+<td><div>Chvalkovice </div></td>
+<td><div>Chvalkovice 130</div></td>
+<td><div>552 04</div></td>
+<td><div>739 098 008</div></td>
+<td><div>0</div></td>
+<td><div>u.zlateho.hada@seznam.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - Lékárny</div></td>
+<td><div>39995070</div></td>
+<td><div>39607000001</div></td>
+<td><div>39607000</div></td>
+<td><div>PharmDr. Jitka Borkovcová </div></td>
+<td><div>Chýnov</div></td>
+<td><div>Gabrielovo nám. 49</div></td>
+<td><div>391 55</div></td>
+<td><div>381 297 809</div></td>
+<td><div>0</div></td>
+<td><div>leksez@centrum.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L U anděla strážce</div></td>
+<td><div>46995040</div></td>
+<td><div>46673000001</div></td>
+<td><div>46673000</div></td>
+<td><div>Mgr. Jaroslava Macáková </div></td>
+<td><div>Čistá</div></td>
+<td><div>Sportovců 114</div></td>
+<td><div>270 34</div></td>
+<td><div>373 396 360</div></td>
+<td><div></div></td>
+<td><div>lek.kralovice@centrum.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL Svatá Lucie</div></td>
+<td><div>42995570</div></td>
+<td><div>42718000000</div></td>
+<td><div>42718000</div></td>
+<td><div>PharmDr. Kamila  Hrůzová </div></td>
+<td><div>Dalovice</div></td>
+<td><div>Hlavní 10/9</div></td>
+<td><div>362 63</div></td>
+<td><div>353 034 232</div></td>
+<td><div></div></td>
+<td><div>sv.lucie@leky-domu.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L Magnolie</div></td>
+<td><div>20995370</div></td>
+<td><div>20820000001</div></td>
+<td><div>20820000</div></td>
+<td><div>Mgr. Marie Vilitová </div></td>
+<td><div>Divišov </div></td>
+<td><div>Divišov 130</div></td>
+<td><div>257 26</div></td>
+<td><div>317 855 704</div></td>
+<td><div>0</div></td>
+<td><div>lekarna.divisov@tiscali.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - Lékárny</div></td>
+<td><div>89995090</div></td>
+<td><div>89275000001</div></td>
+<td><div>89275000</div></td>
+<td><div>PharmDr. Eva Libichová </div></td>
+<td><div>Dlouhá Loučka</div></td>
+<td><div>9. května 240</div></td>
+<td><div>783 86</div></td>
+<td><div>585 037 085</div></td>
+<td><div>0</div></td>
+<td><div>dl@oficina.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L PHARMACENTRUM s.r.o.</div></td>
+<td><div>61995030</div></td>
+<td><div>61520000000</div></td>
+<td><div>61520000</div></td>
+<td><div>PharmDr.  Hana Jelínková </div></td>
+<td><div>Dobřenice </div></td>
+<td><div>Dobřenice 63</div></td>
+<td><div>503 25</div></td>
+<td><div>495 451 283</div></td>
+<td><div>0</div></td>
+<td><div>info@pharmacentrum-hk.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL Dolní Bečva</div></td>
+<td><div>94995041</div></td>
+<td><div>94312000003</div></td>
+<td><div>94312000</div></td>
+<td><div>PharmDr.  Jiří  Malina </div></td>
+<td><div>Dolní Bečva</div></td>
+<td><div>Dolní Bečva 184</div></td>
+<td><div>756 55</div></td>
+<td><div>571 610 230</div></td>
+<td><div></div></td>
+<td><div>oovl@rubus.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L U Matky Boží Pomocné</div></td>
+<td><div>39995140</div></td>
+<td><div>39623000000</div></td>
+<td><div>39623000</div></td>
+<td><div>Mgr. Hana Mazalovská </div></td>
+<td><div>Dolní Bukovsko</div></td>
+<td><div>Veselská 108</div></td>
+<td><div>373 65</div></td>
+<td><div>385 726 167</div></td>
+<td><div>0</div></td>
+<td><div>dolbuko@seznam.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L U Milosrd.Samaritána</div></td>
+<td><div>70995080</div></td>
+<td><div>70608000000</div></td>
+<td><div>70608000</div></td>
+<td><div>PharmDr. Jana Honzalová </div></td>
+<td><div>Dolní Čermná</div></td>
+<td><div>Náměstí 101</div></td>
+<td><div>561 53</div></td>
+<td><div>465 393 276</div></td>
+<td><div>0</div></td>
+<td><div>honzalova@ow.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L U Kosmy a Damiána</div></td>
+<td><div>70995200</div></td>
+<td><div>70613000000</div></td>
+<td><div>70613000</div></td>
+<td><div>PharmDr. Josef Marek </div></td>
+<td><div>Dolní Dobrouč </div></td>
+<td><div>Dolní Dobrouč 391</div></td>
+<td><div>561 02</div></td>
+<td><div>465 543 808</div></td>
+<td><div>0</div></td>
+<td><div>marek@letohrad.cz</div></td>
+<td><div>http://www.lekarny.zdravcentra.cz/ukosmyadamiana/</div></td>
+</tr>
+<tr>
+<td><div>OOVL - L U Lva</div></td>
+<td><div>74995240</div></td>
+<td><div>74792000002</div></td>
+<td><div>74792000</div></td>
+<td><div>PharmDr. Jana Kopřivová </div></td>
+<td><div>Dolní Dunajovice</div></td>
+<td><div>Hlavní 81</div></td>
+<td><div>691 85</div></td>
+<td><div>519 517 392</div></td>
+<td><div>0</div></td>
+<td><div></div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L Varnsdorf</div></td>
+<td><div>51995230</div></td>
+<td><div>51618000001</div></td>
+<td><div>51618000</div></td>
+<td><div>PharmDr. Jindřich Šmíd </div></td>
+<td><div>Dolní Podluží </div></td>
+<td><div>Dolní Podluží 432</div></td>
+<td><div>407 55</div></td>
+<td><div>412 379 188</div></td>
+<td><div>0</div></td>
+<td><div>info@lekarna-varnsdorf.eu</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L Na Karlovině</div></td>
+<td><div>65995380</div></td>
+<td><div>65456000001</div></td>
+<td><div>65456000</div></td>
+<td><div>PharmDr. Dagmar Šilarová </div></td>
+<td><div>Dolní Roveň </div></td>
+<td><div>Dolní Roveň 103</div></td>
+<td><div>533 71</div></td>
+<td><div>466 688 493</div></td>
+<td><div>0</div></td>
+<td><div>lekarna.roven@seznam.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L. Dobromysl</div></td>
+<td><div>84995260</div></td>
+<td><div>84990351002</div></td>
+<td><div>84990351</div></td>
+<td><div>PharmDr. Jarmila Fendrychová </div></td>
+<td><div>Dolní Rožínka</div></td>
+<td><div>Dolní Rožínka 65</div></td>
+<td><div>592 51</div></td>
+<td><div>566 520 638</div></td>
+<td><div>0</div></td>
+<td><div>lekarnadobromysl@seznam.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L U Nemocnice</div></td>
+<td><div>68995250</div></td>
+<td><div>68626000001</div></td>
+<td><div>68626000</div></td>
+<td><div>Mgr. Dana Houdková </div></td>
+<td><div>Dolní Újezd </div></td>
+<td><div>Dolní Újezd 454</div></td>
+<td><div>569 61</div></td>
+<td><div>461 631 849</div></td>
+<td><div>0</div></td>
+<td><div>vydejna.du@seznam.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L NIKA</div></td>
+<td><div>66995270</div></td>
+<td><div>66259000001</div></td>
+<td><div>66259000</div></td>
+<td><div>Mgr. Martina Bačinová </div></td>
+<td><div>Doudleby nad Orlicí</div></td>
+<td><div>Dukelská 91</div></td>
+<td><div>517 42</div></td>
+<td><div>603 162 463</div></td>
+<td><div>494 544 477</div></td>
+<td><div>lekarnanika@seznam.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L Centrum</div></td>
+<td><div>77995280</div></td>
+<td><div>77615000001</div></td>
+<td><div>77615000</div></td>
+<td><div>Mgr. Jana Hubíková </div></td>
+<td><div>Dřevohostice</div></td>
+<td><div>Náměstí 13</div></td>
+<td><div>751 14</div></td>
+<td><div>581 711 021</div></td>
+<td><div>0</div></td>
+<td><div>oovldvh@seznam.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L SVITAVA</div></td>
+<td><div>71995490</div></td>
+<td><div>71331000001</div></td>
+<td><div>71331000</div></td>
+<td><div>Mgr. Hana Pospíšilová </div></td>
+<td><div>Drnovice</div></td>
+<td><div>Drnovice 111</div></td>
+<td><div>683 04</div></td>
+<td><div>606 645 890</div></td>
+<td><div>0</div></td>
+<td><div>lekarna-svitava@seznam.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - Lékárna Na Náměstí</div></td>
+<td><div>50995040</div></td>
+<td><div>50936000002</div></td>
+<td><div>50936000</div></td>
+<td><div>PharmDr. Karel Branč </div></td>
+<td><div>Dubá</div></td>
+<td><div>náměstí T.G.M. 139</div></td>
+<td><div>471 41</div></td>
+<td><div>487 870 139</div></td>
+<td><div>0</div></td>
+<td><div>lek.duba@seznam.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L Máj v.o.s.</div></td>
+<td><div>32995120</div></td>
+<td><div>32025000001</div></td>
+<td><div>32025000</div></td>
+<td><div>Mgr. Šárka Briezstienská </div></td>
+<td><div>Dubné </div></td>
+<td><div>Dubné 34</div></td>
+<td><div>373 84</div></td>
+<td><div>387 992 503</div></td>
+<td><div>0</div></td>
+<td><div></div></td>
+<td><div>http://www.lekarna-dubne.cz</div></td>
+</tr>
+<tr>
+<td><div>OOVL Dvorce </div></td>
+<td><div>85995300</div></td>
+<td><div>85031000003</div></td>
+<td><div>85031000</div></td>
+<td><div>Mgr.  Marcela  Suchá </div></td>
+<td><div>Dvorce</div></td>
+<td><div>Náměstí 13</div></td>
+<td><div>793 68</div></td>
+<td><div>554 725 668</div></td>
+<td><div></div></td>
+<td><div>marcelasu@seznam.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL -  L V Aleji</div></td>
+<td><div>27995190</div></td>
+<td><div>27631000001</div></td>
+<td><div>27631000</div></td>
+<td><div>Mgr. Dagmar Bukačová </div></td>
+<td><div>Dymokury</div></td>
+<td><div>1. Máje 99</div></td>
+<td><div>289 01</div></td>
+<td><div>322 312 473</div></td>
+<td><div>0</div></td>
+<td><div>lekarna@valeji.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L Centrum</div></td>
+<td><div>44995390</div></td>
+<td><div>44322000001</div></td>
+<td><div>44322000</div></td>
+<td><div>Mgr. Libuše  Wolfová </div></td>
+<td><div>Dýšina</div></td>
+<td><div>Jižní 214</div></td>
+<td><div>330 02</div></td>
+<td><div>377 233 118</div></td>
+<td><div>0</div></td>
+<td><div>vydejna.dysina@email.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L Rychaltice</div></td>
+<td><div>86995730</div></td>
+<td><div>86320000003</div></td>
+<td><div>86320000</div></td>
+<td><div>Mgr. Simona Dostálková </div></td>
+<td><div>Fryčovice </div></td>
+<td><div>Fryčovice 83</div></td>
+<td><div>739 45</div></td>
+<td><div>558 432 282</div></td>
+<td><div></div></td>
+<td><div>vydejnafrycovice@tiscali.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L Nemocnice Český Krumlov</div></td>
+<td><div>33995010</div></td>
+<td><div>33101000002</div></td>
+<td><div>33101000</div></td>
+<td><div>PharmDr. Jaroslav Prokopius </div></td>
+<td><div>Frymburk</div></td>
+<td><div>Frymburk 193</div></td>
+<td><div>382 79</div></td>
+<td><div>777 468 803</div></td>
+<td><div>0</div></td>
+<td><div>frymburk@nemck.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L Na Náměstí</div></td>
+<td><div>60995040</div></td>
+<td><div>60995012000</div></td>
+<td><div>60995012</div></td>
+<td><div>Mgr. Lenka Stejskalová </div></td>
+<td><div>Habry</div></td>
+<td><div>Pražská 283</div></td>
+<td><div>582 81</div></td>
+<td><div>569 441 212</div></td>
+<td><div>0</div></td>
+<td><div>lekarna.habry@email.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - Hodonice</div></td>
+<td><div>83995210</div></td>
+<td><div>83637000001</div></td>
+<td><div>83637000</div></td>
+<td><div>PharmDr. Jarmila  Tuhá </div></td>
+<td><div>Hodonice</div></td>
+<td><div>Obecní 287</div></td>
+<td><div>671 25</div></td>
+<td><div>515 294 585</div></td>
+<td><div></div></td>
+<td><div>hodonice@lekarnanatura.cz</div></td>
+<td><div>http://www.lekarnanatura.cz</div></td>
+</tr>
+<tr>
+<td><div>OOVL - L U Českého lva</div></td>
+<td><div>52995060</div></td>
+<td><div>52512000001</div></td>
+<td><div>52512000</div></td>
+<td><div>RNDr. Eva Eisertová </div></td>
+<td><div>Hora Svatého Šebestiána </div></td>
+<td><div>Hora Svatého Šebestiána 2</div></td>
+<td><div>431 82</div></td>
+<td><div>474 333 730</div></td>
+<td><div></div></td>
+<td><div>lekarna.cv@centrum.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L Nová lékárna</div></td>
+<td><div>64995290</div></td>
+<td><div>64617000001</div></td>
+<td><div>64617000</div></td>
+<td><div>Mgr. Věra Junková </div></td>
+<td><div>Hořičky </div></td>
+<td><div>Hořičky 89</div></td>
+<td><div>552 05</div></td>
+<td><div>732 887 785</div></td>
+<td><div>0</div></td>
+<td><div>vera.junkova@tiscali.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L U Růže</div></td>
+<td><div>89995060</div></td>
+<td><div>89219000001</div></td>
+<td><div>89219000</div></td>
+<td><div>Mgr. Jarmila Škrabalová </div></td>
+<td><div>Horka nad Moravou</div></td>
+<td><div>náměstí Osvobození 31/46</div></td>
+<td><div>783 35</div></td>
+<td><div>585 313 393, 730 152 252</div></td>
+<td><div>0</div></td>
+<td><div>lekarnauruze@seznam.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L U Sv. Kateřiny</div></td>
+<td><div>35995120</div></td>
+<td><div>35610000001</div></td>
+<td><div>35610000</div></td>
+<td><div>Mgr. Michaela Kešnerová </div></td>
+<td><div>Horní Cerekev</div></td>
+<td><div>Tyršova 239</div></td>
+<td><div>394 03</div></td>
+<td><div>565 396 202</div></td>
+<td><div>0</div></td>
+<td><div>vydejnahc@lekarnapocatky.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L Lékárna Ave Maria</div></td>
+<td><div>61995690</div></td>
+<td><div>61559000002</div></td>
+<td><div>61559000</div></td>
+<td><div>Mgr. Hana Bělíková </div></td>
+<td><div>Horní Maršov </div></td>
+<td><div>Třída Josefa II. 78</div></td>
+<td><div>542 26</div></td>
+<td><div>499 422 629</div></td>
+<td><div>0</div></td>
+<td><div>lekarna.horni.maršov@email.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - Lékárny</div></td>
+<td><div>80995310</div></td>
+<td><div>80431000000</div></td>
+<td><div>80431000</div></td>
+<td><div>Mgr. Irena Lavičková </div></td>
+<td><div>Horní Němčí</div></td>
+<td><div>Horní Němčí 113</div></td>
+<td><div>687 64</div></td>
+<td><div>728 869 712</div></td>
+<td><div>0</div></td>
+<td><div></div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L U Bílého anděla s.r.o.</div></td>
+<td><div>83995030</div></td>
+<td><div>83625000001</div></td>
+<td><div>83625000</div></td>
+<td><div>Mgr. Hana Bauerová </div></td>
+<td><div>Hostěradice </div></td>
+<td><div>Hostěradice 20</div></td>
+<td><div>671 71</div></td>
+<td><div>515 333 690</div></td>
+<td><div>0</div></td>
+<td><div>lekarna.hosteradice@seznam.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L U Slunce</div></td>
+<td><div>55995120</div></td>
+<td><div>55473000001</div></td>
+<td><div>55473000</div></td>
+<td><div>Mgr. Olina Pospíšilová </div></td>
+<td><div>Hoštka</div></td>
+<td><div>nám. Svobody 112</div></td>
+<td><div>411 72</div></td>
+<td><div>416 810 825</div></td>
+<td><div>0</div></td>
+<td><div>lekarna.hostka@seznam.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L U Tří zvonků</div></td>
+<td><div>21995220</div></td>
+<td><div>21324000001</div></td>
+<td><div>21324000</div></td>
+<td><div>Mgr. Alena Červenková </div></td>
+<td><div>Hostomice</div></td>
+<td><div>Tyršovo nám. 225</div></td>
+<td><div>267 24</div></td>
+<td><div>311 583 099</div></td>
+<td><div></div></td>
+<td><div>vydejna.hostomice@email.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L Radbuza</div></td>
+<td><div>40995010</div></td>
+<td><div>40309000000</div></td>
+<td><div>40309000</div></td>
+<td><div>PharmDr. Milena Cikánová </div></td>
+<td><div>Hostouň u Horšovského Týna</div></td>
+<td><div>Chodské nám. 72</div></td>
+<td><div>345 25</div></td>
+<td><div>379 496 111</div></td>
+<td><div>0</div></td>
+<td><div>lekarnabelanr@seznam.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL Hovorany</div></td>
+<td><div>75995770</div></td>
+<td><div>75654000001</div></td>
+<td><div>75654000</div></td>
+<td><div>Mgr. Jiří Kvasnička </div></td>
+<td><div>Hovorany</div></td>
+<td><div>Hovorany 761</div></td>
+<td><div>696 12</div></td>
+<td><div>774 439 242</div></td>
+<td><div>0</div></td>
+<td><div>lekarna.hovorany@gmail.com</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L Farmacum</div></td>
+<td><div>47995040</div></td>
+<td><div>47284000002</div></td>
+<td><div>47284000</div></td>
+<td><div>PharmDr. Jiří Kačírek </div></td>
+<td><div>Hrádek u Rokycan</div></td>
+<td><div>1. máje 174 </div></td>
+<td><div>338 43</div></td>
+<td><div>371 733 050</div></td>
+<td><div></div></td>
+<td><div>oovlhradek@email.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L MEDEA</div></td>
+<td><div>58995240</div></td>
+<td><div>58321000001</div></td>
+<td><div>58321000</div></td>
+<td><div>Mgr. Leona Štěpková </div></td>
+<td><div>Hrob</div></td>
+<td><div>Mírové náměstí 65</div></td>
+<td><div>417 04</div></td>
+<td><div>417 875 287</div></td>
+<td><div></div></td>
+<td><div>hrob@lekarnamedea.cz</div></td>
+<td><div>http://www.lekarnamedea.cz</div></td>
+</tr>
+<tr>
+<td><div>OOVL - L U Sv.Ducha</div></td>
+<td><div>37995080</div></td>
+<td><div>37303000000</div></td>
+<td><div>37303000</div></td>
+<td><div>Mgr. Jana Bocková </div></td>
+<td><div>Husinec</div></td>
+<td><div>Prokopovo nám.  1</div></td>
+<td><div>384 21</div></td>
+<td><div>388 331 181</div></td>
+<td><div>388 331 181</div></td>
+<td><div>lekarnahusinec@seznam.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L Na Nábřeží</div></td>
+<td><div>94995240</div></td>
+<td><div>94307000001</div></td>
+<td><div>94307000</div></td>
+<td><div>PharmDr. Lenka Hrubá </div></td>
+<td><div>Hustopeče nad Bečvou </div></td>
+<td><div>nám. Míru 21</div></td>
+<td><div>753 66</div></td>
+<td><div>581 626 171</div></td>
+<td><div></div></td>
+<td><div>info@lekarna-nanabrezi.cz</div></td>
+<td><div>http://www.lekarna-nanabrezi.cz</div></td>
+</tr>
+<tr>
+<td><div>OOVL - L Panax</div></td>
+<td><div>94995320</div></td>
+<td><div>94341000001</div></td>
+<td><div>94341000</div></td>
+<td><div>PharmDr. Mirjana Kováčová </div></td>
+<td><div>Jablunka</div></td>
+<td><div>Jablůnka 365</div></td>
+<td><div>756 23</div></td>
+<td><div>571 452 254</div></td>
+<td><div></div></td>
+<td><div>vydejna.jablunka@iol.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L SELMA</div></td>
+<td><div>88995200</div></td>
+<td><div>88995018000</div></td>
+<td><div>88995018</div></td>
+<td><div>Mgr. Eliška Foldynová </div></td>
+<td><div>Jakubčovice nad Odrou</div></td>
+<td><div>Zdravotnická 116</div></td>
+<td><div>742 36</div></td>
+<td><div>777 136 433</div></td>
+<td><div></div></td>
+<td><div>eliska.foldynova@email.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L U Anděla</div></td>
+<td><div>61995570</div></td>
+<td><div>61572000002</div></td>
+<td><div>61572000</div></td>
+<td><div>Mgr. Alena Podnecká </div></td>
+<td><div>Janské Lázně</div></td>
+<td><div>Černohorská 85</div></td>
+<td><div>542 25 </div></td>
+<td><div>499 828 450</div></td>
+<td><div>0</div></td>
+<td><div>lekarna.janske.lazne@email.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L U svaté Alžběty</div></td>
+<td><div>83995120</div></td>
+<td><div>83638000001</div></td>
+<td><div>83638000</div></td>
+<td><div>Mgr. Jaroslava Hrdová </div></td>
+<td><div>Jaroslavice </div></td>
+<td><div>Jaroslavice 99</div></td>
+<td><div>671 28</div></td>
+<td><div>721 468 812</div></td>
+<td><div>0</div></td>
+<td><div>jaroslavahrdova@seznam.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L Benediktin</div></td>
+<td><div>83995280</div></td>
+<td><div>83634000001</div></td>
+<td><div>83634000</div></td>
+<td><div>PharmDr. Olga Vejlupková </div></td>
+<td><div>Jevišovice</div></td>
+<td><div>Jevišovice 346</div></td>
+<td><div>671 53</div></td>
+<td><div>515 294 490</div></td>
+<td><div></div></td>
+<td><div>lekarna@benediktin.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L U sv.Bartoloměje</div></td>
+<td><div>93995540</div></td>
+<td><div>93995069001</div></td>
+<td><div>93995069</div></td>
+<td><div>RNDr. Vladimír Pacold </div></td>
+<td><div>Jindřichov </div></td>
+<td><div>Jindřichov 92</div></td>
+<td><div>788 23</div></td>
+<td><div>606 331 989</div></td>
+<td><div>0</div></td>
+<td><div>pacold@volny.cz,ludek.rybka@email.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L SCARABEUS</div></td>
+<td><div>049954000</div></td>
+<td><div>28142000000</div></td>
+<td><div>28142000</div></td>
+<td><div>Mgr. Jana Fišerová </div></td>
+<td><div>Jirny</div></td>
+<td><div>Tovární 19</div></td>
+<td><div>250 90</div></td>
+<td><div>281 012 698</div></td>
+<td><div>0</div></td>
+<td><div>lekarna.jirny@seznam.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L U Českého lva</div></td>
+<td><div>24995100</div></td>
+<td><div>24605000001</div></td>
+<td><div>24605000</div></td>
+<td><div>Mgr. Martina Janáčková </div></td>
+<td><div>Kácov</div></td>
+<td><div>Jirsíkova 79</div></td>
+<td><div>285 09</div></td>
+<td><div>327 324 100</div></td>
+<td><div>0</div></td>
+<td><div>hruzickova@tiscali.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L Arnika</div></td>
+<td><div>38995010</div></td>
+<td><div>38995003003</div></td>
+<td><div>38995003</div></td>
+<td><div>RNDr. Dana Francová </div></td>
+<td><div>Kasejovice</div></td>
+<td><div>U Radnice 99</div></td>
+<td><div>335 44</div></td>
+<td><div>371 595 108</div></td>
+<td><div>0</div></td>
+<td><div>lekarna-arnika@iol.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L Na Vyšehradě</div></td>
+<td><div>46995050</div></td>
+<td><div>46674000000</div></td>
+<td><div>46674000</div></td>
+<td><div>PharmDr. Hana Kübellová </div></td>
+<td><div>Kaznějov</div></td>
+<td><div>Na Komárově 105</div></td>
+<td><div>331 51</div></td>
+<td><div>373 332 210</div></td>
+<td><div></div></td>
+<td><div>lekarna.kaznejov@seznam.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L U Zlatého lva</div></td>
+<td><div>26995140</div></td>
+<td><div>26995018000</div></td>
+<td><div>26995018</div></td>
+<td><div>PharmDr. Miroslava Puncmanová </div></td>
+<td><div>Kněžmost</div></td>
+<td><div>Na rynku 6</div></td>
+<td><div>294 02</div></td>
+<td><div>326 784 837</div></td>
+<td><div>0</div></td>
+<td><div>lekarnamh@seznam.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - Lékárny Velké Bílovice</div></td>
+<td><div>74995280</div></td>
+<td><div>74699000000</div></td>
+<td><div>74699000</div></td>
+<td><div>PharmDr. Hana Kolářová </div></td>
+<td><div>Kobylí </div></td>
+<td><div>Kobylí 722</div></td>
+<td><div>691 10</div></td>
+<td><div>519 323 510</div></td>
+<td><div>0</div></td>
+<td><div>lekarnakobyli@iex.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL Kojetice</div></td>
+<td><div>79995020</div></td>
+<td><div>79047000001</div></td>
+<td><div>79047000</div></td>
+<td><div>PharmDr. Eva Mikolášová </div></td>
+<td><div>Kojetice</div></td>
+<td><div>Kojetice 82</div></td>
+<td><div>675 23</div></td>
+<td><div>604 940 582</div></td>
+<td><div>0</div></td>
+<td><div>lekarna.kojetice@seznam.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L ASTER PHARMA</div></td>
+<td><div>43995290</div></td>
+<td><div>43635000001</div></td>
+<td><div>43635000</div></td>
+<td><div>Mgr. Vlasta Fürstová </div></td>
+<td><div>Kolinec </div></td>
+<td><div>Kolinec 268</div></td>
+<td><div>341 42</div></td>
+<td><div>376 594 113</div></td>
+<td><div>0</div></td>
+<td><div>lekarna@asterpharma.cz</div></td>
+<td><div>http://www.asterpharma.cz</div></td>
+</tr>
+<tr>
+<td><div>OOVL - L U Zlaté koruny</div></td>
+<td><div>49995010</div></td>
+<td><div>49055000001</div></td>
+<td><div>49055000</div></td>
+<td><div>Mgr. Dagmar Bednářová </div></td>
+<td><div>Konstantinovy Lázně</div></td>
+<td><div>lázeňský dům Prusík č. 1</div></td>
+<td><div>349 52</div></td>
+<td><div>374 615 576</div></td>
+<td><div>0</div></td>
+<td><div>lekdej@atlas.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L U Slovanské lípy</div></td>
+<td><div>35995090</div></td>
+<td><div>35605001000</div></td>
+<td><div>35605001</div></td>
+<td><div>PharmDr. Eva Hájková </div></td>
+<td><div>Košetice </div></td>
+<td><div>Košetice 253</div></td>
+<td><div>394 22</div></td>
+<td><div>720 274 845</div></td>
+<td><div>0</div></td>
+<td><div>lipa@mybox.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L U NÁDRAŽÍ</div></td>
+<td><div>74995020</div></td>
+<td><div>74793000001</div></td>
+<td><div>74793000</div></td>
+<td><div>PharmDr. Lada Machová </div></td>
+<td><div>Kostice u Břeclavě</div></td>
+<td><div>nám. Osvobození 14</div></td>
+<td><div>691 52</div></td>
+<td><div>519 338 199</div></td>
+<td><div>0</div></td>
+<td><div>lekarna.kostice@quick.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - Kralice  </div></td>
+<td><div>79995230</div></td>
+<td><div>84990352001</div></td>
+<td><div>84990352</div></td>
+<td><div>PharmDr. Marcela Blahová </div></td>
+<td><div>Kralice nad Oslavou</div></td>
+<td><div>V Zahradách 319</div></td>
+<td><div>675 73</div></td>
+<td><div>561 116 453</div></td>
+<td><div></div></td>
+<td><div>aura-bites@seznam.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L Zámecká lékárna Slavkov, spol. s r.o.</div></td>
+<td><div>81995230</div></td>
+<td><div>81711000001</div></td>
+<td><div>81711000</div></td>
+<td><div>PharmDr. Monika Foltínová </div></td>
+<td><div>Křenovice</div></td>
+<td><div>Školní 535</div></td>
+<td><div>683 52</div></td>
+<td><div>547 723 020</div></td>
+<td><div>0</div></td>
+<td><div>lekarna.krenovice@centrum.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L Lékárna U sv. Antonína</div></td>
+<td><div>31995150</div></td>
+<td><div>31995220001</div></td>
+<td><div>31995220</div></td>
+<td><div>PharmDr. Magdalena Riegerová </div></td>
+<td><div>Lány</div></td>
+<td><div>Ke Hřbitovu 174/22</div></td>
+<td><div>270 61</div></td>
+<td><div>313 513 970</div></td>
+<td><div>0</div></td>
+<td><div>lekarna.lany@seznam.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L Lékárna u Jakuba</div></td>
+<td><div>41995640</div></td>
+<td><div>41671000001</div></td>
+<td><div>41671000</div></td>
+<td><div>RNDr. Libuše Průchová </div></td>
+<td><div>Lázně Kynžvart</div></td>
+<td><div>nám. Republiky 2</div></td>
+<td><div>354 91</div></td>
+<td><div>634 620 058</div></td>
+<td><div></div></td>
+<td><div>lekarna.pharma.spa@gmail.com</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L Lannova tř.s.r.o.</div></td>
+<td><div>32995060</div></td>
+<td><div>32019000000</div></td>
+<td><div>32019000</div></td>
+<td><div>RNDr. Zdislava Šnorková </div></td>
+<td><div>Ledenice</div></td>
+<td><div>Náměstí 86</div></td>
+<td><div>373 11</div></td>
+<td><div>387 995 496</div></td>
+<td><div>0</div></td>
+<td><div>lekled@volny.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - Lékárna Cyrmex</div></td>
+<td><div>74995070</div></td>
+<td><div>74823000001</div></td>
+<td><div>74823000</div></td>
+<td><div>PharmDr. Pavlína Dostálová </div></td>
+<td><div>Lednice</div></td>
+<td><div>Pekařská 75</div></td>
+<td><div>691 44</div></td>
+<td><div>519 340 513</div></td>
+<td><div></div></td>
+<td><div>lednice@cyrmex.cz</div></td>
+<td><div>http://www.cyrmex.cz</div></td>
+</tr>
+<tr>
+<td><div>OOVL - Lékárny s.r.o.</div></td>
+<td><div>61995010</div></td>
+<td><div>61512000001</div></td>
+<td><div>61512000</div></td>
+<td><div>PharmDr. Antonín Hájek </div></td>
+<td><div>Libčany </div></td>
+<td><div>Libčany 113</div></td>
+<td><div>503 22</div></td>
+<td><div>495 585 371</div></td>
+<td><div>0</div></td>
+<td><div>lekarna.chlumec@wo.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L Centrum</div></td>
+<td><div>25995290</div></td>
+<td><div>25995106000</div></td>
+<td><div>25995106</div></td>
+<td><div>Mgr. Marta Krpálková </div></td>
+<td><div>Liběchov </div></td>
+<td><div>Liběchov 142</div></td>
+<td><div>277 21</div></td>
+<td><div>315 697 672</div></td>
+<td><div>0</div></td>
+<td><div></div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L Nad Kapličkou</div></td>
+<td><div>55995360</div></td>
+<td><div>55479000001</div></td>
+<td><div>55479000</div></td>
+<td><div>Mgr. Pavel Brabec </div></td>
+<td><div>Liběšice </div></td>
+<td><div>Liběšice 70</div></td>
+<td><div>411 46</div></td>
+<td><div>724 174 876</div></td>
+<td><div>0</div></td>
+<td><div>nadkaplickou@seznam.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L Skalka</div></td>
+<td><div>25995270</div></td>
+<td><div>25995305000</div></td>
+<td><div>25995305</div></td>
+<td><div>PharmDr. Vladimíra Bártová </div></td>
+<td><div>Líbeznice</div></td>
+<td><div>Martinova 142</div></td>
+<td><div>250 65</div></td>
+<td><div>283 980 085</div></td>
+<td><div>283 980 085</div></td>
+<td><div>alaska2@seznam.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L U Zlatého hada</div></td>
+<td><div>46995070</div></td>
+<td><div>46686000003</div></td>
+<td><div>46686000</div></td>
+<td><div>Mgr. Václav Novák </div></td>
+<td><div>Líně</div></td>
+<td><div>Plzeňská 145</div></td>
+<td><div>330 21</div></td>
+<td><div>377 911 108</div></td>
+<td><div>0</div></td>
+<td><div>zlatyhad@raz-dva.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L Zbraslavská lékárna</div></td>
+<td><div>05995500</div></td>
+<td><div>05995052001</div></td>
+<td><div>05995052</div></td>
+<td><div>PharmDr. Stanislav Vůjtěch </div></td>
+<td><div>Lipno nad Vltavou</div></td>
+<td><div>Lipno nad Vltavou 81</div></td>
+<td><div>382 78</div></td>
+<td><div>602 637 407</div></td>
+<td><div></div></td>
+<td><div>s.vujtech@seznam.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L HORŇÁCKÁ s.r.o.</div></td>
+<td><div>75995130</div></td>
+<td><div>75656000000</div></td>
+<td><div>75656000</div></td>
+<td><div>Mgr. Gabriela Spáčilová </div></td>
+<td><div>Lipov </div></td>
+<td><div>Lipov 337</div></td>
+<td><div>696 72</div></td>
+<td><div>518 338 089</div></td>
+<td><div>0</div></td>
+<td><div>vydejnalipov@centrum.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL Litultovice</div></td>
+<td><div>90995360</div></td>
+<td><div>90522000001</div></td>
+<td><div>90522000</div></td>
+<td><div>Mgr. Radim Gregořica </div></td>
+<td><div>Litultovice</div></td>
+<td><div>Litultovice 1</div></td>
+<td><div>747 55</div></td>
+<td><div>553 668 458</div></td>
+<td><div></div></td>
+<td><div>litultovice@drmax.cz</div></td>
+<td><div>http://drmax.cz</div></td>
+</tr>
+<tr>
+<td><div>OOVL - L U Lidušky (Praha 4)</div></td>
+<td><div>04995570</div></td>
+<td><div>04995098001</div></td>
+<td><div>04995098</div></td>
+<td><div>RNDr. Miroslava Maršíková </div></td>
+<td><div>Lochovice </div></td>
+<td><div>Nádražní 308</div></td>
+<td><div>267 23</div></td>
+<td><div>311 514 801</div></td>
+<td><div>0</div></td>
+<td><div>lekarnalochovice@seznam.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L U Černého koně</div></td>
+<td><div>21995240</div></td>
+<td><div>21327000001</div></td>
+<td><div>21327000</div></td>
+<td><div>Mgr. Miluše Sakačová </div></td>
+<td><div>Loděnice u Berouna</div></td>
+<td><div>Husovo nám. 299</div></td>
+<td><div>267 12</div></td>
+<td><div>311 671 063</div></td>
+<td><div></div></td>
+<td><div>lekarna.lodenice@razdva.cz</div></td>
+<td><div>http://lekarna.zdravcentra.cz/ukone/</div></td>
+</tr>
+<tr>
+<td><div>OOVL - L Krajinská lékárna</div></td>
+<td><div>93995120</div></td>
+<td><div>93995003001</div></td>
+<td><div>93995003</div></td>
+<td><div>PharmDr. Jiří Stejskal </div></td>
+<td><div>Loučná nad Desnou </div></td>
+<td><div>Loučná nad Desnou 57</div></td>
+<td><div>788 11</div></td>
+<td><div>585 214 877,583 214 487</div></td>
+<td><div>0</div></td>
+<td><div>krajinska.lekarna@tiscali.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L Nová lékárna</div></td>
+<td><div>68995190</div></td>
+<td><div>68638000007</div></td>
+<td><div>68638000</div></td>
+<td><div>PharmDr. Dana Chládková </div></td>
+<td><div>Lubná </div></td>
+<td><div>Lubná 327</div></td>
+<td><div>569 63</div></td>
+<td><div>461 745 303</div></td>
+<td><div>0</div></td>
+<td><div>novalekarna@post.cz</div></td>
+<td><div>http://www.nova-lekarna.cz</div></td>
+</tr>
+<tr>
+<td><div>OOVL  lékárna Valdštejnova</div></td>
+<td><div>41995030</div></td>
+<td><div>41649000001</div></td>
+<td><div>41649000</div></td>
+<td><div>PharmDr. Ivana Peterková </div></td>
+<td><div>Luby</div></td>
+<td><div>Malé náměstí 35</div></td>
+<td><div>351 37</div></td>
+<td><div>355 335 446</div></td>
+<td><div></div></td>
+<td><div>lekarna.valdstejnova@seznam.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L Mariánská</div></td>
+<td><div>20995070</div></td>
+<td><div>20860000002</div></td>
+<td><div>20860000</div></td>
+<td><div>PharmDr. Marie Smutná </div></td>
+<td><div>Lukavec </div></td>
+<td><div>nám. Sv. Václava 298</div></td>
+<td><div>394 26</div></td>
+<td><div>777 744 252</div></td>
+<td><div>0</div></td>
+<td><div>lekarnamarianska@seznam.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L Fryšták</div></td>
+<td><div>82995690</div></td>
+<td><div>82617000003</div></td>
+<td><div>82617000</div></td>
+<td><div>Mgr. Lucia Janíková Mutafovová </div></td>
+<td><div>Lukov</div></td>
+<td><div>Lukov 309</div></td>
+<td><div>763 17</div></td>
+<td><div>604 709 759</div></td>
+<td><div>0</div></td>
+<td><div>lekarna.lukov@seznam.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L Panacea</div></td>
+<td><div>39995210</div></td>
+<td><div>39620000001</div></td>
+<td><div>39620000</div></td>
+<td><div>PharmDr. Jana Somogyiová </div></td>
+<td><div>Malšice </div></td>
+<td><div>Malšice 56</div></td>
+<td><div>391 75</div></td>
+<td><div>381 277 082</div></td>
+<td><div>0</div></td>
+<td><div>lekarnapanaceatabor@seznam.cz</div></td>
+<td><div>http://lekarna.zdravcentra.cz/panaceatabor/</div></td>
+</tr>
+<tr>
+<td><div>OOVL - L Velká Bystřice</div></td>
+<td><div>89995270</div></td>
+<td><div>89272000000</div></td>
+<td><div>89272000</div></td>
+<td><div>PharmDr. Helena Třísková </div></td>
+<td><div>Mariánské Údolí</div></td>
+<td><div>Olomoucká 69</div></td>
+<td><div>783 66</div></td>
+<td><div>585 163 700</div></td>
+<td><div>0</div></td>
+<td><div>lekarnamu@centrum.cz</div></td>
+<td><div>http://lekarnavb.webpark.cz/lekarna_marianske_udoli.html</div></td>
+</tr>
+<tr>
+<td><div>OOVL - L Nepomuk</div></td>
+<td><div>45995170</div></td>
+<td><div>45604000001</div></td>
+<td><div>45604000</div></td>
+<td><div>PharmDr. Anna Hánová </div></td>
+<td><div>Měčín</div></td>
+<td><div>Farní 43</div></td>
+<td><div>340 37</div></td>
+<td><div>606 910 382</div></td>
+<td><div>0</div></td>
+<td><div>a.hanova@quick.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L Hippokrates</div></td>
+<td><div>68995180</div></td>
+<td><div>68634000001</div></td>
+<td><div>68634000</div></td>
+<td><div>Mgr. Jana Podhorná </div></td>
+<td><div>Městečko Trnávka</div></td>
+<td><div>č.p. 5</div></td>
+<td><div>569 41</div></td>
+<td><div>461 329 600, 603 507 133</div></td>
+<td><div>0</div></td>
+<td><div>lekarna.hippo@tiscali.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L Lékárna Nové Město nad Metují</div></td>
+<td><div>64995460</div></td>
+<td><div>64606000002</div></td>
+<td><div>64606000</div></td>
+<td><div>Mgr. Beáta Gondeková  </div></td>
+<td><div>Meziměstí</div></td>
+<td><div>Školní 196</div></td>
+<td><div>549 81</div></td>
+<td><div>491 483 528</div></td>
+<td><div>0</div></td>
+<td><div>suk.martin@atlas.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L Lékárna U České koruny</div></td>
+<td><div>63995060</div></td>
+<td><div>63315000001</div></td>
+<td><div>63315000</div></td>
+<td><div>PharmDr. Jana Roušarová </div></td>
+<td><div>Miletín</div></td>
+<td><div>K. J. Erbena 99</div></td>
+<td><div>507 71</div></td>
+<td><div>493 693 033</div></td>
+<td><div>0</div></td>
+<td><div>lekarnalb@seznam.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L Nemocnice</div></td>
+<td><div>39995370</div></td>
+<td><div>39602000002</div></td>
+<td><div>39602000</div></td>
+<td><div>Mgr. Helena Pokojová </div></td>
+<td><div>Mladá Vožice</div></td>
+<td><div>Aloise Mareše 180</div></td>
+<td><div>391 43</div></td>
+<td><div>381 607 600</div></td>
+<td><div>381 607 600</div></td>
+<td><div>lekarna@nemta.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L Hradisková</div></td>
+<td><div>70995430</div></td>
+<td><div>70650000001</div></td>
+<td><div>70650000</div></td>
+<td><div>Mgr. Vasyl  Tysyachny </div></td>
+<td><div>Mladkov</div></td>
+<td><div>Mladkov 124</div></td>
+<td><div>561 67</div></td>
+<td><div>464 620 422</div></td>
+<td><div>0</div></td>
+<td><div>lekarna@hradiskova.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L SALVIA</div></td>
+<td><div>79995070</div></td>
+<td><div>79035000001</div></td>
+<td><div>79035000</div></td>
+<td><div>Mgr. Marie Janovská </div></td>
+<td><div>Mohelno </div></td>
+<td><div>Mohelno 407</div></td>
+<td><div>675 75</div></td>
+<td><div>568 642 167</div></td>
+<td><div>0</div></td>
+<td><div>salvia@tiscali.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L Dr.Max Šlapanice</div></td>
+<td><div>73995100</div></td>
+<td><div>73633000001</div></td>
+<td><div>73633000</div></td>
+<td><div>PharmDr. Jana Poláčková </div></td>
+<td><div>Mokrá-Horákov </div></td>
+<td><div>Mokrá-Horákov 357</div></td>
+<td><div>664 04</div></td>
+<td><div>544 252 131</div></td>
+<td><div></div></td>
+<td><div>mokra@drmax.cz</div></td>
+<td><div>http://www.drmax.cz</div></td>
+</tr>
+<tr>
+<td><div>OOVL - L Plumlov</div></td>
+<td><div>78995060</div></td>
+<td><div>78537000000</div></td>
+<td><div>78537000</div></td>
+<td><div>PharmDr. Jitka Linhartová </div></td>
+<td><div>Mostkovice </div></td>
+<td><div>Mostkovice 239</div></td>
+<td><div>798 02</div></td>
+<td><div>582 364 188</div></td>
+<td><div>0</div></td>
+<td><div>j.linhartova@post.cz</div></td>
+<td><div>http://www.lekarny.zdravcentra.cz/plumlov/</div></td>
+</tr>
+<tr>
+<td><div>OOVL - L Na Kanadě</div></td>
+<td><div>86995760</div></td>
+<td><div>86330000001</div></td>
+<td><div>86330000</div></td>
+<td><div>Mgr. Danuta Zubková </div></td>
+<td><div>Mosty u Jablunkova </div></td>
+<td><div>Mosty u Jablunkova 788</div></td>
+<td><div>739 98</div></td>
+<td><div>558 331 114</div></td>
+<td><div>558 331 114</div></td>
+<td><div>lek.nakanade@tiscali.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL Mukařov</div></td>
+<td><div>08995370</div></td>
+<td><div>08995070001</div></td>
+<td><div>08995070</div></td>
+<td><div>Mgr. Mariana Zein Mortada </div></td>
+<td><div>Mukařov</div></td>
+<td><div>Pražská 230</div></td>
+<td><div>251 62</div></td>
+<td><div>776 340 150</div></td>
+<td><div>0</div></td>
+<td><div></div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L Lékárna</div></td>
+<td><div>47995110</div></td>
+<td><div>47287000001</div></td>
+<td><div>47287000</div></td>
+<td><div>PharmDr. Jitka Říšová </div></td>
+<td><div>Mýto v Čechách </div></td>
+<td><div>Mýto v Čechách 537</div></td>
+<td><div>338 05</div></td>
+<td><div>371 750 710</div></td>
+<td><div></div></td>
+<td><div>lekarna.myto@seznam.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L Pacov</div></td>
+<td><div>35995070</div></td>
+<td><div>35995000001</div></td>
+<td><div>35995000</div></td>
+<td><div>Mgr. Jan Kolář </div></td>
+<td><div>Načeradec </div></td>
+<td><div>Načeradec 104</div></td>
+<td><div>257 08</div></td>
+<td><div>731 469 251</div></td>
+<td><div>0</div></td>
+<td><div></div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - Náměšťská lékárna</div></td>
+<td><div>77995090</div></td>
+<td><div>77631000002</div></td>
+<td><div>77631000</div></td>
+<td><div>PharmDr. Bohumila Kučíková </div></td>
+<td><div>Náměšť na Hané</div></td>
+<td><div>T.G.Masaryka 250</div></td>
+<td><div>783 44</div></td>
+<td><div>585 754 359</div></td>
+<td><div>0</div></td>
+<td><div>lekarna.namest@seznam.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L U Zámku</div></td>
+<td><div>30995030</div></td>
+<td><div>30995012001</div></td>
+<td><div>30995012</div></td>
+<td><div>PharmDr. Jaroslav Polách </div></td>
+<td><div>Nečín </div></td>
+<td><div>Nečín 115</div></td>
+<td><div>262 13</div></td>
+<td><div>724 264 905</div></td>
+<td><div>0</div></td>
+<td><div></div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L POLIKLINIKA</div></td>
+<td><div>90995340</div></td>
+<td><div>90491000000</div></td>
+<td><div>90491000</div></td>
+<td><div>PharmDr. Božena Švajdová </div></td>
+<td><div>Neplachovice</div></td>
+<td><div>Zámecká 206</div></td>
+<td><div>747 74</div></td>
+<td><div>553 666 037</div></td>
+<td><div>553 666 040</div></td>
+<td><div></div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L U kašny</div></td>
+<td><div>80995170</div></td>
+<td><div>80462000001</div></td>
+<td><div>80462000</div></td>
+<td><div>RNDr. Jana Mlčková </div></td>
+<td><div>Nezdenice </div></td>
+<td><div>Nezdenice 114</div></td>
+<td><div>687 32</div></td>
+<td><div>572 692 021</div></td>
+<td><div>0</div></td>
+<td><div>-</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L Tilia</div></td>
+<td><div>34995130</div></td>
+<td><div>34604000003</div></td>
+<td><div>34604000</div></td>
+<td><div>Mgr. Tomáš Hrbek </div></td>
+<td><div>Nová Včelnice</div></td>
+<td><div>Na Hliněnce 457</div></td>
+<td><div>378 42</div></td>
+<td><div>384 394 225</div></td>
+<td><div>0</div></td>
+<td><div>lekarna.vcelnice@seznam.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L U Černého orla</div></td>
+<td><div>64995340</div></td>
+<td><div>64626000001</div></td>
+<td><div>64626000</div></td>
+<td><div>PharmDr. Vlasta Bergerová </div></td>
+<td><div>Nový Hrádek</div></td>
+<td><div>Rokolská 123</div></td>
+<td><div>549 22</div></td>
+<td><div>491 423 378</div></td>
+<td><div>0</div></td>
+<td><div>lekarna.novyhradek@seznam.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L Pharm-K s.r.o.</div></td>
+<td><div>93995010</div></td>
+<td><div>93995005001</div></td>
+<td><div>93995005</div></td>
+<td><div>Mgr. Hana Koupilová </div></td>
+<td><div>Nový Malín</div></td>
+<td><div>Nový Malín 540</div></td>
+<td><div>788 03</div></td>
+<td><div>774 813 801, 775 219 125</div></td>
+<td><div>0</div></td>
+<td><div>pharm-k@seznam.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L U Anděla strážce</div></td>
+<td><div>39995130</div></td>
+<td><div>39604000001</div></td>
+<td><div>39604000</div></td>
+<td><div>PharmDr. Dana Valášková </div></td>
+<td><div>Opařany  121</div></td>
+<td><div>Budova DLP</div></td>
+<td><div>391 61</div></td>
+<td><div>381 287 445</div></td>
+<td><div>0</div></td>
+<td><div>lekoparany@seznam.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L Lékárna U Zlatého lva</div></td>
+<td><div>61995160</div></td>
+<td><div>65636000000</div></td>
+<td><div>65636000</div></td>
+<td><div>PharmDr. Martin Mašát </div></td>
+<td><div>Opatovice nad Labem</div></td>
+<td><div>Ke Hřišti 163</div></td>
+<td><div>533 45</div></td>
+<td><div>466 301 804</div></td>
+<td><div>0</div></td>
+<td><div>opatovice@ipcnet.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L Český Dub</div></td>
+<td><div>54995020</div></td>
+<td><div>54312000001</div></td>
+<td><div>54312000</div></td>
+<td><div>Mgr. Hana Bernardová </div></td>
+<td><div>Osečná</div></td>
+<td><div>Svatovítské náměstí 103</div></td>
+<td><div>463 52</div></td>
+<td><div>485 179 041</div></td>
+<td><div>0</div></td>
+<td><div>l.ceskydub@volny.cz</div></td>
+<td><div>http://www.lekarnaceskydub.cz</div></td>
+</tr>
+<tr>
+<td><div>OOVL Nová Bělá</div></td>
+<td><div>91995128</div></td>
+<td><div>91995810001</div></td>
+<td><div>91995810</div></td>
+<td><div>Mgr.  Dagmar Foltová </div></td>
+<td><div>Ostrava - Nová Bělá</div></td>
+<td><div>Krmelínská 523/305</div></td>
+<td><div>724 00</div></td>
+<td><div>555130139</div></td>
+<td><div></div></td>
+<td><div>lekarnaostravice@seznam.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L Lékárna Vysoké Veselí</div></td>
+<td><div>63995130</div></td>
+<td><div>63340000000</div></td>
+<td><div>63340000</div></td>
+<td><div>PharmDr. Alice Dvořáková </div></td>
+<td><div>Ostroměř</div></td>
+<td><div>T.G. Masaryka 127</div></td>
+<td><div>507 52</div></td>
+<td><div>493 034 017</div></td>
+<td><div>0</div></td>
+<td><div>lekarna.ostromer@seznam.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - Lékárny</div></td>
+<td><div>80995550</div></td>
+<td><div>80471000001</div></td>
+<td><div>80471000</div></td>
+<td><div>Mgr. Silvie Hodulíková </div></td>
+<td><div>Ostrožská Lhota</div></td>
+<td><div>Burešín 500</div></td>
+<td><div>687 23</div></td>
+<td><div>518 387 555</div></td>
+<td><div>0</div></td>
+<td><div></div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - Lékárny</div></td>
+<td><div>73995130</div></td>
+<td><div>73604000001</div></td>
+<td><div>73604000</div></td>
+<td><div>Mgr. Marie Jadrná </div></td>
+<td><div>Otnice</div></td>
+<td><div>Školní 47</div></td>
+<td><div>683 54</div></td>
+<td><div>544 240 986</div></td>
+<td><div>0</div></td>
+<td><div></div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL L - Lékárna Semtín</div></td>
+<td><div>65995210</div></td>
+<td><div>65118000000</div></td>
+<td><div>65118000</div></td>
+<td><div>aff. Tomáš Lébl </div></td>
+<td><div>Pardubice - Ohrazenice</div></td>
+<td><div>Semtínská 56</div></td>
+<td><div>533 53 </div></td>
+<td><div></div></td>
+<td><div></div></td>
+<td><div></div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L 203-02</div></td>
+<td><div>22995130</div></td>
+<td><div>22995044001</div></td>
+<td><div>22995044</div></td>
+<td><div>PharmDr. František Špacír </div></td>
+<td><div>Pchery</div></td>
+<td><div>5.května 47</div></td>
+<td><div>273 08</div></td>
+<td><div>312 520 445</div></td>
+<td><div>312 520 445</div></td>
+<td><div>lekarnapchery@volny.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L Krásná Hora nad Vltavou</div></td>
+<td><div>30995430</div></td>
+<td><div>30995036003</div></td>
+<td><div>30995036</div></td>
+<td><div>Mgr. Lucie Dvořáková </div></td>
+<td><div>Petrovice</div></td>
+<td><div>Petrovice 49</div></td>
+<td><div>262 55</div></td>
+<td><div>318 856 014</div></td>
+<td><div>0</div></td>
+<td><div>lekarnapetrovice@centrum.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - Lékárna</div></td>
+<td><div>90995020</div></td>
+<td><div>90086000000</div></td>
+<td><div>90086000</div></td>
+<td><div>PharmDr. Alena Šubertová </div></td>
+<td><div>Píšť </div></td>
+<td><div>Píšť 225</div></td>
+<td><div>747 18</div></td>
+<td><div>553 650 116</div></td>
+<td><div>553 650 116</div></td>
+<td><div>lekarna.chuchelna@centrum.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L Na Pražské</div></td>
+<td><div>43995060</div></td>
+<td><div>43631000000</div></td>
+<td><div>43631000</div></td>
+<td><div>Mgr. Pavel Voráč </div></td>
+<td><div>Plánice</div></td>
+<td><div>nám. Fr. Křižíka 167</div></td>
+<td><div>340 34</div></td>
+<td><div>376 394 227</div></td>
+<td><div>0</div></td>
+<td><div>lekarna.planice@seznam.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L Zdraví Zábřeh</div></td>
+<td><div>93995410</div></td>
+<td><div>93995054000</div></td>
+<td><div>93995054</div></td>
+<td><div>PharmDr. Jana Kubíčková </div></td>
+<td><div>Postřelmov</div></td>
+<td><div>Tovární 501</div></td>
+<td><div>789 69</div></td>
+<td><div>583 418 206</div></td>
+<td><div>0</div></td>
+<td><div>lekarna.zdravi@iol.cz</div></td>
+<td><div>http://www.lekarnazdravi.cz/</div></td>
+</tr>
+<tr>
+<td><div>OOVL - L U Černého orla</div></td>
+<td><div>66995370</div></td>
+<td><div>66159000003</div></td>
+<td><div>66159000</div></td>
+<td><div>RNDr. Jaroslava Chocholoušová </div></td>
+<td><div>Potštejn</div></td>
+<td><div>K Nádraží 317</div></td>
+<td><div>517 43 </div></td>
+<td><div>494 541 314</div></td>
+<td><div>0</div></td>
+<td><div>lekarnaucernehoorla@cbox.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L Čech s.r.o.</div></td>
+<td><div>62995070</div></td>
+<td><div>62618000001</div></td>
+<td><div>62618000</div></td>
+<td><div>Mgr. Boleslav Čech </div></td>
+<td><div>Prachovice</div></td>
+<td><div>Školní 116</div></td>
+<td><div>538 04</div></td>
+<td><div>469 633 431</div></td>
+<td><div>0</div></td>
+<td><div></div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L U Krále Jiřího - 114</div></td>
+<td><div>10995080</div></td>
+<td><div>10995036000</div></td>
+<td><div>10995036</div></td>
+<td><div>Mgr. Marie Klobučarová </div></td>
+<td><div>Praha 10 - Kolovraty</div></td>
+<td><div>Mírová 106</div></td>
+<td><div>103 00</div></td>
+<td><div>267 710 255</div></td>
+<td><div>0</div></td>
+<td><div>lekarnakolovraty@seznam.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L Studentský dům</div></td>
+<td><div>06995490</div></td>
+<td><div>06995063001</div></td>
+<td><div>06995063</div></td>
+<td><div>PharmDr. Petr Greguš </div></td>
+<td><div>Praha 4 - Šeberov</div></td>
+<td><div>K Hrnčířům 263</div></td>
+<td><div>149 00</div></td>
+<td><div>222 766 912, 774 701 801</div></td>
+<td><div>0</div></td>
+<td><div>lekarnaseberov@gmail.com</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L Kbely</div></td>
+<td><div>09995520</div></td>
+<td><div>08995069000</div></td>
+<td><div>08995069</div></td>
+<td><div>Mgr. Daniela Vondráčková </div></td>
+<td><div>Praha 8 - Dolní Chabry</div></td>
+<td><div>Ústecká 551/57</div></td>
+<td><div>182 00</div></td>
+<td><div>734 362 803</div></td>
+<td><div>0</div></td>
+<td><div>lekarna.kbely@centrum.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L NA POLIKLINICE</div></td>
+<td><div>49995040</div></td>
+<td><div>49058000001</div></td>
+<td><div>49058000</div></td>
+<td><div>PharmDr. Jana Kučerová </div></td>
+<td><div>Přimda</div></td>
+<td><div>Borská 243</div></td>
+<td><div>348 06</div></td>
+<td><div>374 796 406</div></td>
+<td><div>374 796 406</div></td>
+<td><div>kucerova.oovl@seznam.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L V Hloubce</div></td>
+<td><div>67995190</div></td>
+<td><div>67341000001</div></td>
+<td><div>67341000</div></td>
+<td><div>Mgr. Markéta Krčálová </div></td>
+<td><div>Příšovice </div></td>
+<td><div>Příšovice 185</div></td>
+<td><div>463 46</div></td>
+<td><div>482 728 447</div></td>
+<td><div>0</div></td>
+<td><div>lekarna.prisovice@ok.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L U Soudu</div></td>
+<td><div>58995340</div></td>
+<td><div>58332000001</div></td>
+<td><div>58332000</div></td>
+<td><div>PharmDr. Roman Čech </div></td>
+<td><div>Proboštov</div></td>
+<td><div>Nám. Svobody 29/4</div></td>
+<td><div>417 12</div></td>
+<td><div>417 560 791</div></td>
+<td><div>0</div></td>
+<td><div>lekarnaprobostov@seznam.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - Lékárny</div></td>
+<td><div>94995290</div></td>
+<td><div>94319000001</div></td>
+<td><div>94319000</div></td>
+<td><div>Mgr. Irena Svačinová </div></td>
+<td><div>Prostřední Bečva</div></td>
+<td><div>Dům služeb 430</div></td>
+<td><div>756 56</div></td>
+<td><div>571 654 433</div></td>
+<td><div>571 654 433</div></td>
+<td><div>lekarnabecva@email.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L Konice s.r.o.</div></td>
+<td><div>78995020</div></td>
+<td><div>78538000001</div></td>
+<td><div>78538000</div></td>
+<td><div>RNDr. Ludmila Dvorská </div></td>
+<td><div>Protivanov </div></td>
+<td><div>Náměstí 31</div></td>
+<td><div>798 48</div></td>
+<td><div>582 399 277</div></td>
+<td><div>0</div></td>
+<td><div>lekarna.protivanov@iex.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L Jarov Pharmedol</div></td>
+<td><div>3995810</div></td>
+<td><div>29995050001</div></td>
+<td><div>29995050</div></td>
+<td><div>PharmDr. Blanka Bednářová </div></td>
+<td><div>Průhonice</div></td>
+<td><div>Květnové náměstí 7</div></td>
+<td><div>252 43</div></td>
+<td><div>251 553 413</div></td>
+<td><div>0</div></td>
+<td><div>vivo@volny.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L Podivín</div></td>
+<td><div>74995100</div></td>
+<td><div>74687000000</div></td>
+<td><div>74687000</div></td>
+<td><div>Mgr. Čestmír Nedorost </div></td>
+<td><div>Rakvice</div></td>
+<td><div>Náměstí 221</div></td>
+<td><div>691 03</div></td>
+<td><div>519 349 799</div></td>
+<td><div>0</div></td>
+<td><div>lekarnarakvice@seznam.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L SALVIA</div></td>
+<td><div>77995010</div></td>
+<td><div>77610000001</div></td>
+<td><div>77610000</div></td>
+<td><div>PharmDr. Dagmar Malénková </div></td>
+<td><div>Ratiboř</div></td>
+<td><div>Ratiboř 75</div></td>
+<td><div>756 21</div></td>
+<td><div>571 115 376</div></td>
+<td><div>0</div></td>
+<td><div>lekarna.salvia@valachnet.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L U Romedia</div></td>
+<td><div>65995350</div></td>
+<td><div>65409000000</div></td>
+<td><div>65409000</div></td>
+<td><div>Mgr. Jana Nadrchalová </div></td>
+<td><div>Řečany nad Labem</div></td>
+<td><div>Obránců míru 141</div></td>
+<td><div>533 13</div></td>
+<td><div>466 266 724</div></td>
+<td><div>0</div></td>
+<td><div>kalvachova.lydie@seznam.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L Heřmánková lékárna</div></td>
+<td><div>72995193</div></td>
+<td><div>75675000001</div></td>
+<td><div>75675000</div></td>
+<td><div>Mgr. Ivana Kantková </div></td>
+<td><div>Rohatec</div></td>
+<td><div>Revoluční 500/2</div></td>
+<td><div>696 01 </div></td>
+<td><div>607 023 722</div></td>
+<td><div>0</div></td>
+<td><div>brnolekarna@seznam.cz</div></td>
+<td><div>http://www.hermankovalekarna.cz</div></td>
+</tr>
+<tr>
+<td><div>OOVL - L U Zlatého raka</div></td>
+<td><div>65995200</div></td>
+<td><div>65508000001</div></td>
+<td><div>65508000</div></td>
+<td><div>Mgr. Eva Stárková </div></td>
+<td><div>Rohovládová Bělá</div></td>
+<td><div>U zdravotního střediska 33</div></td>
+<td><div>533 43</div></td>
+<td><div>602 647 818</div></td>
+<td><div>0</div></td>
+<td><div>zlrak@volny.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL-L Dr.Max Chodov, U Porcelánky</div></td>
+<td><div>48995380</div></td>
+<td><div>48638000001</div></td>
+<td><div>48638000</div></td>
+<td><div>Mgr. Roman Šimůnek </div></td>
+<td><div>Rotava</div></td>
+<td><div>Sídliště 603</div></td>
+<td><div>357 01</div></td>
+<td><div>0</div></td>
+<td><div></div></td>
+<td><div></div></td>
+<td><div>http://www.drmax.cz</div></td>
+</tr>
+<tr>
+<td><div>OOVL Rouchovany</div></td>
+<td><div>79995030</div></td>
+<td><div>79044000001</div></td>
+<td><div>79044000</div></td>
+<td><div>Mgr. Václav Salač </div></td>
+<td><div>Rouchovany</div></td>
+<td><div>Rouchovany 329</div></td>
+<td><div>675 55</div></td>
+<td><div>724 535 065</div></td>
+<td><div>0</div></td>
+<td><div>info@eulekarna.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - Lékárny Křinec</div></td>
+<td><div>27995010</div></td>
+<td><div>27607000000</div></td>
+<td><div>27607000</div></td>
+<td><div>PharmDr. Jana Záveská </div></td>
+<td><div>Rožďalovice</div></td>
+<td><div>Husova 146</div></td>
+<td><div>289 34</div></td>
+<td><div>325 593 131</div></td>
+<td><div>0</div></td>
+<td><div>lekarna.krinec@email.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL  Frontera - L Zelená hvězda</div></td>
+<td><div>41995460</div></td>
+<td><div>41629000000</div></td>
+<td><div>41629000</div></td>
+<td><div>PharmDr. Petr Koudelka </div></td>
+<td><div>Rozvadov</div></td>
+<td><div>Střeble 21</div></td>
+<td><div>348 06</div></td>
+<td><div>374 625 446</div></td>
+<td><div>374 625 446</div></td>
+<td><div>rozvadov@lekarnici95.cz</div></td>
+<td><div>http://www.lekarnici95.cz</div></td>
+</tr>
+<tr>
+<td><div>OOVL - L U Zlaté koruny</div></td>
+<td><div>69995050</div></td>
+<td><div>69604000000</div></td>
+<td><div>69604000</div></td>
+<td><div>Mgr. Jana Machková </div></td>
+<td><div>Rudník </div></td>
+<td><div>Rudník 340</div></td>
+<td><div>543 72</div></td>
+<td><div>736 743 349</div></td>
+<td><div>0</div></td>
+<td><div>uzlatekoruny@email.cz</div></td>
+<td><div>http://www.lekarnahostinne.cz</div></td>
+</tr>
+<tr>
+<td><div>OOVL - Lékárna U Bílého anděla</div></td>
+<td><div>68995320</div></td>
+<td><div>68624000001</div></td>
+<td><div>68624000</div></td>
+<td><div>PharmDr. Šárka Glocová </div></td>
+<td><div>Šebetov</div></td>
+<td><div></div></td>
+<td><div>679 35</div></td>
+<td><div>461 325 600</div></td>
+<td><div>0</div></td>
+<td><div>jevlek@tiscali.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L FREMLOVA APOTHECA s.r.o.</div></td>
+<td><div>89995320</div></td>
+<td><div>89270000000</div></td>
+<td><div>89270000</div></td>
+<td><div>Mgr. Miloš Freml </div></td>
+<td><div>Senice na Hané</div></td>
+<td><div>Kout 26</div></td>
+<td><div>783 45</div></td>
+<td><div>585 429 427</div></td>
+<td><div>0</div></td>
+<td><div>milos.freml@telecom.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L U Bílého anděla</div></td>
+<td><div>35995230</div></td>
+<td><div>35612000001</div></td>
+<td><div>35612000</div></td>
+<td><div>PharmDr. Miroslav  Štěcha </div></td>
+<td><div>Senožaty</div></td>
+<td><div>Senožaty 33</div></td>
+<td><div>394 56</div></td>
+<td><div>565 534 300</div></td>
+<td><div>0</div></td>
+<td><div>stecha@pvtnet.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L Samaritán</div></td>
+<td><div>32995550</div></td>
+<td><div>32038000001</div></td>
+<td><div>32038000</div></td>
+<td><div>Mgr. Jana Hanousková </div></td>
+<td><div>Ševětín</div></td>
+<td><div>Sokolská 87</div></td>
+<td><div>373 63</div></td>
+<td><div>733 351 010</div></td>
+<td><div>0</div></td>
+<td><div>sevetin@devetsil.cz</div></td>
+<td><div>http://www.devetsil.cz</div></td>
+</tr>
+<tr>
+<td><div>OOVL - Lékárna u s. Mikuláše, Šitbořice</div></td>
+<td><div>73995370</div></td>
+<td><div>73626000002</div></td>
+<td><div>73626000</div></td>
+<td><div>Mgr. Alvera Zárubová </div></td>
+<td><div>Šitbořice</div></td>
+<td><div>Divácká 621</div></td>
+<td><div>691 76</div></td>
+<td><div>777 773 259</div></td>
+<td><div></div></td>
+<td><div>lekarna.sitborice@seznam.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L Evropská</div></td>
+<td><div>41995250</div></td>
+<td><div>41654000001</div></td>
+<td><div>41654000</div></td>
+<td><div>PharmDr.  Eugenie Chromá </div></td>
+<td><div>Skalná</div></td>
+<td><div>Sportovní 9</div></td>
+<td><div>351 34</div></td>
+<td><div>354 422 411</div></td>
+<td><div>0</div></td>
+<td><div>lekarna.cheb@tiscali.cz</div></td>
+<td><div>http://lekarna.zdravcentra.cz/cheb/</div></td>
+</tr>
+<tr>
+<td><div>OOVL - L Na Špitálku</div></td>
+<td><div>68995160</div></td>
+<td><div>68632000000</div></td>
+<td><div>68632000</div></td>
+<td><div>PharmDr. Lenka Šafářová </div></td>
+<td><div>Sloupnice </div></td>
+<td><div>Sloupnice 188</div></td>
+<td><div>565 53</div></td>
+<td><div>465 549 767</div></td>
+<td><div>0</div></td>
+<td><div>0</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L U Bílého páva</div></td>
+<td><div>61995190</div></td>
+<td><div>51579000001</div></td>
+<td><div>51579000</div></td>
+<td><div>Mgr. Mario Čeladník </div></td>
+<td><div>Smidary </div></td>
+<td><div>Smidary 100</div></td>
+<td><div>503 53</div></td>
+<td><div>495 496 614</div></td>
+<td><div>0</div></td>
+<td><div>mario2@volny.cz          </div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L Mirošov</div></td>
+<td><div>47995010</div></td>
+<td><div>47300000001</div></td>
+<td><div>47300000</div></td>
+<td><div>PharmDr. Michaela Petrová </div></td>
+<td><div>Spálené Poříčí</div></td>
+<td><div>nám. Svobody 137</div></td>
+<td><div>335 61</div></td>
+<td><div>724 721 771, 371 783 079</div></td>
+<td><div>371 783 079</div></td>
+<td><div>lekarna.mirosov@tiscali.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L Devětsil</div></td>
+<td><div>69995310</div></td>
+<td><div>69615000001</div></td>
+<td><div>69615000</div></td>
+<td><div>PharmDr. Martin Mikšovský </div></td>
+<td><div>Špindlerův Mlýn</div></td>
+<td><div>Bedřichov 22</div></td>
+<td><div>543 51</div></td>
+<td><div>499 433 335</div></td>
+<td><div>0</div></td>
+<td><div>krakonosova.lekarna@9sil.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL L - Lékárna U Zlaté číše</div></td>
+<td><div>63995090  </div></td>
+<td><div>63336000001</div></td>
+<td><div>63336000</div></td>
+<td><div>Mgr. Bronislava  Adamová </div></td>
+<td><div>Stará Paka</div></td>
+<td><div>Revoluční 358</div></td>
+<td><div>507 91 </div></td>
+<td><div>493 522 250</div></td>
+<td><div>0</div></td>
+<td><div>adamovabrona@seznam.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L U sv. Jiří s.r.o.</div></td>
+<td><div>86995010</div></td>
+<td><div>86320000001</div></td>
+<td><div>86320000</div></td>
+<td><div>Mgr. Petra Dokoupilová </div></td>
+<td><div>Stará Ves nad Ondřejnicí </div></td>
+<td><div>Stará Ves nad Ondřejnicí 202</div></td>
+<td><div>739 23</div></td>
+<td><div>558 435 473</div></td>
+<td><div></div></td>
+<td><div>lekarnasvjiri@quick.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L V Podhradí</div></td>
+<td><div>73995950</div></td>
+<td><div>84990351004</div></td>
+<td><div>84990351</div></td>
+<td><div>PharmDr. Alice Klepárníková </div></td>
+<td><div>Štěpánov nad Svratkou</div></td>
+<td><div>Štěpánov nad Svratkou 13</div></td>
+<td><div>592 63</div></td>
+<td><div>566 522 648</div></td>
+<td><div>0</div></td>
+<td><div>lekarnadobromysl@seznam.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL L - OC Hypernova </div></td>
+<td><div>61995590</div></td>
+<td><div>61563000001</div></td>
+<td><div>61563000</div></td>
+<td><div>PharmDr. Daniela Chaloupková </div></td>
+<td><div>Stěžery</div></td>
+<td><div>Lipová 380</div></td>
+<td><div>503 21</div></td>
+<td><div>577 700 814</div></td>
+<td><div>0</div></td>
+<td><div>lekarna3@sija.cz</div></td>
+<td><div>http://www.moje-lekarna.cz</div></td>
+</tr>
+<tr>
+<td><div>OOVL - L Dahlia</div></td>
+<td><div>82995190</div></td>
+<td><div>82629000001</div></td>
+<td><div>82629000</div></td>
+<td><div>Mgr. Jana Pinďáková </div></td>
+<td><div>Štítná nad Vláří </div></td>
+<td><div>Štítná nad Vláří 72</div></td>
+<td><div>763 33</div></td>
+<td><div>577 336 618</div></td>
+<td><div>0</div></td>
+<td><div>vydejnastitna@seznam.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL Štoky</div></td>
+<td><div>76995280</div></td>
+<td><div>76044000002</div></td>
+<td><div>76044000</div></td>
+<td><div>PharmDr. Kateřina Gerhardová </div></td>
+<td><div>Štoky</div></td>
+<td><div>Štoky 116</div></td>
+<td><div>582 53</div></td>
+<td><div>777 707 796</div></td>
+<td><div></div></td>
+<td><div>zverokruhst@seznam.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL Stonava</div></td>
+<td><div>87995900</div></td>
+<td><div>87370000001</div></td>
+<td><div>87370000</div></td>
+<td><div>PharmDr. Monika Groborzová MBA</div></td>
+<td><div>Stonava</div></td>
+<td><div>Stonava 350</div></td>
+<td><div>735 34</div></td>
+<td><div></div></td>
+<td><div></div></td>
+<td><div>groborzova@khn.cz</div></td>
+<td><div>http://www.khn.cz</div></td>
+</tr>
+<tr>
+<td><div>OOVL - L Centrum</div></td>
+<td><div>88995240</div></td>
+<td><div>88995101001</div></td>
+<td><div>88995101</div></td>
+<td><div>PharmDr. Vladislava Stehlíková </div></td>
+<td><div>Štramberk</div></td>
+<td><div>Zauličí 184</div></td>
+<td><div>742 66</div></td>
+<td><div>556 852 424</div></td>
+<td><div></div></td>
+<td><div>lekarna.stramberk@tiscali.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L U bílého lva</div></td>
+<td><div>28995320</div></td>
+<td><div>28133000001</div></td>
+<td><div>28133000</div></td>
+<td><div>PharmDr. Lucie Nedopilová </div></td>
+<td><div>Strančice</div></td>
+<td><div>náves Četníka J. Bojase 541</div></td>
+<td><div>251 63</div></td>
+<td><div>323 618 338, 608 553 393</div></td>
+<td><div>0</div></td>
+<td><div>strancice@ubileholva.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L U Českého lva</div></td>
+<td><div>55995100</div></td>
+<td><div>55466000001</div></td>
+<td><div>55466000</div></td>
+<td><div>RNDr. Petr Fiala </div></td>
+<td><div>Straškov-Vodochody </div></td>
+<td><div>Straškov-Vodochody 292</div></td>
+<td><div>411 84</div></td>
+<td><div>416 871 064</div></td>
+<td><div>0</div></td>
+<td><div>lek.langer@raz-dva.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L Diana</div></td>
+<td><div>34995050</div></td>
+<td><div>34604000000</div></td>
+<td><div>34604000</div></td>
+<td><div>PharmDr. Dana Cachová </div></td>
+<td><div>Stráž nad Nežárkou</div></td>
+<td><div>E.Destinové 8</div></td>
+<td><div>378 02</div></td>
+<td><div>384 389 564</div></td>
+<td><div>0</div></td>
+<td><div>lekarnastraz@seznam.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L J.G.Mendela</div></td>
+<td><div>72995460</div></td>
+<td><div>72995013000</div></td>
+<td><div>72995013</div></td>
+<td><div>RNDr. Iva Mendelová </div></td>
+<td><div>Střelice</div></td>
+<td><div>Školní 2</div></td>
+<td><div>664 47</div></td>
+<td><div>547 239 001</div></td>
+<td><div>0</div></td>
+<td><div>vydejna.strelice@volny.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L Na Sídlišti</div></td>
+<td><div>37995180</div></td>
+<td><div>37314000001</div></td>
+<td><div>37314000</div></td>
+<td><div>Mgr. Jitka Zábranská </div></td>
+<td><div>Strunkovice nad Blanicí </div></td>
+<td><div>Strunkovice nad Blanicí 86</div></td>
+<td><div>384 26</div></td>
+<td><div>388 327 043</div></td>
+<td><div>0</div></td>
+<td><div>lek.strunk@seznam.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L Montana</div></td>
+<td><div>67995250</div></td>
+<td><div>67348000000</div></td>
+<td><div>67348000</div></td>
+<td><div>Mgr. Renata Kuželová </div></td>
+<td><div>Studenec  </div></td>
+<td><div>Studenec  370</div></td>
+<td><div>512 33</div></td>
+<td><div>481 595 235</div></td>
+<td><div>481 595 235</div></td>
+<td><div>lekarna.montana@seznam.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - Lékárny</div></td>
+<td><div>80995390</div></td>
+<td><div>80446000000</div></td>
+<td><div>80446000</div></td>
+<td><div>Mgr. Jana Lipková </div></td>
+<td><div>Šumice </div></td>
+<td><div>Šumice 100</div></td>
+<td><div>687 31</div></td>
+<td><div>572 692 040</div></td>
+<td><div>0</div></td>
+<td><div>lekarna.sumice@seznam.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L U Nemocnice</div></td>
+<td><div>75995480</div></td>
+<td><div>75638000000</div></td>
+<td><div>75638000</div></td>
+<td><div>Mgr. Vladimíra Jančová </div></td>
+<td><div>Svatobořice-Mistřín</div></td>
+<td><div>Kovářská 653</div></td>
+<td><div>696 04</div></td>
+<td><div>518 620 044</div></td>
+<td><div>0</div></td>
+<td><div></div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L LEBO č.1</div></td>
+<td><div>71995440</div></td>
+<td><div>71301000001</div></td>
+<td><div>71301000</div></td>
+<td><div>PharmDr. Ludmila Minxová </div></td>
+<td><div>Svitávka</div></td>
+<td><div>Školní 457</div></td>
+<td><div>679 32</div></td>
+<td><div>515 538 989</div></td>
+<td><div>0</div></td>
+<td><div>svitavka@lebo.cz</div></td>
+<td><div>http://www.lebo.cz</div></td>
+</tr>
+<tr>
+<td><div>OOVL - L Tilia</div></td>
+<td><div>42995200</div></td>
+<td><div>42291000001</div></td>
+<td><div>42291000</div></td>
+<td><div>PharmDr. Hana Sedláčková </div></td>
+<td><div>Teplá</div></td>
+<td><div>Klášterní 237</div></td>
+<td><div>364 61</div></td>
+<td><div>353 392 228</div></td>
+<td><div>0</div></td>
+<td><div>lekarnatepla@seznam.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L Holýšovská lékárna</div></td>
+<td><div>40995430</div></td>
+<td><div>45617000003</div></td>
+<td><div>45617000</div></td>
+<td><div>Mgr. Jitka Burešová </div></td>
+<td><div>Tlučná</div></td>
+<td><div>Hlavní 48</div></td>
+<td><div>330 26</div></td>
+<td><div>373 034 295</div></td>
+<td><div></div></td>
+<td><div>tlucna@devetsil.cz</div></td>
+<td><div>http://www.devetsil.cz</div></td>
+</tr>
+<tr>
+<td><div>OOVL Traplice</div></td>
+<td><div>80995610</div></td>
+<td><div>80477000001</div></td>
+<td><div>80477000</div></td>
+<td><div>Mgr. Jarmila Křiváková </div></td>
+<td><div>Traplice</div></td>
+<td><div>Traplice 109</div></td>
+<td><div>687 04</div></td>
+<td><div>572 585 157</div></td>
+<td><div>0</div></td>
+<td><div>lekarnababice@seznam.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L Na náměstí</div></td>
+<td><div>55995140</div></td>
+<td><div>55453000000</div></td>
+<td><div>55453000</div></td>
+<td><div>PharmDr. Daniel Šturm </div></td>
+<td><div>Třebívlice</div></td>
+<td><div>Komenského 129</div></td>
+<td><div>411 15</div></td>
+<td><div>602 431 535</div></td>
+<td><div>0</div></td>
+<td><div>vydejna.tb@seznam.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L U Salamandra</div></td>
+<td><div>62995110</div></td>
+<td><div>62642000001</div></td>
+<td><div>62642000</div></td>
+<td><div>PharmDr Ivana Wagnerová </div></td>
+<td><div>Trhová Kamenice</div></td>
+<td><div>Hlinecká 64</div></td>
+<td><div>539 52</div></td>
+<td><div>469 333 625</div></td>
+<td><div>0</div></td>
+<td><div>lekarnatk@seznam.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L U Salvátora</div></td>
+<td><div>89995250</div></td>
+<td><div>89271000000</div></td>
+<td><div>89271000</div></td>
+<td><div>Mgr. Oldřiška Nakládalová </div></td>
+<td><div>Troubelice </div></td>
+<td><div>Troubelice 385</div></td>
+<td><div>783 83</div></td>
+<td><div>585 001 229</div></td>
+<td><div>0</div></td>
+<td><div>pnakladal@volny.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL Tršice</div></td>
+<td><div>89995870</div></td>
+<td><div>89965000001</div></td>
+<td><div>89965000</div></td>
+<td><div>PharmDr. Lukáš Dobrovolný </div></td>
+<td><div>Tršice</div></td>
+<td><div>Tršice 28</div></td>
+<td><div>783 57</div></td>
+<td><div>585 957 728</div></td>
+<td><div>0</div></td>
+<td><div>trsice@drmax.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL Újezd</div></td>
+<td><div>90995170</div></td>
+<td><div>90543000001</div></td>
+<td><div>90543000</div></td>
+<td><div>Mgr. Kateřina Zrníková </div></td>
+<td><div>Újezd</div></td>
+<td><div>Újezd 18</div></td>
+<td><div>763 25</div></td>
+<td><div>577 158 484</div></td>
+<td><div></div></td>
+<td><div>vydejnaujezd@seznam.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L Modrá lékárna</div></td>
+<td><div>22995290</div></td>
+<td><div>22995050001</div></td>
+<td><div>22995050</div></td>
+<td><div>Mgr.  Klára Šetková </div></td>
+<td><div>Unhošť</div></td>
+<td><div>Braškov, Dukelská 51</div></td>
+<td><div>273 51</div></td>
+<td><div>604 559 991</div></td>
+<td><div></div></td>
+<td><div>modra.lekarna@centrum.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L U sv. Anny</div></td>
+<td><div>93995460</div></td>
+<td><div>93995071001</div></td>
+<td><div>93995071</div></td>
+<td><div>Mgr. Zdeňka Očenášková </div></td>
+<td><div>Úsov</div></td>
+<td><div>nám. Míru 30</div></td>
+<td><div>789 73</div></td>
+<td><div>583 414 192</div></td>
+<td><div>0</div></td>
+<td><div>lekarna.sv.anna@seznam.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L Pod Štítem</div></td>
+<td><div>25995110</div></td>
+<td><div>25995209000</div></td>
+<td><div>25995209</div></td>
+<td><div>PharmDr. Ivana Jarešová </div></td>
+<td><div>Úžice</div></td>
+<td><div>Nádražní 200</div></td>
+<td><div>277 45</div></td>
+<td><div>315 782 128</div></td>
+<td><div>0</div></td>
+<td><div></div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L POD BŘEČŤANEM s.r.o.</div></td>
+<td><div>75995470</div></td>
+<td><div>75634000000</div></td>
+<td><div>75634000</div></td>
+<td><div>Mgr. Miroslava Grufíková </div></td>
+<td><div>Vacenovice </div></td>
+<td><div>Vacenovice 43</div></td>
+<td><div>696 06</div></td>
+<td><div>518 376 048</div></td>
+<td><div>0</div></td>
+<td><div>lekarnaratiskovice@seznam.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L Michálkovická</div></td>
+<td><div>91995060</div></td>
+<td><div>91526000000</div></td>
+<td><div>91526000</div></td>
+<td><div>PharmDr. Eva Petrášová </div></td>
+<td><div>Václavovice</div></td>
+<td><div>Vratimovská 220</div></td>
+<td><div>739 84</div></td>
+<td><div>596 828 670</div></td>
+<td><div></div></td>
+<td><div></div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL </div></td>
+<td><div>94995160</div></td>
+<td><div>94318000002</div></td>
+<td><div>94318000</div></td>
+<td><div>Mgr. Miluše Kurková </div></td>
+<td><div>Valašská Bystřice </div></td>
+<td><div>Valašská Bystřice 316</div></td>
+<td><div>756 27</div></td>
+<td><div>571 646 341</div></td>
+<td><div></div></td>
+<td><div>bystrice@rubus.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL Velehrad</div></td>
+<td><div>80995040</div></td>
+<td><div>80420000001</div></td>
+<td><div>80420000</div></td>
+<td><div>Mgr. Magdalena Čechmánková </div></td>
+<td><div>Velehrad</div></td>
+<td><div>Hradišťská 63</div></td>
+<td><div>687 06</div></td>
+<td><div>572 571 621</div></td>
+<td><div>0</div></td>
+<td><div>cechmankova@lekbuch.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L M+K Havlíček s.r.o., Lékárna Na náměstí</div></td>
+<td><div>84995220</div></td>
+<td><div>84858000001</div></td>
+<td><div>84858000</div></td>
+<td><div>Mgr. Květa Kučerová </div></td>
+<td><div>Velká Losenice</div></td>
+<td><div>Velká Losenice 11</div></td>
+<td><div>592 11</div></td>
+<td><div>566 520 300</div></td>
+<td><div>0</div></td>
+<td><div>leknanam@seznam.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - Lékárna Velká Polom</div></td>
+<td><div>91995110</div></td>
+<td><div>91995440001</div></td>
+<td><div>91995440</div></td>
+<td><div>Mgr. Jan Horák </div></td>
+<td><div>Velká Polom</div></td>
+<td><div>Opavská 101</div></td>
+<td><div>747 64</div></td>
+<td><div>553 768 188</div></td>
+<td><div></div></td>
+<td><div>polom@lekarnanazelene.cz</div></td>
+<td><div>http://www.lekarnanazelene.cz</div></td>
+</tr>
+<tr>
+<td><div>OOVL - L Nový Hrozenkov</div></td>
+<td><div>94995040</div></td>
+<td><div>94337000000</div></td>
+<td><div>94337000</div></td>
+<td><div>PharmDr. Miroslava Kučerová </div></td>
+<td><div>Velké Karlovice </div></td>
+<td><div>Velké Karlovice 130</div></td>
+<td><div>756 06</div></td>
+<td><div>571 423 455</div></td>
+<td><div></div></td>
+<td><div>lek.karlovice@seznam.cz</div></td>
+<td><div>http://www.lekarna-velkekarlovice.cz</div></td>
+</tr>
+<tr>
+<td><div>OOVL - L  Temenická</div></td>
+<td><div>93995440</div></td>
+<td><div>93995050001</div></td>
+<td><div>93995050</div></td>
+<td><div>PharmDr. Zbyněk Eger </div></td>
+<td><div>Velké Losiny</div></td>
+<td><div>Lázeňská 394</div></td>
+<td><div>788 15</div></td>
+<td><div>583 248 344</div></td>
+<td><div>0</div></td>
+<td><div>temenicka.lekarna@seznam.cz</div></td>
+<td><div>http://www.eshoplekarna.cz</div></td>
+</tr>
+<tr>
+<td><div>OOVL - L Pod Radnicí</div></td>
+<td><div>67995100</div></td>
+<td><div>67334000001</div></td>
+<td><div>67334000</div></td>
+<td><div>Mgr. Naděžda Sochová </div></td>
+<td><div>Velké Meziříčí</div></td>
+<td><div>Mostiště 93, Nem. sv. Zdislavy</div></td>
+<td><div>594 01</div></td>
+<td><div>483 100 256</div></td>
+<td><div>0</div></td>
+<td><div>lekarna.mostiste@ok.cz</div></td>
+<td><div>http://www.lekarnaturnov.cz/</div></td>
+</tr>
+<tr>
+<td><div>OOVL Velké Němčice</div></td>
+<td><div>75995840</div></td>
+<td><div>75667000003</div></td>
+<td><div>75667000</div></td>
+<td><div>Mgr. Doubravka Tabasová </div></td>
+<td><div>Velké Němčice</div></td>
+<td><div>Brněnská 87</div></td>
+<td><div>691 63</div></td>
+<td><div>519 322 721</div></td>
+<td><div>0</div></td>
+<td><div>lekarna.velkenemcice@seznam.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L Hronov</div></td>
+<td><div>64995040</div></td>
+<td><div>64606000000</div></td>
+<td><div>64606000</div></td>
+<td><div>Mgr. Stanislava Suková </div></td>
+<td><div>Velké Poříčí</div></td>
+<td><div>Krausova 459</div></td>
+<td><div>549 32</div></td>
+<td><div>491 483 855</div></td>
+<td><div>0</div></td>
+<td><div>suk.martin@atlas.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L Lékárna U Zámku</div></td>
+<td><div>23995010</div></td>
+<td><div>23307000002</div></td>
+<td><div>23307000</div></td>
+<td><div>PharmDr. Zuzana Dvořáková </div></td>
+<td><div>Velký Osek</div></td>
+<td><div>Jiráskova 355</div></td>
+<td><div>281 21</div></td>
+<td><div>321 795 820, 321 761 123</div></td>
+<td><div>0</div></td>
+<td><div>lekarnacpecky@seznam.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L Dolní Poustevna s.r.o.</div></td>
+<td><div>51995130</div></td>
+<td><div>51612000001</div></td>
+<td><div>51612000</div></td>
+<td><div>Mgr. Petr Vomáčka </div></td>
+<td><div>Velký Šenov</div></td>
+<td><div>Vilémovská 500</div></td>
+<td><div>407 78</div></td>
+<td><div>602 448 709, 606 942 058</div></td>
+<td><div>0</div></td>
+<td><div>lekarnadp@quick.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L Na středisku</div></td>
+<td><div>89995600</div></td>
+<td><div>89257000001</div></td>
+<td><div>89257000</div></td>
+<td><div>Mgr. Zdeňka  Rychlíková </div></td>
+<td><div>Velký Újezd </div></td>
+<td><div>Velký Újezd 173</div></td>
+<td><div>783 55</div></td>
+<td><div>585 358 003</div></td>
+<td><div>0</div></td>
+<td><div>lex.ujezd@volny.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L. Herba</div></td>
+<td><div>86995020</div></td>
+<td><div>86314000000</div></td>
+<td><div>86314000</div></td>
+<td><div>PharmDr. Roman Martynek </div></td>
+<td><div>Vendryně </div></td>
+<td><div>Vendryně 215</div></td>
+<td><div>739 94</div></td>
+<td><div>558 350 829</div></td>
+<td><div></div></td>
+<td><div>vendryne@volny.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L Javorník</div></td>
+<td><div>88995380</div></td>
+<td><div>88995007000</div></td>
+<td><div>88995007</div></td>
+<td><div>PharmDr. Jan Gajdůšek </div></td>
+<td><div>Veřovice </div></td>
+<td><div>Veřovice 530</div></td>
+<td><div>742 73</div></td>
+<td><div>556 857 148</div></td>
+<td><div></div></td>
+<td><div>lekarna.verovice@tiscali.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L ARNICA</div></td>
+<td><div>73995101</div></td>
+<td><div>74773000002</div></td>
+<td><div>74773000</div></td>
+<td><div>PharmDr. Jana Opršalová </div></td>
+<td><div>Višňové</div></td>
+<td><div>Višňové  127</div></td>
+<td><div>671 38</div></td>
+<td><div>515 220 224</div></td>
+<td><div>0</div></td>
+<td><div>visnove@arnicalekarna.cz</div></td>
+<td><div>http://www.arnicalekarna.cz</div></td>
+</tr>
+<tr>
+<td><div>OOVL - L U sv. Martina</div></td>
+<td><div>79995260</div></td>
+<td><div>79049000001</div></td>
+<td><div>79049000</div></td>
+<td><div>RNDr. Milan Nestrojil </div></td>
+<td><div>Vladislav </div></td>
+<td><div>Vladislav č. 76</div></td>
+<td><div>675 01</div></td>
+<td><div>739 617 937</div></td>
+<td><div>0</div></td>
+<td><div>vladislav@lekarnamartin.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L Sv.Lukáše</div></td>
+<td><div>75995510</div></td>
+<td><div>75619000000</div></td>
+<td><div>75619000</div></td>
+<td><div>Mgr. Marie Fridrichová </div></td>
+<td><div>Vnorovy</div></td>
+<td><div>Hlavní 680</div></td>
+<td><div>696 61</div></td>
+<td><div>518 328 398</div></td>
+<td><div>0</div></td>
+<td><div>charita.veseli@iex.cz</div></td>
+<td><div>http://www.veselinm.caritas.cz</div></td>
+</tr>
+<tr>
+<td><div>OOVL - "Zámecká lékárna"</div></td>
+<td><div>83995250</div></td>
+<td><div>83642000000</div></td>
+<td><div>83642000</div></td>
+<td><div>RNDr. Hana Janušová </div></td>
+<td><div>Vranov nad Dyjí </div></td>
+<td><div>Náměstí č. 47</div></td>
+<td><div>671 03</div></td>
+<td><div>513 033 053</div></td>
+<td><div>0</div></td>
+<td><div>vranov@usvatehoducha.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L Remus</div></td>
+<td><div>44995290</div></td>
+<td><div>44425000000</div></td>
+<td><div>44425000</div></td>
+<td><div>Mgr. Jitka Kováříková </div></td>
+<td><div>Všeruby</div></td>
+<td><div>Všeruby 317/1</div></td>
+<td><div>330 16</div></td>
+<td><div>377 970 964</div></td>
+<td><div></div></td>
+<td><div>vseruby@arlego.cz</div></td>
+<td><div>http://www.arlego-lekarna.cz</div></td>
+</tr>
+<tr>
+<td><div>OOVL - L u Anděla strážce</div></td>
+<td><div>64995240</div></td>
+<td><div>64628000002</div></td>
+<td><div>64628000</div></td>
+<td><div>Mgr. Michaela Jarošová </div></td>
+<td><div>Všestary </div></td>
+<td><div>Všestary 154</div></td>
+<td><div>503 12</div></td>
+<td><div>495 432 097</div></td>
+<td><div>0</div></td>
+<td><div>lekarna.vsestary@email.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L Royale</div></td>
+<td><div>09995040</div></td>
+<td><div>25995303001</div></td>
+<td><div>25995303</div></td>
+<td><div>Mgr. Ivana Pašková </div></td>
+<td><div>Všetaty</div></td>
+<td><div>T.G.Masaryka 29</div></td>
+<td><div>277 16</div></td>
+<td><div>315 696 396</div></td>
+<td><div>0</div></td>
+<td><div>lekarna.vsetaty@seznam.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL-L Urban</div></td>
+<td><div>70995340</div></td>
+<td><div>70635000001</div></td>
+<td><div>70635000</div></td>
+<td><div>Mgr. Miroslava Bednářová </div></td>
+<td><div>Výprachtice</div></td>
+<td><div>Výprachtice 175</div></td>
+<td><div>561 34</div></td>
+<td><div>601 382 814 </div></td>
+<td><div></div></td>
+<td><div>lekarna.urban@seznam.cz</div></td>
+<td><div>http://www.ilekarna.com</div></td>
+</tr>
+<tr>
+<td><div>OOVL - L Lékárna Na Poliklinice - Platan s.r.o.</div></td>
+<td><div>67995200</div></td>
+<td><div>67337000001</div></td>
+<td><div>67337000</div></td>
+<td><div>Mgr. Milena Bímová </div></td>
+<td><div>Vysoké nad Jizerou</div></td>
+<td><div>Náměstí dr. Karla Kramáře 54</div></td>
+<td><div>512 11</div></td>
+<td><div>481 321 921</div></td>
+<td><div>0</div></td>
+<td><div>lekarna.vysoke@seznam.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L U Hedviky</div></td>
+<td><div>50995120</div></td>
+<td><div>50920000001</div></td>
+<td><div>50920000</div></td>
+<td><div>Mgr. Michaela Bažantová </div></td>
+<td><div>Zákupy</div></td>
+<td><div>Mimoňská 224</div></td>
+<td><div>471 23</div></td>
+<td><div>487 857 038</div></td>
+<td><div>0</div></td>
+<td><div>lekarnazakupy@centrum.cz</div></td>
+<td><div>http://www.lekarnauhedviky.cz	</div></td>
+</tr>
+<tr>
+<td><div>OOVL - L U Zlaté koruny</div></td>
+<td><div>75995100</div></td>
+<td><div>75638000006</div></td>
+<td><div>75638000</div></td>
+<td><div>Mgr. Lea Dostálová </div></td>
+<td><div>Žarošice </div></td>
+<td><div>Žarošice 50</div></td>
+<td><div>696 34</div></td>
+<td><div>518 631 541</div></td>
+<td><div>0</div></td>
+<td><div></div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - Lékárny</div></td>
+<td><div>94995150</div></td>
+<td><div>94309000000</div></td>
+<td><div>94309000</div></td>
+<td><div>PharmDr. Karel Husák </div></td>
+<td><div>Zašová </div></td>
+<td><div>Zašová 42</div></td>
+<td><div>756 51</div></td>
+<td><div>571 634 940</div></td>
+<td><div></div></td>
+<td><div>huslenka@seznam.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L U sv. Jana Nepomuckého</div></td>
+<td><div>44995640</div></td>
+<td><div>44351000002</div></td>
+<td><div>44351000</div></td>
+<td><div>Mgr. Kateřina Schönigerová </div></td>
+<td><div>Zbůch</div></td>
+<td><div>Plzeňská 384</div></td>
+<td><div>330 22</div></td>
+<td><div>377 936 353</div></td>
+<td><div>0</div></td>
+<td><div>sabadilaoovl@seznam.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - Lékárny</div></td>
+<td><div>37995050</div></td>
+<td><div>37305000001</div></td>
+<td><div>37305000</div></td>
+<td><div>Mgr. Milan Mészáros </div></td>
+<td><div>Zdíkov </div></td>
+<td><div>Zdíkov 215</div></td>
+<td><div>384 72</div></td>
+<td><div>388 426 787</div></td>
+<td><div>0</div></td>
+<td><div></div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L U Tří slunečnic</div></td>
+<td><div>47995140</div></td>
+<td><div>21331000001</div></td>
+<td><div>21331000</div></td>
+<td><div>Mgr. Markéta  Boldy </div></td>
+<td><div>Žebrák</div></td>
+<td><div>Hradní 61</div></td>
+<td><div>267 53</div></td>
+<td><div>311 533 386</div></td>
+<td><div></div></td>
+<td><div>lekarnazebrak@iol.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L U Divadla</div></td>
+<td><div>24995020</div></td>
+<td><div>24617000001</div></td>
+<td><div>24617000</div></td>
+<td><div>Mgr. Otto Svoboda </div></td>
+<td><div>Žehušice </div></td>
+<td><div>Žehušice čp. 119</div></td>
+<td><div>285 75</div></td>
+<td><div>327 399 339</div></td>
+<td><div>0</div></td>
+<td><div>lekarna.caslav@centrum.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L Slušovice</div></td>
+<td><div>82995090</div></td>
+<td><div>82619000001</div></td>
+<td><div>82619000</div></td>
+<td><div>PharmDr. Anna Vránová </div></td>
+<td><div>Želechovice nad Dřevnicí</div></td>
+<td><div>Podřevnická 14</div></td>
+<td><div>763 11</div></td>
+<td><div>577 902 550</div></td>
+<td><div>0</div></td>
+<td><div></div></td>
+<td><div>http://lekarnaslusovice/</div></td>
+</tr>
+<tr>
+<td><div>OOVL - Lékárny Krystal</div></td>
+<td><div>76995450</div></td>
+<td><div>76136000001</div></td>
+<td><div>76136000</div></td>
+<td><div>PharmDr. Jana Zvolánková </div></td>
+<td><div>Želetava</div></td>
+<td><div>Pražská 219</div></td>
+<td><div>675 26</div></td>
+<td><div>568 441 169</div></td>
+<td><div></div></td>
+<td><div>lekarnakrystal@seznam.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL-L  Lékárna Medina</div></td>
+<td><div>22995470</div></td>
+<td><div>22995056001</div></td>
+<td><div>22995056</div></td>
+<td><div>PharmDr. Zdeňka Niedobová </div></td>
+<td><div>Zlonice</div></td>
+<td><div>náměstí Pod Lipami 135</div></td>
+<td><div>273 71</div></td>
+<td><div>604 224 848</div></td>
+<td><div></div></td>
+<td><div>Medina.zlonice@gmail.com</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - L U Svatého Ducha s.r.o.</div></td>
+<td><div>83995100</div></td>
+<td><div>83623000001</div></td>
+<td><div>83623000</div></td>
+<td><div>Mgr. Zora Šindelářová </div></td>
+<td><div>Znojmo</div></td>
+<td><div>Chvalovice-Hatě 183</div></td>
+<td><div>669 02</div></td>
+<td><div>515 206 211</div></td>
+<td><div>0</div></td>
+<td><div>hate@usvatehoducha.cz</div></td>
+<td><div></div></td>
+</tr>
+<tr>
+<td><div>OOVL - Lékárna Žulová</div></td>
+<td><div>95995020</div></td>
+<td><div>95995015001</div></td>
+<td><div>95995015</div></td>
+<td><div>Mgr.  Milada Mrázková </div></td>
+<td><div>Žulová</div></td>
+<td><div>Mariánské náměstí 29</div></td>
+<td><div>790 65</div></td>
+<td><div>584 437 024</div></td>
+<td><div>584 437 024</div></td>
+<td><div>lekarnazulova@seznam.cz</div></td>
+<td><div></div></td>
+</tr>
+</table>
+</div>
+</body>
+</html>
