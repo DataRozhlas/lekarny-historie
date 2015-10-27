@@ -1,0 +1,633 @@
+X,Y,Score,Match_addr,ICO,ZNACKA,NAZEV,ULICE,PSC,MESTO,OKRES,KRAJ,rok,addr,ul
+-780630.855599999,-986681.580200002,100,"Pražská 206, Bílina 41801",49621173,BENU,BENU Lékárna,Pražská 206/95,41801,Bílina,,,2015,"Pražská 206, Bílina 41801",Pražská
+-780630.855599999,-986681.580200002,100,"Pražská 206, Bílina 41801",49086979,,Lékárna U polikliniky,Pražská 206,41801,Bílina,Teplice,Severní Čechy,1999,"Pražská 206, Bílina 41801",Pražská
+-464965.241300002,-1094122.9268,100,"Čáslavská 1176, Bohumín 73581",25319141,Agel,LÉKÁRNA AGEL,Čáslavská 1176,73581,Bohumín,,,2015,"Čáslavská 1176, Bohumín 73581",Čáslavská
+-464965.241300002,-1094122.9268,100,"Čáslavská 1176, Bohumín 73581",61988243,,Lékárna CLARA,Čáslavská 1176,73581,Bohumín,Karviná,Severní Morava,1999,"Čáslavská 1176, Bohumín 73581",Čáslavská
+-599454.065200001,-1153129.0256,96.25,"Hradecká 408, Brno 62100",26230071,Dr.Max,Dr.Max LÉKÁRNA,Hradecká 40,62100,Brno,,,2015,"Hradecká 40, Brno 62100",Hradecká
+-599454.065200001,-1153129.0256,96.25,"Hradecká 408, Brno 62100",49969650,,Lékárna GLOBUS,Hradecká 40,62100,Brno,Brno-město,Jižní Morava,1999,"Hradecká 40, Brno 62100",Hradecká
+-604334.9846,-1157207.7756,100,"Kubíčkova 6, Brno 63500",26230071,Dr.Max,Dr.Max LÉKÁRNA,Kubíčkova 6,63500,Brno,,,2015,"Kubíčkova 6, Brno 63500",Kubíčkova
+-604334.9846,-1157207.7756,100,"Kubíčkova 6, Brno 63500",48510173,,Lékárna Akát,Kubíčkova 6,63500,Brno,Brno-město,Jižní Morava,1999,"Kubíčkova 6, Brno 63500",Kubíčkova
+-600210.374499999,-1157946.3588,100,"Makovského náměstí 3147, Brno 61600",49621173,BENU,BENU Lékárna,Makovského náměstí 3147/2,61600,Brno,,,2015,"Makovského náměstí 3147, Brno 61600",Makovského
+-600210.374499999,-1157946.3588,100,"Makovského náměstí 2, Brno 61600",64291634,,Lékárna U RUBÍNU,Makovského náměstí 2,61600,Brno,Brno-město,Jižní Morava,1999,"Makovského náměstí 2, Brno 61600",Makovského
+-601597.2421,-1163391.0258,100,"U pošty 14, Brno 62500",26230071,Dr.Max,Dr.Max LÉKÁRNA,U Pošty 14,62500,Brno,,,2015,"U Pošty 14, Brno 62500",U
+-601597.2421,-1163391.0258,100,"U pošty 14, Brno 62500",60744880,,"Lékárna NOVA PHARM CS, s.r.o.",U pošty 14,62500,Brno,Brno-město,Jižní Morava,1999,"U pošty 14, Brno 62500",U
+-601110.454700001,-1004622.7156,88,"třída Masarykova 30, Broumov 55001",25839136,Plzeňská lékárna,Lékárna Broumov,Masarykova 30,55001,Broumov,,,2015,"Masarykova 30, Broumov 55001",Masarykova
+-601110.454700001,-1004622.7156,88,"třída Masarykova 30, Broumov 55001",25275321,,"Lékárna  4MM, s.r.o.",Masarykova 30,55001,Broumov,Náchod,Východní Čechy,1999,"Masarykova 30, Broumov 55001",Masarykova
+-601445.171999998,-1080879.9284,100,"Masarykova 1293, Česká Třebová 56002",49621173,BENU,BENU Lékárna,Masarykova 1293,56002,Česká Třebová,,,2015,"Masarykova 1293, Česká Třebová 56002",Masarykova
+-601445.171999998,-1080879.9284,100,"Masarykova 1293, Česká Třebová 56002",49317547,,Lékárna Arnika,Masarykova 1293,56002,Česká Třebová,Ústí nad Orlicí,Východní Čechy,1999,"Masarykova 1293, Česká Třebová 56002",Masarykova
+-757081.4771,-1164373.2758,100,"Fr. Ondříčka 1088, České Budějovice 37011",25216791,Devětsil JST,Lékárna Samaritán,Fr. Ondříčka 1088/2,37011,České Budějovice,,,2015,"Fr. Ondříčka 1088, České Budějovice 37011",Fr.
+-757081.4771,-1164373.2758,100,"Fr. Ondříčka 2, České Budějovice 37011",61775916,,Lékárna Čtyřlístek Vltava,Fr. Ondříčka 2,37011,České Budějovice,České Budějovice,Jižní Čechy,1999,"Fr. Ondříčka 2, České Budějovice 37011",Fr.
+-755520.578499999,-1165882.3644,97,"Na Sadech 2033, České Budějovice 37001",26230071,Dr.Max,Dr.Max LÉKÁRNA,Na Sadech 23,37001,České Budějovice,,,2015,"Na Sadech 23, České Budějovice 37001",Na
+-755520.578499999,-1165882.3644,97,"Na Sadech 2033, České Budějovice 37001",60066326,,Lékárna SEVER  [APOTHEKA s.r.o],Na Sadech 23,37001,České Budějovice,České Budějovice,Jižní Čechy,1999,"Na Sadech 23, České Budějovice 37001",Na
+-755897.537900001,-1165049.9761,90,"Pražská tř. 71, České Budějovice 37004",26230071,Dr.Max,Dr.Max LÉKÁRNA,Pražská 71,37004,České Budějovice,,,2015,"Pražská 71, České Budějovice 37004",Pražská
+-755897.537900001,-1165049.9761,90,"Pražská tř. 71, České Budějovice 37004",60072776,,Lékárna,Pražská 71,37004,České Budějovice,České Budějovice,Jižní Čechy,1999,"Pražská 71, České Budějovice 37004",Pražská
+-755660.819400001,-1166486.7682,100,"Senovážné nám. 1616, České Budějovice 37001",49621173,BENU,BENU Lékárna,Senovážné nám. 1616,37001,České Budějovice,,,2015,"Senovážné nám. 1616, České Budějovice 37001",Senovážné
+-755660.819400001,-1166486.7682,100,"Senovážné nám. 1616, České Budějovice 37001",60066326,,Lékárna U muzea,Senovážné nám. 1616,37001,České Budějovice,České Budějovice,Jižní Čechy,1999,"Senovážné nám. 1616, České Budějovice 37001",Senovážné
+-769811.416000001,-1182020.3382,85,"T. G. Masaryka 212, Český Krumlov 38101",26230071,Dr.Max,Dr.Max LÉKÁRNA,T.G.Masaryka 212,38101,Český Krumlov,,,2015,"T.G.Masaryka 212, Český Krumlov 38101",T.G.Masaryka
+-769811.416000001,-1182020.3382,85,"T. G. Masaryka 212, Český Krumlov 38101",14500183,,Lékárna Na Špičáku,T.G.Masaryka 212,38101,Český Krumlov,Český Krumlov,Jižní Čechy,1999,"T.G.Masaryka 212, Český Krumlov 38101",T.G.Masaryka
+-447020.4232,-1113447.8756,100,"Hlavní třída 43, Český Těšín 73701",25319141,Agel,LÉKÁRNA AGEL,Hlavní třída 43/34,73701,Český Těšín,,,2015,"Hlavní třída 43, Český Těšín 73701",Hlavní
+-447020.4232,-1113447.8756,90,"Hlavní třída 34, Český Těšín 73701",63730545,,Lékárna U Salvatora,Hlavní 34,73701,Český Těšín,Karviná,Severní Morava,1999,"Hlavní 34, Český Těšín 73701",Hlavní
+-616073.041099999,-1068263.7116,100,"Smetanova 830, Choceň 56501",25839136,Plzeňská lékárna,Lékárna Na Poliklinice,Smetanova 830,56501,Choceň,,,2015,"Smetanova 830, Choceň 56501",Smetanova
+-616073.041099999,-1068263.7116,100,"Smetanova 830, Choceň 56501",25297651,,"Lékárna TILIA Choceň, s.r.o.",Smetanova 830,56501,Choceň,Ústí nad Orlicí,Východní Čechy,1999,"Smetanova 830, Choceň 56501",Smetanova
+-616088.8818,-1068765.8406,100,"T. G. Masaryka 623, Choceň 56501",49621173,BENU,BENU Lékárna,T. G. Masaryka 623,56501,Choceň,,,2015,"T. G. Masaryka 623, Choceň 56501",T.
+-616088.8818,-1068765.8406,100,"T. G. Masaryka 623, Choceň 56501",47498617,,Lékárna U anděla strážce,T. G. Masaryka 623,56501,Choceň,Ústí nad Orlicí,Východní Čechy,1999,"T. G. Masaryka 623, Choceň 56501",T.
+-647544.082199998,-1070341.8222,100,"Masarykovo náměstí 55, Chrudim 53701",26230071,Dr.Max,Dr.Max LÉKÁRNA,Masarykovo náměstí 55,53701,Chrudim,,,2015,"Masarykovo náměstí 55, Chrudim 53701",Masarykovo
+-647481.972800002,-1070353.8177,NA,,49807277,,Lékárna PHARMA,Masarykovo nám. 55,53701,Chrudim,Chrudim,Východní Čechy,1999,"Masarykovo nám. 55, Chrudim 53701",Masarykovo
+-859611.426899999,-1098412.4171,100,"Kostelní 168, Domažlice 34401",49621173,BENU,BENU Lékárna,Kostelní 168,34401,Domažlice,,,2015,"Kostelní 168, Domažlice 34401",Kostelní
+-859611.426899999,-1098412.4171,100,"Kostelní 168, Domažlice 34401",49204378,,Lékárna Pod věží,Kostelní 168,34401,Domažlice,Domažlice,Západní Čechy,1999,"Kostelní 168, Domažlice 34401",Kostelní
+-478389.4833,-1133160.4677,100,"Rožnovská 240, Frenštát pod Radhoštěm 74401",26230071,Dr.Max,Dr.Max LÉKÁRNA,Rožnovská 240,74401,Frenštát pod Radhoštěm,,,2015,"Rožnovská 240, Frenštát pod Radhoštěm 74401",Rožnovská
+-478389.4833,-1133160.4677,100,"Rožnovská 240, Frenštát pod Radhoštěm 74401",60336552,,Výdejna prostředků zdravot.techniky,Rožnovská 240,74401,Frenštát pod Radhoštěm,Nový Jičín,Severní Morava,1999,"Rožnovská 240, Frenštát pod Radhoštěm 74401",Rožnovská
+-667090.607700001,-1106870.1162,100,"Dolní 100, Havlíčkův Brod 58001",26230071,Dr.Max,Dr.Max LÉKÁRNA,Dolní 100,58001,Havlíčkův Brod,,,2015,"Dolní 100, Havlíčkův Brod 58001",Dolní
+-667090.607700001,-1106870.1162,100,"Dolní 100, Havlíčkův Brod 58001",46485929,,Ústavní lékárna U Zlaté Lilie,Dolní 100,58001,Havlíčkův Brod,Havlíčkův Brod,Východní Čechy,1999,"Dolní 100, Havlíčkův Brod 58001",Dolní
+-757740.997400001,-1157086.7469,100,"Masarykova 1, Hluboká nad Vltavou 37341",49621173,BENU,BENU Lékárna,Masarykova 1,37341,Hluboká nad Vltavou,,,2015,"Masarykova 1, Hluboká nad Vltavou 37341",Masarykova
+-757740.997400001,-1157086.7469,100,"Masarykova 1, Hluboká nad Vltavou 37341",62536109,,Lékárna,Masarykova 1,37341,Hluboká nad Vltavou,České Budějovice,Jižní Čechy,1999,"Masarykova 1, Hluboká nad Vltavou 37341",Masarykova
+-642039.811299998,-1041775.6826,90,"Dukelská třída 479, Hradec Králové 50002",26230071,Dr.Max,Dr.Max LÉKÁRNA,Dukelská 479,50002,Hradec Králové,,,2015,"Dukelská 479, Hradec Králové 50002",Dukelská
+-642039.811299998,-1041775.6826,90,"Dukelská třída 479, Hradec Králové 50002",48154083,,"Lékárna SALVIA, s.r.o.",Dukelská 479,50002,Hradec Králové,Hradec Králové,Východní Čechy,1999,"Dukelská 479, Hradec Králové 50002",Dukelská
+-641105.541700002,-1043589.252,100,"Hradecká 1690, Hradec Králové 50012",49621173,BENU,BENU Lékárna,Hradecká 1690/2a,50012,Hradec Králové,,,2015,"Hradecká 1690, Hradec Králové 50012",Hradecká
+-641007.6043,-1044125.0894,NA,,48631442,,Pohotovoství lékárna,Hradecká 1690,50011,Hradec Králové,Hradec Králové,Východní Čechy,1999,"Hradecká 1690, Hradec Králové 50011",Hradecká
+-640346.8301,-1040599.0911,100,"K Sokolovně 309, Hradec Králové 50341",25839136,Plzeňská lékárna,Lékárna Věkoše,K Sokolovně 309,50341,Hradec Králové,,,2015,"K Sokolovně 309, Hradec Králové 50341",K
+-640346.8301,-1040599.0911,100,"K Sokolovně 309, Hradec Králové 50341",64256634,,"Lékárna Věkoše - 3MM, s.r.o.",K sokolovně 309,50341,Hradec Králové,Hradec Králové,Východní Čechy,1999,"K sokolovně 309, Hradec Králové 50341",K
+-641688.260499999,-1041790.0902,91.43,"třída Karla IV. 468, Hradec Králové 50002",26230071,Dr.Max,Dr.Max LÉKÁRNA,Karla IV. 468,50002,Hradec Králové,,,2015,"Karla IV. 468, Hradec Králové 50002",Karla
+-641688.260499999,-1041790.0902,91.43,"třída Karla IV. 468, Hradec Králové 50002",48951102,,"Lékárna DONNA, s.r.o.",Karla IV. 468,50002,Hradec Králové,Hradec Králové,Východní Čechy,1999,"Karla IV. 468, Hradec Králové 50002",Karla
+-640312.2119,-1042034.6204,100,"Pospíšilova 390, Hradec Králové 50003",49621173,BENU,BENU Lékárna,Pospíšilova 390,50003,Hradec Králové,,,2015,"Pospíšilova 390, Hradec Králové 50003",Pospíšilova
+-640311.860800002,-1042034.8377,NA,,63605163,,Lékárna,Pospíšilova 390,50002,Hradec Králové,Hradec Králové,Východní Čechy,1999,"Pospíšilova 390, Hradec Králové 50002",Pospíšilova
+-701837.377900001,-962506.993999999,100,"Revoluční 106, Hrádek nad Nisou 46334",49621173,BENU,BENU Lékárna,Revoluční 106,46334,Hrádek nad Nisou,,,2015,"Revoluční 106, Hrádek nad Nisou 46334",Revoluční
+-701837.377900001,-962506.993999999,100,"Revoluční 106, Hrádek nad Nisou 46334",49108492,,Lékárna Alfa,Revoluční 106,46334,Hrádek nad Nisou,Liberec,Severní Čechy,1999,"Revoluční 106, Hrádek nad Nisou 46334",Revoluční
+-680734.5,-979917.702100001,100,"Dolní náměstí 594, Jablonec nad Nisou 46601",49621173,BENU,BENU Lékárna,Dolní náměstí 594/14,46601,Jablonec nad Nisou,,,2015,"Dolní náměstí 594, Jablonec nad Nisou 46601",Dolní
+-680734.5,-979917.702100001,100,"Dolní náměstí 14, Jablonec nad Nisou 46601",65103408,,Lékárna Na náměstí,Dolní náměstí 14,46601,Jablonec nad Nisou,Jablonec n/N,Severní Čechy,1999,"Dolní náměstí 14, Jablonec nad Nisou 46601",Dolní
+-681120.469300002,-979613.703000002,100,"Liberecká 801, Jablonec nad Nisou 46601",49621173,BENU,BENU Lékárna,Liberecká 801/20,46601,Jablonec nad Nisou,,,2015,"Liberecká 801, Jablonec nad Nisou 46601",Liberecká
+-681120.469300002,-979613.703000002,100,"Liberecká 20, Jablonec nad Nisou 46601",65103394,,Lékárna Profarma,Liberecká 20,46601,Jablonec nad Nisou,Jablonec n/N,Severní Čechy,1999,"Liberecká 20, Jablonec nad Nisou 46601",Liberecká
+-438419.4936,-1133288.2979,100,"Školní 474, Jablunkov 73991",26230071,Dr.Max,Dr.Max LÉKÁRNA,Školní 474,73991,Jablunkov,,,2015,"Školní 474, Jablunkov 73991",Školní
+-438419.4936,-1133288.2979,100,"Školní 474, Jablunkov 73991",15405991,,Lékárna U polikliniky,Školní 474,73991,Jablunkov,Frýdek-Místek,Severní Morava,1999,"Školní 474, Jablunkov 73991",Školní
+-671570.057799999,-1013271.5844,100,"Husova 64, Jičín 50601",49621173,BENU,BENU Lékárna,Husova 64,50601,Jičín,,,2015,"Husova 64, Jičín 50601",Husova
+-671570.057799999,-1013271.5844,100,"Husova 64, Jičín 50601",25296451,,"Lékárna Na Husovce, ZEA, s.r.o.",Husova 64,50601,Jičín,Jičín,Východní Čechy,1999,"Husova 64, Jičín 50601",Husova
+-670380.127700001,-1129833.7452,100,"Vrchlického 57, Jihlava 58601",26230071,Dr.Max,Dr.Max LÉKÁRNA,Vrchlického 57,58601,Jihlava,,,2015,"Vrchlického 57, Jihlava 58601",Vrchlického
+-670380.127700001,-1129833.7452,100,"Vrchlického 57, Jihlava 58601",61737704,,Lékárna,Vrchlického 57,58601,Jihlava,Jihlava,Jižní Morava,1999,"Vrchlického 57, Jihlava 58601",Vrchlického
+-715010.229499999,-1152310.5985,100,"Klášterská 72, Jindřichův Hradec 37701",49621173,BENU,BENU Lékárna,Klášterská 72/II,37701,Jindřichův Hradec,,,2015,"Klášterská 72, Jindřichův Hradec 37701",Klášterská
+-715010.229499999,-1152310.5985,100,"Klášterská 72, Jindřichův Hradec 37701",64580768,Červený bod,"Lék. V Klášterské, Červený bod, s.r.o.",Klášterská 72,37701,Jindřichův Hradec,Jindřichův Hradec,Jižní Čechy,1999,"Klášterská 72, Jindřichův Hradec 37701",Klášterská
+-757970.538600001,-1192272.1773,100,"Náměstí 44, Kaplice 38241",26230071,Dr.Max,Dr.Max LÉKÁRNA,Náměstí 44,38241,Kaplice,,,2015,"Náměstí 44, Kaplice 38241",Náměstí
+-757970.538600001,-1192272.1773,100,"Náměstí 44, Kaplice 38241",46621873,,Lékárna,Náměstí 44,38241,Kaplice,Český Krumlov,Jižní Čechy,1999,"Náměstí 44, Kaplice 38241",Náměstí
+-850420.994600002,-1010265.0014,100,"Sedlecká 761, Karlovy Vary 36010",25839136,Plzeňská lékárna,Na růžovém vrchu,Sedlecká 761/5,36010,Karlovy Vary,,,2015,"Sedlecká 761, Karlovy Vary 36010",Sedlecká
+-850420.1393,-1010262.7991,NA,,49753916,,Lékárna Galenus,Sedlecká 5,36001,Karlovy Vary,Karlovy Vary,Západní Čechy,1999,"Sedlecká 5, Karlovy Vary 36001",Sedlecká
+-825529.4397,-997229.9003,100,"Sadová 528, Klášterec nad Ohří 43151",26230071,Dr.Max,Dr.Max LÉKÁRNA,Sadová 528,43151,Klášterec nad Ohří,,,2015,"Sadová 528, Klášterec nad Ohří 43151",Sadová
+-825529.4397,-997229.9003,100,"Sadová 528, Klášterec nad Ohří 43151",46790721,,Lékárna U Panny Marie Pomocné,Sadová 528,43151,Klášterec nad Ohří,Chomutov,Severní Čechy,1999,"Sadová 528, Klášterec nad Ohří 43151",Sadová
+-834775.534899998,-1106907.677,100,"Nádražní 843, Klatovy 33901",26230071,Dr.Max,Dr.Max LÉKÁRNA,Nádražní 843/III,33901,Klatovy,,,2015,"Nádražní 843, Klatovy 33901",Nádražní
+-834775.534899998,-1106907.677,100,"Nádražní 843, Klatovy 33901",63509580,,"Klatovské zdraví, s.r.o., lékárna",Nádražní 843,33901,Klatovy,Klatovy,Západní Čechy,1999,"Nádražní 843, Klatovy 33901",Nádražní
+-687802.435899999,-1093945.3777,100,"Habrecká 450, Ledeč nad Sázavou 58401",26230071,Dr.Max,Dr.Max LÉKÁRNA,Habrecká 450,58401,Ledeč nad Sázavou,,,2015,"Habrecká 450, Ledeč nad Sázavou 58401",Habrecká
+-687802.435899999,-1093945.3777,100,"Habrecká 450, Ledeč nad Sázavou 58401",45949891,,Lékárna MEDIA,Habrecká 450,58401,Ledeč nad Sázavou,Havlíčkův Brod,Východní Čechy,1999,"Habrecká 450, Ledeč nad Sázavou 58401",Habrecká
+-756725.444899999,-990513.151000001,100,"U Katovny 2023, Litoměřice 41201",25839136,Plzeňská lékárna,U Katovny,U Katovny 2023/1,41201,Litoměřice,,,2015,"U Katovny 2023, Litoměřice 41201",U
+-756725.444899999,-990513.151000001,100,"U Katovny 1, Litoměřice 41201",62769685,,Lékárna U katovny,U katovny 1,41201,Litoměřice,Litoměřice,Severní Čechy,1999,"U katovny 1, Litoměřice 41201",U
+-611311.975699998,-1083620.3786,100,"Smetanovo náměstí 122, Litomyšl 57001",49621173,BENU,BENU Lékárna,Smetanovo náměstí 122,57001,Litomyšl,,,2015,"Smetanovo náměstí 122, Litomyšl 57001",Smetanovo
+-611312.4098,-1083621.0558,NA,,47490403,,Lékárna U anděla strážce,Smetanovo nám. 122,57001,Litomyšl,Svitavy,Východní Čechy,1999,"Smetanovo nám. 122, Litomyšl 57001",Smetanovo
+-791573.297499999,-978185.122000001,100,"Žižkova 151, Litvínov 43601",49621173,BENU,BENU Lékárna,Žižkova 151,43601,Litvínov,,,2015,"Žižkova 151, Litvínov 43601",Žižkova
+-791573.297499999,-978185.122000001,100,"Žižkova 151, Litvínov 43601",63145537,,"Lékárna DELTA, s.r.o.",Žižkova 151,43601,Litvínov,Most,Severní Čechy,1999,"Žižkova 151, Litvínov 43601",Žižkova
+-711374.127700001,-1034634.1345,100,"Masarykova 1102, Lysá nad Labem 28922",26230071,Dr.Max,Dr.Max LÉKÁRNA,Masarykova 1102,28922,Lysá nad Labem,,,2015,"Masarykova 1102, Lysá nad Labem 28922",Masarykova
+-711374.127700001,-1034634.1345,100,"Masarykova 1102, Lysá nad Labem 28922",49688596,INPHARMA,Lékárna U výstaviště,Masarykova 1102,28922,Lysá nad Labem,Nymburk,Střední Čechy,1999,"Masarykova 1102, Lysá nad Labem 28922",Masarykova
+-866697.5471,-1038199.5901,100,"Tyršova 243, Mariánské Lázně 35301",49621173,BENU,BENU Lékárna,Tyršova 243/1,35301,Mariánské Lázně,,,2015,"Tyršova 243, Mariánské Lázně 35301",Tyršova
+-866697.5471,-1038199.5901,100,"Tyršova 1, Mariánské Lázně 35301",47721740,,Lékárna Alma,Tyršova 1,35301,Mariánské Lázně,Cheb,Západní Čechy,1999,"Tyršova 1, Mariánské Lázně 35301",Tyršova
+-734379.875399999,-1015059.1402,100,"Pražská 221, Mělník 27601",49621173,BENU,BENU Lékárna,Pražská 221,27601,Mělník,,,2015,"Pražská 221, Mělník 27601",Pražská
+-734438.909699999,-1015010.3258,100,"Pražská 528, Mělník 27601",874621,,Ústavní lékárna,Pražská 528,27601,Mělník,Mělník,Střední Čechy,1999,"Pražská 528, Mělník 27601",Pražská
+-703314.6382,-1010194.5843,100,"U stadionu 1234, Mladá Boleslav 29301",49621173,BENU,BENU Lékárna,U Stadionu 1234,29301,Mladá Boleslav,,,2015,"U Stadionu 1234, Mladá Boleslav 29301",U
+-703314.6382,-1010194.5843,100,"U stadionu 1234, Mladá Boleslav 29301",25075195,,Lékárna VERA,U stadionu 1234,29301,Mladá Boleslav,Mladá Boleslav,Střední Čechy,1999,"U stadionu 1234, Mladá Boleslav 29301",U
+-791579.588,-989856.5557,88,"tř. Budovatelů 1877, Most 43401",26230071,Dr.Max,Dr.Max LÉKÁRNA,Budovatelů 1877,43401,Most,,,2015,"Budovatelů 1877, Most 43401",Budovatelů
+-791579.588,-989856.5557,88,"tř. Budovatelů 1877, Most 43401",61537535,,"Lékárna Rozkvět - LAMED, s.r.o.",Budovatelů 1877,43401,Most,Most,Severní Čechy,1999,"Budovatelů 1877, Most 43401",Budovatelů
+-811331.9375,-1100124.7454,90,"Na Vinici III. 487, Nepomuk 33501",26230071,Dr.Max,Dr.Max LÉKÁRNA,Na Vinici 487,33501,Nepomuk,,,2015,"Na Vinici 487, Nepomuk 33501",Na
+-811331.9375,-1100124.7454,90,"Na Vinici III. 487, Nepomuk 33501",25216791,,"Lékárna Devětsil, JST, s.r.o.",Na Vinici 487,33501,Nepomuk,Plzeň-jih,Západní Čechy,1999,"Na Vinici 487, Nepomuk 33501",Na
+-659310.014199998,-1008300.8244,100,"Kotíkova 1817, Nová Paka 50901",49621173,BENU,BENU Lékárna,Kotíkova 1817,50901,Nová Paka,,,2015,"Kotíkova 1817, Nová Paka 50901",Kotíkova
+-659310.014199998,-1008300.8244,100,"Kotíkova 1817, Nová Paka 50901",25296451,,"Lékárna Rokytka, ZEA, s.r.o.",Kotíkova 1817,50901,Nová Paka,Jičín,Východní Čechy,1999,"Kotíkova 1817, Nová Paka 50901",Kotíkova
+-723346.999699999,-970213.000399999,100,"Dvořákova 385, Nový Bor 47301",26230071,Dr.Max,Dr.Max LÉKÁRNA,Dvořákova 385,47301,Nový Bor,,,2015,"Dvořákova 385, Nový Bor 47301",Dvořákova
+-723346.999699999,-970213.000399999,100,"Dvořákova 385, Nový Bor 47301",48287423,,Lužická lékárna,Dvořákova 385,47301,Nový Bor,Česká Lípa,Severní Čechy,1999,"Dvořákova 385, Nový Bor 47301",Dvořákova
+-835148.999600001,-1071674.0019,100,"Masarykovo náměstí 516, Nýřany 33023",49621173,BENU,BENU Lékárna,Masarykovo náměstí 516,33023,Nýřany,,,2015,"Masarykovo náměstí 516, Nýřany 33023",Masarykovo
+-835148.999600001,-1071674.0019,100,"Masarykovo náměstí 516, Nýřany 33023",44651244,,Lékárna U zlatého hada,Masarykovo náměstí 516,33023,Nýřany,Plzeň-sever,Západní Čechy,1999,"Masarykovo náměstí 516, Nýřany 33023",Masarykovo
+-496810.240499999,-1087658.0849,100,"Horní náměstí 145, Opava 74601",49621173,BENU,BENU Lékárna,Horní náměstí 145/35,74601,Opava,,,2015,"Horní náměstí 145, Opava 74601",Horní
+-496800.191,-1087712.3851,97,"Horní náměstí 382, Opava 74601",61611913,,Lékárna,Horní náměstí 32,74601,Opava,Opava,Severní Morava,1999,"Horní náměstí 32, Opava 74601",Horní
+-844027.286200002,-1003291.0939,100,"Hroznětínská 350, Ostrov 36301",49621173,BENU,BENU Lékárna,Hroznětínská 350,36301,Ostrov,,,2015,"Hroznětínská 350, Ostrov 36301",Hroznětínská
+-844027.286200002,-1003291.0939,100,"Hroznětínská 350, Ostrov 36301",49213733,,Prodejna zdravotnických potřeb,Hroznětínská 350,36301,Ostrov,Karlovy Vary,Západní Čechy,1999,"Hroznětínská 350, Ostrov 36301",Hroznětínská
+-843475.5264,-1003436.7736,100,"Lidická 1286, Ostrov 36301",49621173,BENU,BENU Lékárna,Lidická 1286,36301,Ostrov,,,2015,"Lidická 1286, Ostrov 36301",Lidická
+-843475.5264,-1003436.7736,100,"Lidická 1286, Ostrov 36301",49752618,,Lékárna Pinie,Lidická 1286,36301,Ostrov,Karlovy Vary,Západní Čechy,1999,"Lidická 1286, Ostrov 36301",Lidická
+-695092.436000001,-1122785.1565,100,"Svatovítské náměstí 880, Pelhřimov 39301",49621173,BENU,BENU Lékárna,Svatovítské náměstí 880,39301,Pelhřimov,,,2015,"Svatovítské náměstí 880, Pelhřimov 39301",Svatovítské
+-695092.436000001,-1122785.1565,100,"Svatovítské náměstí 880, Pelhřimov 39301",49029673,,Lékárna U sv.Víta,Svatovítské náměstí 880,39301,Pelhřimov,Pelhřimov,Jižní Čechy,1999,"Svatovítské náměstí 880, Pelhřimov 39301",Svatovítské
+-822652.566399999,-1068364.0716,100,"Karlovarská 298, Plzeň 30100",25839136,Plzeňská lékárna,DIA lékárna,Karlovarská 298/30,30100,Plzeň,,,2015,"Karlovarská 298, Plzeň 30100",Karlovarská
+-822678.391899999,-1068337.0205,NA,,64832481,,"INTEC Pharma, s.r.o., lékárna",Karlovarská tř. 30,30166,Plzeň,Plzeň-město,Západní Čechy,1999,"Karlovarská tř. 30, Plzeň 30166",Karlovarská
+-821612.768100001,-1071379.7351,100,"Slovanská 1238, Plzeň 32600",25839136,Plzeňská lékárna,Liliová lékárna,Slovanská 1238/69,32600,Plzeň,,,2015,"Slovanská 1238, Plzeň 32600",Slovanská
+-818049.0407,-1069015.3696,NA,,64832481,,"INTEC Pharma, s.r.o., lékárna",Slovanská tř. 69,30151,Plzeň,Plzeň-město,Západní Čechy,1999,"Slovanská tř. 69, Plzeň 30151",Slovanská
+-823169.196899999,-1069889.841,100,"Tylova 39, Plzeň 30100",49621173,BENU,BENU Lékárna,Tylova 39/502,30100,Plzeň,,,2015,"Tylova 39, Plzeň 30100",Tylova
+-823168.3829,-1069888.9717,NA,,64580768,Červený bod,"Lékárna U zlatého slunce, s.r.o.",Tylova 39,30124,Plzeň,Plzeň-město,Západní Čechy,1999,"Tylova 39, Plzeň 30124",Tylova
+-789476.356600001,-1156931.746,100,"Vodňanská 51, Prachatice 38301",26230071,Dr.Max,Dr.Max LÉKÁRNA,Vodňanská 51,38301,Prachatice,,,2015,"Vodňanská 51, Prachatice 38301",Vodňanská
+-789578.6666,-1156987.1269,100,"Vodňanská , Prachatice 38301",60097507,,Lékárna U Bílého Lva,Vodňanská ,38301,Prachatice,Prachatice,Jižní Čechy,1999,"Vodňanská , Prachatice 38301",Vodňanská
+-742312.997099999,-1042612.0003,100,"Revoluční 765, Praha 11000",26230071,Dr.Max,Dr.Max LÉKÁRNA,Revoluční 765/19,11000,Praha 1,,,2015,"Revoluční 765, Praha 11000",Revoluční
+-742313.809599999,-1042611.6552,NA,,25672681,,"Lékárna Real Pharma, s.r.o.",Revoluční 19,11593,Praha 1,Praha 1,Hl.m.Praha,1999,"Revoluční 19, Praha 11593",Revoluční
+-737911.928599998,-1047208.4734,100,"Jabloňová 2992, Praha 10600",49621173,BENU,BENU Lékárna,Jabloňová 2992/8,10600,Praha 10,,,2015,"Jabloňová 2992, Praha 10600",Jabloňová
+-737911.928599998,-1047208.4734,100,"Jabloňová 2992, Praha 10600",62415506,,"REAL - JEKO, s.r.o., Lékárna Jabloňová",Jabloňová 2992,10600,Praha 10,Praha 10,Hl.m.Praha,1999,"Jabloňová 2992, Praha 10600",Jabloňová
+-736836.7544,-1045993.8042,100,"Rubensova 2238, Praha 10000",49621173,BENU,BENU Lékárna,Rubensova 2238,10000,Praha 10,,,2015,"Rubensova 2238, Praha 10000",Rubensova
+-736836.7544,-1045993.8042,100,"Rubensova 2238, Praha 10000",61856681,,Lékárna Skalka - Hela s r.o.,Rubensova 2238,10000,Praha 10,Praha 10,Hl.m.Praha,1999,"Rubensova 2238, Praha 10000",Rubensova
+-738030.9956,-1044506.001,100,"Slunečná 2, Praha 10000",25839136,Plzeňská lékárna,Slunečná lékárna,Slunečná 2,10000,Praha 10,,,2015,"Slunečná 2, Praha 10000",Slunečná
+-738030.9956,-1044506.001,100,"Slunečná 2101, Praha 10000",64832481,,"Lékárna Slunečná -INTEC PHARMA, s.r.o.",Slunečná 2101,10000,Praha 10,Praha 10,Hl.m.Praha,1999,"Slunečná 2101, Praha 10000",Slunečná
+-738421.998500001,-1045374.0003,100,"V olšinách 449, Praha 10000",49621173,BENU,BENU Lékárna,V Olšinách 449/41,10000,Praha 10,,,2015,"V Olšinách 449, Praha 10000",V
+-738466.507599998,-1045375.2807,97,"V olšinách 421, Praha 10000",60162988,,Lékárna V OLŠINÁCH,V Olšinách 41,10000,Praha 10,Praha 10,Hl.m.Praha,1999,"V Olšinách 41, Praha 10000",V
+-742256.605900001,-1044418.3219,100,"Jugoslávská 9, Praha 12000",49621173,BENU,BENU Lékárna,Jugoslávská 9,12000,Praha 2,,,2015,"Jugoslávská 9, Praha 12000",Jugoslávská
+-742256.605900001,-1044418.3219,100,"Jugoslávská 9, Praha 12000",14947129,,Vilímova lékárna,Jugoslávská 9,12000,Praha 2,Praha 2,Hl.m.Praha,1999,"Jugoslávská 9, Praha 12000",Jugoslávská
+-741718.9954,-1045768.0045,100,"Čestmírova 363, Praha 14000",26230071,Dr.Max,Dr.Max LÉKÁRNA,Čestmírova 363/1,14000,Praha 4,,,2015,"Čestmírova 363, Praha 14000",Čestmírova
+-741718.9954,-1045768.0045,100,"Čestmírova 1, Praha 14000",60432209,,Lékárna U ZLATÉ KORUNY,Čestmírova 1,14000,Praha 4,Praha 4,Hl.m.Praha,1999,"Čestmírova 1, Praha 14000",Čestmírova
+-742048.996300001,-1048189.0025,100,"Krčská 1079, Praha 14000",26230071,Dr.Max,Dr.Max LÉKÁRNA,Krčská 1079/59,14000,Praha 4,,,2015,"Krčská 1079, Praha 14000",Krčská
+-742048.996300001,-1048189.0025,100,"Krčská 1079, Praha 14000",15077799,,Krčská lékárna,Krčská 1079,14000,Praha 4,Praha 4,Hl.m.Praha,1999,"Krčská 1079, Praha 14000",Krčská
+-744247.289900001,-1044480.5102,100,"Štefánikova 250, Praha 15000",49621173,BENU,BENU Lékárna,Štefánikova 250/6,15000,Praha 5,,,2015,"Štefánikova 250, Praha 15000",Štefánikova
+-744184.408500001,-1043906.8952,100,"Štefánikova 6, Praha 15000",43657176,,Lékárna U Anděla,Štefánikova 6,15000,Praha 5,Praha 5,Hl.m.Praha,1999,"Štefánikova 6, Praha 15000",Štefánikova
+-744386.485300001,-1040862.6103,100,"Jugoslávských partyzánů 636, Praha 16000",26230071,Dr.Max,Dr.Max LÉKÁRNA,Jugoslávských partyzánů 636/20,16000,Praha 6,,,2015,"Jugoslávských partyzánů 636, Praha 16000",Jugoslávských
+-744386.485300001,-1040862.6103,100,"Jugoslávských partyzánů 20, Praha 16000",49231952,,Lékárna Bubeneč,Jugoslávských partyzánů 20,16000,Praha 6,Praha 6,Hl.m.Praha,1999,"Jugoslávských partyzánů 20, Praha 16000",Jugoslávských
+-751143.585299999,-1044398.6927,100,"Makovského 1349, Praha 16300",26230071,Dr.Max,Dr.Max LÉKÁRNA,Makovského 1349/2a,16300,Praha 6,,,2015,"Makovského 1349, Praha 16300",Makovského
+-751454.389600001,-1044299.649,NA,,62704761,,Lékárna Podnecká,Makovského 1349,16000,Praha 6,Praha 6,Hl.m.Praha,1999,"Makovského 1349, Praha 16000",Makovského
+-747292.996199999,-1041567.004,97.5,"Na dlouhém lánu 119, Praha 16000",49621173,BENU,BENU Lékárna,Na Dlouhém lánu 11,16000,Praha 6,,,2015,"Na Dlouhém lánu 11, Praha 16000",Na
+-747292.996199999,-1041567.004,97.5,"Na dlouhém lánu 119, Praha 16000",25128973,,PHARMA MARKET s.r.o.,Na dlouhém lánu 11,16000,Praha 6,Praha 6,Hl.m.Praha,1999,"Na dlouhém lánu 11, Praha 16000",Na
+-746768.518599998,-1042764.4345,100,"Pod Marjánkou 1906, Praha 16900",49621173,BENU,BENU Lékárna,Pod Marjánkou 1906/12,16900,Praha 6,,,2015,"Pod Marjánkou 1906, Praha 16900",Pod
+-746601.999899998,-1042845.0009,95.2,"Pod Marjánkou 1427, Praha 16900",48574368,,Lékárna Pod Marjánkou,Pod Marjánkou 12,16900,Praha 6,Praha 6,Hl.m.Praha,1999,"Pod Marjánkou 12, Praha 16900",Pod
+-742614.999299999,-1038624.0013,100,"Mazurská 484, Praha 18100",49621173,BENU,BENU Lékárna,Mazurská 484/2,18100,Praha 8,,,2015,"Mazurská 484, Praha 18100",Mazurská
+-742614.999299999,-1038624.0013,100,"Mazurská 484, Praha 18100",65409485,,"Lékárna Citypharm, s.r.o.",Mazurská 484,18100,Praha 8,Praha 8,Hl.m.Praha,1999,"Mazurská 484, Praha 18100",Mazurská
+-737094.999200001,-1039535,100,"Jablonecká 423, Praha 19000",49621173,BENU,BENU Lékárna,Jablonecká 423,19000,Praha 9,,,2015,"Jablonecká 423, Praha 19000",Jablonecká
+-737094.999200001,-1039535,100,"Jablonecká 423, Praha 19000",62930508,,Lékárna Jizerka,Jablonecká 423,19000,Praha 9,Praha 9,Hl.m.Praha,1999,"Jablonecká 423, Praha 19000",Jablonecká
+-733169.975499999,-1042733.1113,100,"Vajgarská 1141, Praha 19800",26230071,Dr.Max,Dr.Max LÉKÁRNA,Vajgarská 1141,19800,Praha 9,,,2015,"Vajgarská 1141, Praha 19800",Vajgarská
+-733169.975499999,-1042733.1113,100,"Vajgarská 1141, Praha 19800",60166177,,Kyjská lékárna,Vajgarská 1141,19800,Praha 9,Praha 9,Hl.m.Praha,1999,"Vajgarská 1141, Praha 19800",Vajgarská
+-557950.6413,-1134069.9689,100,"Trávnická 2, Prostějov 79601",49621173,BENU,BENU Lékárna,Trávnická 2,79601,Prostějov,,,2015,"Trávnická 2, Prostějov 79601",Trávnická
+-557950.6413,-1134069.9689,100,"Trávnická 2, Prostějov 79601",49144839,,Lékárna Centrum,Trávnická 2,79601,Prostějov,Prostějov,Jižní Morava,1999,"Trávnická 2, Prostějov 79601",Trávnická
+-791409.087000001,-1034303.364,100,"Nádražní 225, Rakovník 26901",49621173,BENU,BENU Lékárna,Nádražní 225,26901,Rakovník,,,2015,"Nádražní 225, Rakovník 26901",Nádražní
+-791409.087000001,-1034303.364,100,"Nádražní 225, Rakovník 26901",47537418,,"Lékárna u parku, spol. s r.o.",Nádražní 225,26901,Rakovník,Rakovník,Střední Čechy,1999,"Nádražní 225, Rakovník 26901",Nádražní
+-806724.316599999,-1072736.8947,100,"Malé náměstí 105, Rokycany 33701",26230071,Dr.Max,Dr.Max LÉKÁRNA,Malé náměstí 105,33701,Rokycany,,,2015,"Malé náměstí 105, Rokycany 33701",Malé
+-806724.316599999,-1072736.8947,100,"Malé náměstí 105, Rokycany 33701",48379611,,Lékárna U Barborky,Malé náměstí 105,33701,Rokycany,Rokycany,Západní Čechy,1999,"Malé náměstí 105, Rokycany 33701",Malé
+-870887.998799998,-999696.752500001,100,"Sídliště 603, Rotava 35701",26230071,Dr.Max,Dr.Max LÉKÁRNA,Sídliště 603,35701,Rotava,,,2015,"Sídliště 603, Rotava 35701",Sídliště
+-870886.4716,-999695.5702,NA,,49743945,,Lékárna Helios,Sídliště 603,35702,Rotava,Sokolov,Západní Čechy,1999,"Sídliště 603, Rotava 35702",Sídliště
+-610552.2304,-1050268.7635,100,"Jiráskova 1389, Rychnov nad Kněžnou 51601",26230071,Dr.Max,Dr.Max LÉKÁRNA,Jiráskova 1389,51601,Rychnov nad Kněžnou,,,2015,"Jiráskova 1389, Rychnov nad Kněžnou 51601",Jiráskova
+-610552.2304,-1050268.7635,100,"Jiráskova 1389, Rychnov nad Kněžnou 51601",46460535,,Lékárna Na Láni,Jiráskova 1389,51601,Rychnov nad Kněžnou,Rychnov n/K,Východní Čechy,1999,"Jiráskova 1389, Rychnov nad Kněžnou 51601",Jiráskova
+-609547.584899999,-1051262.2729,100,"Mírová 1545, Rychnov nad Kněžnou 51601",26230071,Dr.Max,Dr.Max LÉKÁRNA,Mírová 1545,51601,Rychnov nad Kněžnou,,,2015,"Mírová 1545, Rychnov nad Kněžnou 51601",Mírová
+-609547.584899999,-1051262.2729,100,"Mírová 1545, Rychnov nad Kněžnou 51601",46460535,,Lékárna Na Drahách,Mírová 1545,51601,Rychnov nad Kněžnou,Rychnov n/K,Východní Čechy,1999,"Mírová 1545, Rychnov nad Kněžnou 51601",Mírová
+-610238.8631,-1051054.634,100,"Staré náměstí 26, Rychnov nad Kněžnou 51601",26230071,Dr.Max,Dr.Max LÉKÁRNA,Staré náměstí 26,51601,Rychnov nad Kněžnou,,,2015,"Staré náměstí 26, Rychnov nad Kněžnou 51601",Staré
+-610238.8631,-1051054.634,100,"Staré náměstí 26, Rychnov nad Kněžnou 51601",46460535,,Lékárna,Staré náměstí 26,51601,Rychnov nad Kněžnou,Rychnov n/K,Východní Čechy,1999,"Staré náměstí 26, Rychnov nad Kněžnou 51601",Staré
+-610350.870200001,-1051015.5225,100,"Svatohavelská 105, Rychnov nad Kněžnou 51601",25839136,Plzeňská lékárna,Lékárna U sv. Havla,Svatohavelská 105,51601,Rychnov nad Kněžnou,,,2015,"Svatohavelská 105, Rychnov nad Kněžnou 51601",Svatohavelská
+-610381.635400001,-1051022.6236,100,"Svatohavelská 266, Rychnov nad Kněžnou 51601",25275321,,Lékárna U Svatého Havla,Svatohavelská 266,51601,Rychnov nad Kněžnou,Rychnov n/K,Východní Čechy,1999,"Svatohavelská 266, Rychnov nad Kněžnou 51601",Svatohavelská
+-748917.710000001,-1090393.8774,100,"Růžová 118, Sedlčany 26401",26230071,Dr.Max,Dr.Max LÉKÁRNA,Růžová 118,26401,Sedlčany,,,2015,"Růžová 118, Sedlčany 26401",Růžová
+-748917.710000001,-1090393.8774,100,"Růžová 118, Sedlčany 26401",46350471,,LINEPHARM - lékárna Růžová,Růžová 118,26401,Sedlčany,Příbram,Střední Čechy,1999,"Růžová 118, Sedlčany 26401",Růžová
+-764638.5557,-1023916.0416,100,"Wilsonova 596, Slaný 27401",49621173,BENU,BENU Lékárna,Wilsonova 596,27401,Slaný,,,2015,"Wilsonova 596, Slaný 27401",Wilsonova
+-764638.5557,-1023916.0416,100,"Wilsonova 596, Slaný 27401",25142682,,"Lékárna u Divadla, PROFA, s.r.o.",Wilsonova 596,27401,Slaný,Kladno,Střední Čechy,1999,"Wilsonova 596, Slaný 27401",Wilsonova
+-589821.601300001,-1165088.7175,100,"Karla Čapka 1656, Šlapanice 66451",26230071,Dr.Max,Dr.Max LÉKÁRNA,Karla Čapka 1656,66451,Šlapanice,,,2015,"Karla Čapka 1656, Šlapanice 66451",Karla
+-589821.601300001,-1165088.7175,100,"Karla Čapka 1656, Šlapanice 66451",49969650,,"Lékárna K.E.I. pharma, s.r.o.",Karla Čapka 1656,66451,Šlapanice,Brno-venkov,Jižní Morava,1999,"Karla Čapka 1656, Šlapanice 66451",Karla
+-507328.2007,-1181688.6163,100,"Horní náměstí 112, Slavičín 76321",26230071,Dr.Max,Dr.Max LÉKÁRNA,Horní náměstí 112,76321,Slavičín,,,2015,"Horní náměstí 112, Slavičín 76321",Horní
+-507328.2007,-1181688.6163,100,"Horní náměstí 112, Slavičín 76321",47902515,,"VIAPHARM, s.r.o.",Horní náměstí 112,76321,Slavičín,Zlín,Jižní Morava,1999,"Horní náměstí 112, Slavičín 76321",Horní
+-542795.6752,-1107399.6684,100,"Nádražní 1, Šternberk 78501",49621173,BENU,BENU Lékárna,Nádražní 1,78501,Šternberk,,,2015,"Nádražní 1, Šternberk 78501",Nádražní
+-542795.6752,-1107399.6684,100,"Nádražní 1, Šternberk 78501",47985755,,Lékárna OLLAPHARM v.o.s.,Nádražní 1,78501,Šternberk,Olomouc,Severní Morava,1999,"Nádražní 1, Šternberk 78501",Nádražní
+-849143.5145,-1064889.4551,100,"Benešova 511, Stříbro 34901",49621173,BENU,BENU Lékárna,Benešova 511,34901,Stříbro,,,2015,"Benešova 511, Stříbro 34901",Benešova
+-849143.5145,-1064889.4551,100,"Benešova 511, Stříbro 34901",574520,,Lékárna,Benešova 511,34901,Stříbro,Tachov,Západní Čechy,1999,"Benešova 511, Stříbro 34901",Benešova
+-671001.394099999,-979536.5726,100,"Poštovní 83, Tanvald 46841",49621173,BENU,BENU Lékárna,Poštovní 83,46841,Tanvald,,,2015,"Poštovní 83, Tanvald 46841",Poštovní
+-671001.394099999,-979536.5726,100,"Poštovní 83, Tanvald 46841",43257186,,Lékárna Tanvald,Poštovní 83,46841,Tanvald,Jablonec n/N,Severní Čechy,1999,"Poštovní 83, Tanvald 46841",Poštovní
+-681442.635000002,-1152407.2993,100,"Masarykova 330, Telč 58856",26230071,Dr.Max,Dr.Max LÉKÁRNA,Masarykova 330,58856,Telč,,,2015,"Masarykova 330, Telč 58856",Masarykova
+-681442.635000002,-1152407.2993,100,"Masarykova 330, Telč 58856",49969650,,"Lékárna K.E.I. pharma, s.r.o.",Masarykova 330,58856,Telč,Jihlava,Jižní Morava,1999,"Masarykova 330, Telč 58856",Masarykova
+-776820.999000002,-976540.003800001,96.25,"Duchcovská 563, Teplice 41501",26230071,Dr.Max,Dr.Max LÉKÁRNA,Duchcovská 53,41501,Teplice,,,2015,"Duchcovská 53, Teplice 41501",Duchcovská
+-776820.999000002,-976540.003800001,96.25,"Duchcovská 563, Teplice 41501",14871106,,Lékárna U nemocnice,Duchcovská 53,41501,Teplice,Teplice,Severní Čechy,1999,"Duchcovská 53, Teplice 41501",Duchcovská
+-775845.996800002,-975730.004999999,100,"U nádraží 529, Teplice 41501",26230071,Dr.Max,Dr.Max LÉKÁRNA,U Nádraží 529/7,41501,Teplice,,,2015,"U Nádraží 529, Teplice 41501",U
+-775845.996800002,-975730.004999999,100,"U nádraží 529, Teplice 41501",25043897,,"Lékárna U nádraží, PALES, s.r.o.",U nádraží 529,41501,Teplice,Teplice,Severní Čechy,1999,"U nádraží 529, Teplice 41501",U
+-777189.9998,-976576.002300002,100,"U nemocnice 3064, Teplice 41501",47304235,,Lékárna FLORA,U nemocnice 3064,41501,Teplice,Teplice,Severní Čechy,1999,"U nemocnice 3064, Teplice 41501",U
+-777189.9998,-976576.002300002,100,"U nemocnice 3064, Teplice 41501",13945521,,Výdejna prostředků zdravot.techniky,U nemocnice 3064,41501,Teplice,Teplice,Severní Čechy,1999,"U nemocnice 3064, Teplice 41501",U
+-444377.642999999,-1121082.0964,100,"Poštovní 415, Třinec 73961",25319141,Agel,LÉKÁRNA AGEL,Poštovní 415,73961,Třinec,,,2015,"Poštovní 415, Třinec 73961",Poštovní
+-444377.642999999,-1121082.0964,100,"Poštovní 415, Třinec 73961",45217092,,Lékárna TILIA,Poštovní 415,73961,Třinec,Frýdek-Místek,Severní Morava,1999,"Poštovní 415, Třinec 73961",Poštovní
+-630949.804299999,-1003977.3033,100,"Horská 64, Trutnov 54101",26230071,Dr.Max,Dr.Max LÉKÁRNA,Horská 64,54101,Trutnov,,,2015,"Horská 64, Trutnov 54101",Horská
+-630949.804299999,-1003977.3033,100,"Horská 64, Trutnov 54101",18886400,,Lékárna na Horské,Horská 64,54101,Trutnov,Trutnov,Východní Čechy,1999,"Horská 64, Trutnov 54101",Horská
+-554848.385299999,-1100786.3744,100,"Plzeňská 875, Uničov 78391",49621173,BENU,BENU Lékárna,Plzeňská 875,78391,Uničov,,,2015,"Plzeňská 875, Uničov 78391",Plzeňská
+-554848.385299999,-1100786.3744,100,"Plzeňská 875, Uničov 78391",47985755,,Lékárna OLLAPHARM v.o.s.,Plzeňská 875,78391,Uničov,Olomouc,Severní Morava,1999,"Plzeňská 875, Uničov 78391",Plzeňská
+-604065.010499999,-1073120.9845,100,"T. G. Masaryka 125, Ústí nad Orlicí 56201",26230071,Dr.Max,Dr.Max LÉKÁRNA,T. G. Masaryka 125,56201,Ústí nad Orlicí,,,2015,"T. G. Masaryka 125, Ústí nad Orlicí 56201",T.
+-604065.010499999,-1073120.9845,100,"T. G. Masaryka 125, Ústí nad Orlicí 56201",61234044,,Lékárna Na Příkopech,T. G. Masaryka 125,56201,Ústí nad Orlicí,Ústí nad Orlicí,Východní Čechy,1999,"T. G. Masaryka 125, Ústí nad Orlicí 56201",T.
+-496800.525800001,-1176508.6491,100,"Krátká 1008, Valašské Klobouky 76601",26230071,Dr.Max,Dr.Max LÉKÁRNA,Krátká 1008,76601,Valašské Klobouky,,,2015,"Krátká 1008, Valašské Klobouky 76601",Krátká
+-496800.525800001,-1176508.6491,100,"Krátká 1008, Valašské Klobouky 76601",48472417,,Lékárna,Krátká 1008,76601,Valašské Klobouky,Zlín,Jižní Morava,1999,"Krátká 1008, Valašské Klobouky 76601",Krátká
+-496480.080899999,-1139796.6799,100,"Mostní 102, Valašské Meziříčí 75701",26230071,Dr.Max,Dr.Max LÉKÁRNA,Mostní 102/16,75701,Valašské Meziříčí,,,2015,"Mostní 102, Valašské Meziříčí 75701",Mostní
+-496480.080899999,-1139796.6799,100,"Mostní 102, Valašské Meziříčí 75701",60042435,,Lékárna,Mostní 102,75701,Valašské Meziříčí,Vsetín,Severní Morava,1999,"Mostní 102, Valašské Meziříčí 75701",Mostní
+-496209.8719,-1140917.7377,100,"U Nemocnice 980, Valašské Meziříčí 75701",64124142,,Ústavní lékárna,U nemocnice 980,75701,Valašské Meziříčí,Vsetín,Severní Morava,1999,"U nemocnice 980, Valašské Meziříčí 75701",U
+-496209.8719,-1140917.7377,100,"U Nemocnice 980, Valašské Meziříčí 75701",64124142,,Lékárna 1004,U nemocnice 980,75701,Valašské Meziříčí,Vsetín,Severní Morava,1999,"U nemocnice 980, Valašské Meziříčí 75701",U
+-805830.3684,-1149888.0499,100,"Pivovarská 332, Vimperk 38501",49621173,BENU,BENU Lékárna,Pivovarská 332/18,38501,Vimperk,,,2015,"Pivovarská 332, Vimperk 38501",Pivovarská
+-805350.535100002,-1150275.2879,100,"Pivovarská 111, Vimperk 38501",49062433,,MEDICO K+S spol. s r.o.,Pivovarská 111,38501,Vimperk,Prachatice,Jižní Čechy,1999,"Pivovarská 111, Vimperk 38501",Pivovarská
+-520881.4124,-1164839.2065,100,"Dlouhá 4215, Zlín 76001",49621173,BENU,BENU Lékárna,Dlouhá 4215,76001,Zlín,,,2015,"Dlouhá 4215, Zlín 76001",Dlouhá
+-520881.4124,-1164839.2065,100,"Dlouhá 4215, Zlín 76001",46971092,,"Centropharm, s.r.o.",Dlouhá 4215,76001,Zlín,Zlín,Jižní Morava,1999,"Dlouhá 4215, Zlín 76001",Dlouhá
+-761944.2064,-1154743.7545,100,"Tyršova 724, Zliv 37344",25216791,Devětsil JST,"Devětsil JST, s.r.o.",Tyršova 724,37344,Zliv,,,2015,"Tyršova 724, Zliv 37344",Tyršova
+-761944.2064,-1154743.7545,100,"Tyršova 724, Zliv 37344",25216791,,Lékárna Devětsil,Tyršova 724,37344,Zliv,České Budějovice,Jižní Čechy,1999,"Tyršova 724, Zliv 37344",Tyršova
+-755385.078699999,-1166092.6346,NA,,26230071,Dr.Max,Dr.Max LÉKÁRNA,nám. Přem.Otakara II. 88/26,37001,České Budějovice,,,2015,"nám. Přem.Otakara II. 88, České Budějovice 37001",nám.
+-755745.444400001,-1166184.7954,100,"nám. Přemysla Otakara II. 26, České Budějovice 37001",63910896,,Lékárna U bílého orla,nám. Přemysla Otakara II. 26,37001,České Budějovice,České Budějovice,Jižní Čechy,1999,"nám. Přemysla Otakara II. 26, České Budějovice 37001",nám.
+-887121.765000001,-1006146.9322,NA,,49621173,BENU,BENU Lékárna,tř. Svobody 502/3,35002,Cheb,,,2015,"tř. Svobody 502, Cheb 35002",tř.
+-887121.765000001,-1006146.9322,NA,,25652672,,"Pharma City, s.r.o., lékárna Centrum",tř. Svobody 3,35002,Cheb,Cheb,Západní Čechy,1999,"tř. Svobody 3, Cheb 35002",tř.
+-746797.445300002,-964455.170200001,NA,,49621173,BENU,BENU Lékárna,Duchcovská 1,45001,Děčín,,,2015,"Duchcovská 1, Děčín 45001",Duchcovská
+-746798.426399998,-964455.565200001,100,"Duchcovská 1, Děčín 40502",49116665,,Lékárna,Duchcovská 1,40502,Děčín,Děčín,Severní Čechy,1999,"Duchcovská 1, Děčín 40502",Duchcovská
+-640829.841400001,-1042359.6284,NA,,25839136,Plzeňská lékárna,Lékárna U Zlatého lva,Velké náměstí 29,50002,Hradec Králové,,,2015,"Velké náměstí 29, Hradec Králové 50002",Velké
+-640829.841400001,-1042359.6284,NA,,48146552,,Lékárna U zlatého lva,Velké náměstí 29,50002,Hradec Králové,Hradec Králové,Východní Čechy,1999,"Velké náměstí 29, Hradec Králové 50002",Velké
+-850096.537700001,-1011170.021,NA,,49621173,BENU,BENU Lékárna,Dr. D. Bechera 827/3,36001,Karlovy Vary,,,2015,"Dr. D. Bechera 827, Karlovy Vary 36001",Dr.
+-850096.537700001,-1011170.021,NA,,25054066,,"J.N.S. Pharma s.r.o., lékárna",Dr. D. Bechera 3,36001,Karlovy Vary,Karlovy Vary,Západní Čechy,1999,"Dr. D. Bechera 3, Karlovy Vary 36001",Dr.
+-850541.597399998,-1011103.323,NA,,49621173,BENU,BENU Lékárna,nám. M.Horákové 1313/8,36001,Karlovy Vary,,,2015,"nám. M.Horákové 1313, Karlovy Vary 36001",nám.
+-850541.597399998,-1011103.323,NA,,25054066,,"J.N.S. Pharma s.r.o., lékárna",nám. Dr. M. Horákové 8,36001,Karlovy Vary,Karlovy Vary,Západní Čechy,1999,"nám. Dr. M. Horákové 8, Karlovy Vary 36001",nám.
+-765147.1866,-1033565.3765,NA,,26230071,Dr.Max,Dr.Max LÉKÁRNA,nám. Svobody 1976,27201,Kladno,,,2015,"nám. Svobody 1976, Kladno 27201",nám.
+-765147.1866,-1033565.3765,NA,,65727771,,Lékárna Formica-Poliklinika,nám. Svobody 1976,27201,Kladno,Kladno,Střední Čechy,1999,"nám. Svobody 1976, Kladno 27201",nám.
+-492787.9078,-1127313.1223,NA,,25319141,Agel,LÉKÁRNA AGEL,K Nemocnici 76,74111,Nový Jičín,,,2015,"K Nemocnici 76, Nový Jičín 74111",K
+-492683.880100001,-1127075.5277,97.5,"K Nemocnici 769, Nový Jičín 74101",844781,,Lékárna Delfín NsP Nový Jičín,K nemocnici 76,74101,Nový Jičín,Nový Jičín,Severní Morava,1999,"K nemocnici 76, Nový Jičín 74101",K
+-545362.320599999,-1121891.5143,NA,,25319141,Agel,LÉKÁRNA AGEL,Jeremenkova 1056/40,77200,Olomouc,,,2015,"Jeremenkova 1056, Olomouc 77200",Jeremenkova
+-545362.320599999,-1121891.5143,NA,,48807435,,"Ústavní lékárna, Želez. nem.,Olomouc",Jeremenkova 40,77200,Olomouc,Olomouc,Severní Morava,1999,"Jeremenkova 40, Olomouc 77200",Jeremenkova
+-496220.3675,-1089974.6833,NA,,49621173,BENU,BENU Lékárna,Hlavní 120,74706,Opava - Kylešovice,,,2015,"Hlavní 120, Opava - Kylešovice 74706",Hlavní
+-496220.3675,-1089974.6833,NA,,44266669,,Lékárna Žabka,Hlavní 120,74706,Opava - Kylešovice,Opava,Severní Morava,1999,"Hlavní 120, Opava - Kylešovice 74706",Hlavní
+-819480.8649,-1069336.5151,NA,,49621173,BENU,BENU Lékárna,Masarykova 62,31212,Plzeň,,,2015,"Masarykova 62, Plzeň 31212",Masarykova
+-822938.8147,-1070354.396,NA,,61775916,,"ALIPEX, s.r.o., lékárna Čtyřlístek",Masarykova tř. 62,30100,Plzeň,Plzeň-město,Západní Čechy,1999,"Masarykova tř. 62, Plzeň 30100",Masarykova
+-823136.861499999,-1070351.6931,NA,,49621173,BENU,BENU Lékárna,Skrétova 47,30125,Plzeň,,,2015,"Skrétova 47, Plzeň 30125",Skrétova
+-823136.861499999,-1070351.6931,NA,,61775916,,"ALIPEX, s.r.o., lékárna Čtyřlístek",Skrétova 47,30122,Plzeň,Plzeň-město,Západní Čechy,1999,"Skrétova 47, Plzeň 30122",Skrétova
+-746601.999899998,-1042845.0009,95.2,"Pod Marjánkou 1427, Praha 16900",48574368,,Lékárna Pod Marjánkou,Pod Marjánkou 12,16900,Praha 6,Praha 6,Hl.m.Praha,1999,"Pod Marjánkou 12, Praha 16900",Pod
+-746767.921599999,-1042764.1185,NA,,67786723,,Zdravotnické potřeby,Pod Marjánkou 12,16000,Praha 6,Praha 6,Hl.m.Praha,1999,"Pod Marjánkou 12, Praha 16000",Pod
+-744351.403900001,-1041264.7022,NA,,49621173,BENU,BENU Lékárna,Vítězné nám. 9,16000,Praha 6,,,2015,"Vítězné nám. 9, Praha 16000",Vítězné
+-744351.996300001,-1041265.0019,100,"Vítězné náměstí 9, Praha 16000",25650378,,"Lékárna KULATÁ, s.r.o.",Vítězné náměstí 9,16000,Praha 6,Praha 6,Hl.m.Praha,1999,"Vítězné náměstí 9, Praha 16000",Vítězné
+-730992.0405,-1042138.5065,NA,,49621173,BENU,BENU Lékárna,Chlumecká 765/6,19819,Praha 9,,,2015,"Chlumecká 765, Praha 19819",Chlumecká
+-730913.006000001,-1042351.0244,100,"Chlumecká 765, Praha 19800",64580768,Červený bod,"Lékárna Centrum, Červený bos, s.r.o.",Chlumecká 765,19800,Praha 9,Praha 9,Hl.m.Praha,1999,"Chlumecká 765, Praha 19800",Chlumecká
+-532607.637699999,-1138245.244,NA,,25319141,Agel,LÉKÁRNA AGEL,Dvořákova 75,75152,Přerov,,,2015,"Dvořákova 75, Přerov 75152",Dvořákova
+-532603.634,-1138200.705,100,"Dvořákova 75, Přerov 75002",44888830,,Ústavní lékárna,Dvořákova 75,75002,Přerov,Přerov,Severní Morava,1999,"Dvořákova 75, Přerov 75002",Dvořákova
+-780058.8453,-1084169.217,NA,,25216791,Devětsil JST,Lékárna U Naděje,Zdaboř 227,26101,Příbram V,,,2015,"Zdaboř 227, Příbram V 26101",Zdaboř
+-780058.8453,-1084169.217,NA,,61100323,,Lékárna U naděje,Zdaboř 227,26105,Příbram V,Příbram,Střední Čechy,1999,"Zdaboř 227, Příbram V 26105",Zdaboř
+-791395.2355,-1034208.7195,NA,,49621173,BENU,BENU Lékárna,Husovo nám. 2347,26901,Rakovník,,,2015,"Husovo nám. 2347, Rakovník 26901",Husovo
+-791396.059599999,-1034209.3121,100,"Husovo náměstí 2347, Rakovník 26901",63806096,,Lékárna U raka,Husovo náměstí 2347,26901,Rakovník,Rakovník,Střední Čechy,1999,"Husovo náměstí 2347, Rakovník 26901",Husovo
+-749033.177299999,-1090148.5502,NA,,26230071,Dr.Max,Dr.Max LÉKÁRNA,ul. 28.října 177,26401,Sedlčany,,,2015,"ul. 28.října 177, Sedlčany 26401",ul.
+-749033.177299999,-1090148.5502,NA,,46350471,,LINEPHARM - lékárna U Bílého lva,ul. 28. října 177,26401,Sedlčany,Příbram,Střední Čechy,1999,"ul. 28. října 177, Sedlčany 26401",ul.
+-764392.612399999,-1023858.1534,NA,,26230071,Dr.Max,Dr.Max LÉKÁRNA,Husova tř. 105/12,27401,Slaný,,,2015,"Husova tř. 105, Slaný 27401",Husova
+-764392.612399999,-1023858.1534,NA,,48704032,,Lékárna  CENTRUM,Husova třída 105,27401,Slaný,Kladno,Střední Čechy,1999,"Husova třída 105, Slaný 27401",Husova
+-706785.3378,-978891.139400002,NA,,49621173,BENU,BENU Lékárna,Revoluční 161,47127,Stráž pod Ralskem,,,2015,"Revoluční 161, Stráž pod Ralskem 47127",Revoluční
+-706785.3378,-978891.139400002,NA,,64580768,Červený bod,"Lékárna U slunečnice, Červ.bod, s.r.o.",Revoluční 161,47127,Stráž pod Ralskem,Česká Lípa,Severní Čechy,1999,"Revoluční 161, Stráž pod Ralskem 47127",Revoluční
+-734782.944800001,-1119836.5223,NA,,49621173,BENU,BENU Lékárna,Husovo náměstí 530/1,39002,Tábor,,,2015,"Husovo náměstí 530, Tábor 39002",Husovo
+-734782.944800001,-1119836.5223,NA,,46633936,,Bořivojova lékárna,Husovo náměstí 530,39001,Tábor,Tábor,Jižní Čechy,1999,"Husovo náměstí 530, Tábor 39001",Husovo
+-496207.282200001,-1140917.4838,NA,,25319141,Agel,LÉKÁRNA AGEL,U nemocnice 980,75742,Valašské Meziříčí,,,2015,"U nemocnice 980, Valašské Meziříčí 75742",U
+-496209.8719,-1140917.7377,100,"U Nemocnice 980, Valašské Meziříčí 75701",64124142,,Lékárna 1004,U nemocnice 980,75701,Valašské Meziříčí,Vsetín,Severní Morava,1999,"U nemocnice 980, Valašské Meziříčí 75701",U
+-520112.713599999,-1165234.9781,NA,,49621173,BENU,BENU Lékárna,tř. T.Bati 3705,76001,Zlín,,,2015,"tř. T.Bati 3705, Zlín 76001",tř.
+-520112.713599999,-1165234.9781,NA,,46971092,,"Centropharm, s.r.o.",tř. T. Bati 3705,76001,Zlín,Zlín,Jižní Morava,1999,"tř. T. Bati 3705, Zlín 76001",tř.
+-770428.0953,-1053842.8531,100,"Obchodní 250, Beroun 26601",26230071,Dr.Max,Dr.Max LÉKÁRNA,Obchodní 250,26601,Beroun,,,2015,"Obchodní 250, Beroun 26601",Obchodní
+-770428.0953,-1053842.8531,100,"Obchodní 250, Beroun 26601",26306662,BRL Center CZ,"BRL Center CZ s.r.o., A lékárna v Kauflandu",Obchodní 250,26601,Beroun,Beroun,Středočeský kraj,2007,"Obchodní 250, Beroun 26601",Obchodní
+-780630.855599999,-986681.580200002,100,"Pražská 206, Bílina 41801",49621173,BENU,BENU Lékárna,Pražská 206/95,41801,Bílina,,,2015,"Pražská 206, Bílina 41801",Pražská
+-780630.855599999,-986681.580200002,100,"Pražská 206, Bílina 41801",49086979,,Lékárna U Polikliniky,Pražská 206/95,41801,Bílina,Teplice,Ústecký kraj,2007,"Pražská 206, Bílina 41801",Pražská
+-593456.951299999,-1142664.7078,100,"Seifertova 1683, Blansko 67801",26230071,Dr.Max,Dr.Max LÉKÁRNA,Seifertova 1683/6a,67801,Blansko,,,2015,"Seifertova 1683, Blansko 67801",Seifertova
+-593463.423799999,-1142656.3499,95,"Seifertova 6, Blansko 67801",60583304,,Lékárna Alba,Seifertova 6a,67801,Blansko,Blansko,Jihomoravský kraj,2007,"Seifertova 6a, Blansko 67801",Seifertova
+-464965.241300002,-1094122.9268,100,"Čáslavská 1176, Bohumín 73581",25319141,Agel,LÉKÁRNA AGEL,Čáslavská 1176,73581,Bohumín,,,2015,"Čáslavská 1176, Bohumín 73581",Čáslavská
+-464965.241300002,-1094122.9268,100,"Čáslavská 1176, Bohumín 73581",61988243,,Lékárna Clara,Čáslavská 1176,73581,Bohumín,Karviná,Moravskoslezský kraj,2007,"Čáslavská 1176, Bohumín 73581",Čáslavská
+-599454.065200001,-1153129.0256,96.25,"Hradecká 408, Brno 62100",26230071,Dr.Max,Dr.Max LÉKÁRNA,Hradecká 40,62100,Brno,,,2015,"Hradecká 40, Brno 62100",Hradecká
+-599454.065200001,-1153129.0256,96.25,"Hradecká 408, Brno 62100",49688596,Lékárny Lloyds,"Lékárny Lloyds s.r.o., Lékárna Globus",Hradecká 40,62100,Brno,Brno-město,Jihomoravský kraj,2007,"Hradecká 40, Brno 62100",Hradecká
+-600686.912700001,-1162511.9081,95,"Kamenice 1, Brno 62500",26230071,Dr.Max,Dr.Max LÉKÁRNA,Kamenice 1a,62500,Brno,,,2015,"Kamenice 1a, Brno 62500",Kamenice
+-600297.059799999,-1162886.6497,NA,,26307260,,"KAUFARM spol. s r.o., A Lékárna v Kauflandu",Kamenice 1a,60200,Brno,Brno-město,Jihomoravský kraj,2007,"Kamenice 1a, Brno 60200",Kamenice
+-604334.9846,-1157207.7756,100,"Kubíčkova 6, Brno 63500",26230071,Dr.Max,Dr.Max LÉKÁRNA,Kubíčkova 6,63500,Brno,,,2015,"Kubíčkova 6, Brno 63500",Kubíčkova
+-604334.9846,-1157207.7756,100,"Kubíčkova 6, Brno 63500",48510173,,Lékárna Akát,Kubíčkova 6,63500,Brno,Brno-město,Jihomoravský kraj,2007,"Kubíčkova 6, Brno 63500",Kubíčkova
+-603174.0108,-1160252.5363,100,"Libušina třída 578, Brno 62300",26230071,Dr.Max,Dr.Max LÉKÁRNA,Libušina třída 578/19,62300,Brno,,,2015,"Libušina třída 578, Brno 62300",Libušina
+-603174.0108,-1160252.5363,100,"Libušina třída 19, Brno 62300",60746882,,Lékárna LIPSKO,Libušina třída 19,62300,Brno,Brno-město,Jihomoravský kraj,2007,"Libušina třída 19, Brno 62300",Libušina
+-598117.750599999,-1159803.9558,100,"Lidická 42, Brno 60200",49621173,BENU,BENU Lékárna,Lidická 42,60200,Brno,,,2015,"Lidická 42, Brno 60200",Lidická
+-598117.750599999,-1159803.9558,100,"Lidická 42, Brno 60200",71178058,,Lékárna Na Lidické,Lidická 42,60200,Brno,Brno-město,Jihomoravský kraj,2007,"Lidická 42, Brno 60200",Lidická
+-600210.374499999,-1157946.3588,100,"Makovského náměstí 3147, Brno 61600",49621173,BENU,BENU Lékárna,Makovského náměstí 3147/2,61600,Brno,,,2015,"Makovského náměstí 3147, Brno 61600",Makovského
+-600210.374499999,-1157946.3588,100,"Makovského náměstí 2, Brno 61600",26904896,,Lékárna U RUBÍNU a.s.,Makovského náměstí 2,61600,Brno,Brno-město,Jihomoravský kraj,2007,"Makovského náměstí 2, Brno 61600",Makovského
+-601597.2421,-1163391.0258,100,"U pošty 14, Brno 62500",26230071,Dr.Max,Dr.Max LÉKÁRNA,U Pošty 14,62500,Brno,,,2015,"U Pošty 14, Brno 62500",U
+-601597.2421,-1163391.0258,100,"U pošty 14, Brno 62500",27382443,,"APOTHEKA U POŠTY, s.r.o., Lékárna U Pošty",U Pošty 14,62500,Brno,Brno-město,Jihomoravský kraj,2007,"U Pošty 14, Brno 62500",U
+-527032.1646,-1078678.9683,96.25,"Nádražní 29, Bruntál 79201",25319141,Agel,LÉKÁRNA AGEL,Nádražní 29a/1778,79201,Bruntál,,,2015,"Nádražní 29a, Bruntál 79201",Nádražní
+-527032.1646,-1078678.9683,96.25,"Nádražní 29, Bruntál 79201",45194556,,"Lemak s.r.o., Lékárna 1 ",Nádražní 29a,79201,Bruntál,Bruntál,Moravskoslezský kraj,2007,"Nádražní 29a, Bruntál 79201",Nádražní
+-725637.336399999,-978416.4428,100,"Erbenova 2906, Česká Lípa 47001",26230071,Dr.Max,Dr.Max LÉKÁRNA,Erbenova 2906,47001,Česká Lípa,,,2015,"Erbenova 2906, Česká Lípa 47001",Erbenova
+-725637.336399999,-978416.4428,100,"Erbenova 2906, Česká Lípa 47001",26849518,,"PeSa - RoTe, s.r.o., Prima lékárna",Erbenova 2906,47001,Česká Lípa,Česká Lípa,Liberecký kraj,2007,"Erbenova 2906, Česká Lípa 47001",Erbenova
+-601445.171999998,-1080879.9284,100,"Masarykova 1293, Česká Třebová 56002",49621173,BENU,BENU Lékárna,Masarykova 1293,56002,Česká Třebová,,,2015,"Masarykova 1293, Česká Třebová 56002",Masarykova
+-601445.171999998,-1080879.9284,100,"Masarykova 1293, Česká Třebová 56002",27466655,,"LÉKÁRNA ARNIKA ČT s.r.o., Lékárna Arnica",Masarykova 1293,56002,Česká Třebová,Ústí nad Orlicí,Pardubický kraj,2007,"Masarykova 1293, Česká Třebová 56002",Masarykova
+-757126.556000002,-1162962.556,100,"České Vrbné 2327, České Budějovice 37011",26230071,Dr.Max,Dr.Max LÉKÁRNA,České Vrbné 2327,37011,České Budějovice,,,2015,"České Vrbné 2327, České Budějovice 37011",České
+-757126.556000002,-1162962.556,100,"České Vrbné 2327, České Budějovice 37011",25565907,,"Pharmazet, s.r.o., Lékárna V Globusu ",České Vrbné 2327,37011,České Budějovice,České Budějovice,Jihočeský kraj,2007,"České Vrbné 2327, České Budějovice 37011",České
+-757081.4771,-1164373.2758,100,"Fr. Ondříčka 1088, České Budějovice 37011",25216791,Devětsil JST,Lékárna Samaritán,Fr. Ondříčka 1088/2,37011,České Budějovice,,,2015,"Fr. Ondříčka 1088, České Budějovice 37011",Fr.
+-757081.4771,-1164373.2758,100,"Fr. Ondříčka 2, České Budějovice 37011",61775916,ALIPEX,"ALIPEX s.r.o., Lékárna Čtyřlístek",Fr. Ondříčka 2,37011,České Budějovice,České Budějovice,Jihočeský kraj,2007,"Fr. Ondříčka 2, České Budějovice 37011",Fr.
+-755678.416299999,-1165895.7266,100,"Na Mlýnské stoce 290, České Budějovice 37001",49621173,BENU,BENU Lékárna,Na Mlýnské stoce 290/10,37001,České Budějovice,,,2015,"Na Mlýnské stoce 290, České Budějovice 37001",Na
+-755678.416299999,-1165895.7266,100,"Na Mlýnské stoce 290, České Budějovice 37001",49017764,,LÉKÁRNA U MATKY BOŽÍ s.r.o.,Na Mlýnské stoce 290/10,37001,České Budějovice,České Budějovice,Jihočeský kraj,2007,"Na Mlýnské stoce 290, České Budějovice 37001",Na
+-755520.578499999,-1165882.3644,97,"Na Sadech 2033, České Budějovice 37001",26230071,Dr.Max,Dr.Max LÉKÁRNA,Na Sadech 23,37001,České Budějovice,,,2015,"Na Sadech 23, České Budějovice 37001",Na
+-755520.578499999,-1165882.3644,97,"Na Sadech 2033, České Budějovice 37001",60066326,,Lékárna SEVER,Na Sadech 23,37001,České Budějovice,České Budějovice,Jihočeský kraj,2007,"Na Sadech 23, České Budějovice 37001",Na
+-755897.537900001,-1165049.9761,90,"Pražská tř. 71, České Budějovice 37004",26230071,Dr.Max,Dr.Max LÉKÁRNA,Pražská 71,37004,České Budějovice,,,2015,"Pražská 71, České Budějovice 37004",Pražská
+-755897.537900001,-1165049.9761,90,"Pražská tř. 71, České Budějovice 37004",60072776,,Lékárna Pražská,Pražská 71,37004,České Budějovice,České Budějovice,Jihočeský kraj,2007,"Pražská 71, České Budějovice 37004",Pražská
+-755660.819400001,-1166486.7682,100,"Senovážné nám. 1616, České Budějovice 37001",49621173,BENU,BENU Lékárna,Senovážné nám. 1616,37001,České Budějovice,,,2015,"Senovážné nám. 1616, České Budějovice 37001",Senovážné
+-755660.819400001,-1166486.7682,100,"Senovážné nám. 1616, České Budějovice 37001",60066326,,Lékárna U Muzea,Senovážné nám. 1616,37001,České Budějovice,České Budějovice,Jihočeský kraj,2007,"Senovážné nám. 1616, České Budějovice 37001",Senovážné
+-447020.4232,-1113447.8756,100,"Hlavní třída 43, Český Těšín 73701",25319141,Agel,LÉKÁRNA AGEL,Hlavní třída 43/34,73701,Český Těšín,,,2015,"Hlavní třída 43, Český Těšín 73701",Hlavní
+-447020.4232,-1113447.8756,90,"Hlavní třída 34, Český Těšín 73701",45217092,,Lékárna U Salvátora,Hlavní 34,73701,Český Těšín,Karviná,Moravskoslezský kraj,2007,"Hlavní 34, Český Těšín 73701",Hlavní
+-616073.041099999,-1068263.7116,100,"Smetanova 830, Choceň 56501",25839136,Plzeňská lékárna,Lékárna Na Poliklinice,Smetanova 830,56501,Choceň,,,2015,"Smetanova 830, Choceň 56501",Smetanova
+-616073.041099999,-1068263.7116,100,"Smetanova 830, Choceň 56501",70142807,,Lékárna Na poliklinice,Smetanova 830,56501,Choceň,Ústí nad Orlicí,Pardubický kraj,2007,"Smetanova 830, Choceň 56501",Smetanova
+-616088.8818,-1068765.8406,100,"T. G. Masaryka 623, Choceň 56501",49621173,BENU,BENU Lékárna,T. G. Masaryka 623,56501,Choceň,,,2015,"T. G. Masaryka 623, Choceň 56501",T.
+-616088.8818,-1068765.8406,100,"T. G. Masaryka 623, Choceň 56501",47498617,,Lékárna U anděla strážce,T. G. Masaryka 623,56501,Choceň,Ústí nad Orlicí,Pardubický kraj,2007,"T. G. Masaryka 623, Choceň 56501",T.
+-541309.763300002,-1147998.3544,100,"Moravská 797, Chropyně 76811",49621173,BENU,BENU Lékárna,Moravská 797,76811,Chropyně,,,2015,"Moravská 797, Chropyně 76811",Moravská
+-541309.763300002,-1147998.3544,100,"Moravská 797, Chropyně 76811",27668665,,Lékárna LUNAPHARMA s.r.o. ,Moravská 797,76811,Chropyně,Kroměříž,Zlínský kraj,2007,"Moravská 797, Chropyně 76811",Moravská
+-647544.082199998,-1070341.8222,100,"Masarykovo náměstí 55, Chrudim 53701",26230071,Dr.Max,Dr.Max LÉKÁRNA,Masarykovo náměstí 55,53701,Chrudim,,,2015,"Masarykovo náměstí 55, Chrudim 53701",Masarykovo
+-647544.082199998,-1070341.8222,100,"Masarykovo náměstí 55, Chrudim 53701",27197123,,"TL - Pharma s.r.o., Lékárna Pharma",Masarykovo náměstí 55,53701,Chrudim,Chrudim,Pardubický kraj,2007,"Masarykovo náměstí 55, Chrudim 53701",Masarykovo
+-755721.627500001,-1059188.5403,100,"Palackého 541, Dobřichovice 25229",49621173,BENU,BENU Lékárna,Palackého 541,25229,Dobřichovice,,,2015,"Palackého 541, Dobřichovice 25229",Palackého
+-755721.627500001,-1059188.5403,100,"Palackého 541, Dobřichovice 25229",26179164,,"Lékárna HAVRA NZ, s.r.o",Palackého 541,25229,Dobřichovice,Praha-západ,Středočeský kraj,2007,"Palackého 541, Dobřichovice 25229",Palackého
+-859611.426899999,-1098412.4171,100,"Kostelní 168, Domažlice 34401",49621173,BENU,BENU Lékárna,Kostelní 168,34401,Domažlice,,,2015,"Kostelní 168, Domažlice 34401",Kostelní
+-859611.426899999,-1098412.4171,100,"Kostelní 168, Domažlice 34401",49204378,,Lékárna Pod věží,Kostelní 168,34401,Domažlice,Domažlice,Plzeňský kraj,2007,"Kostelní 168, Domažlice 34401",Kostelní
+-639436.213,-1017717.4911,94.64,"náměstí T. G. Masaryka 56, Dvůr Králové nad Labem 54401",49621173,BENU,BENU Lékárna,náměstí T.G. Masaryka 56,54401,Dvůr Králové nad Labem,,,2015,"náměstí T.G. Masaryka 56, Dvůr Králové nad Labem 54401",náměstí
+-639436.213,-1017717.4911,100,"náměstí T. G. Masaryka 56, Dvůr Králové nad Labem 54401",48138690,,Lékárna Na náměstí,náměstí T. G. Masaryka 56,54401,Dvůr Králové nad Labem,Trutnov,Královéhradecký kraj,2007,"náměstí T. G. Masaryka 56, Dvůr Králové nad Labem 54401",náměstí
+-639259.192400001,-1017868.451,100,"Preslova 2658, Dvůr Králové nad Labem 54401",26230071,Dr.Max,Dr.Max LÉKÁRNA,Preslova 2658,54401,Dvůr Králové nad Labem,,,2015,"Preslova 2658, Dvůr Králové nad Labem 54401",Preslova
+-639259.192400001,-1017868.451,100,"Preslova 2658, Dvůr Králové nad Labem 54401",48138746,,Lékárna u polikliniky,Preslova 2658,54401,Dvůr Králové nad Labem,Trutnov,Královéhradecký kraj,2007,"Preslova 2658, Dvůr Králové nad Labem 54401",Preslova
+-478389.4833,-1133160.4677,100,"Rožnovská 240, Frenštát pod Radhoštěm 74401",26230071,Dr.Max,Dr.Max LÉKÁRNA,Rožnovská 240,74401,Frenštát pod Radhoštěm,,,2015,"Rožnovská 240, Frenštát pod Radhoštěm 74401",Rožnovská
+-478389.4833,-1133160.4677,100,"Rožnovská 240, Frenštát pod Radhoštěm 74401",26820501,,"Lékárna Na poliklinice, s.r.o.",Rožnovská 240,74401,Frenštát pod Radhoštěm,Nový Jičín,Moravskoslezský kraj,2007,"Rožnovská 240, Frenštát pod Radhoštěm 74401",Rožnovská
+-667090.607700001,-1106870.1162,100,"Dolní 100, Havlíčkův Brod 58001",26230071,Dr.Max,Dr.Max LÉKÁRNA,Dolní 100,58001,Havlíčkův Brod,,,2015,"Dolní 100, Havlíčkův Brod 58001",Dolní
+-667090.607700001,-1106870.1162,100,"Dolní 100, Havlíčkův Brod 58001",46485929,,Lékárna U Zlaté lilie,Dolní 100,58001,Havlíčkův Brod,Havlíčkův Brod,Vysočina,2007,"Dolní 100, Havlíčkův Brod 58001",Dolní
+-641908.780000001,-1091925.667,100,"Nádražní 548, Hlinsko 53901",26230071,Dr.Max,Dr.Max LÉKÁRNA,Nádražní 548,53901,Hlinsko,,,2015,"Nádražní 548, Hlinsko 53901",Nádražní
+-641908.780000001,-1091925.667,100,"Nádražní 548, Hlinsko 53901",49688596,Lékárny Lloyds,"Lékárny Lloyds s.r.o., Lékárna Na poliklinice",Nádražní 548,53901,Hlinsko,Chrudim,Pardubický kraj,2007,"Nádražní 548, Hlinsko 53901",Nádražní
+-757740.997400001,-1157086.7469,100,"Masarykova 1, Hluboká nad Vltavou 37341",49621173,BENU,BENU Lékárna,Masarykova 1,37341,Hluboká nad Vltavou,,,2015,"Masarykova 1, Hluboká nad Vltavou 37341",Masarykova
+-757740.997400001,-1157086.7469,100,"Masarykova 1, Hluboká nad Vltavou 37341",63277115,,Lékárna,Masarykova 1,37341,Hluboká nad Vltavou,České Budějovice,Jihočeský kraj,2007,"Masarykova 1, Hluboká nad Vltavou 37341",Masarykova
+-565020.010400001,-1202443.9081,100,"Dvořákova 4115, Hodonín 69501",26230071,Dr.Max,Dr.Max LÉKÁRNA,"Dvořákova 4115/6, NC Cukrovar",69501,Hodonín,,,2015,"Dvořákova 4115, Hodonín 69501",Dvořákova
+-565020.010400001,-1202443.9081,100,"Dvořákova 6, Hodonín 69501",26306662,BRL Center CZ,"BRL Center CZ s.r.o., A lékárna v Kauflandu",Dvořákova 6/4115,69501,Hodonín,Hodonín,Jihomoravský kraj,2007,"Dvořákova 6, Hodonín 69501",Dvořákova
+-653184.241799999,-1023163.2916,100,"Havlíčkova 146, Hořice 50801",26230071,Dr.Max,Dr.Max LÉKÁRNA,Havlíčkova 146,50801,Hořice,,,2015,"Havlíčkova 146, Hořice 50801",Havlíčkova
+-653184.241799999,-1023163.2916,100,"Havlíčkova 146, Hořice 50801",47477521,,Lékárna U Mouřenína,Havlíčkova 146,50801,Hořice,Jičín,Královéhradecký kraj,2007,"Havlíčkova 146, Hořice 50801",Havlíčkova
+-642039.811299998,-1041775.6826,90,"Dukelská třída 479, Hradec Králové 50002",26230071,Dr.Max,Dr.Max LÉKÁRNA,Dukelská 479,50002,Hradec Králové,,,2015,"Dukelská 479, Hradec Králové 50002",Dukelská
+-642039.811299998,-1041775.6826,90,"Dukelská třída 479, Hradec Králové 50002",48154083,,"SALVIA, s.r.o. - Lékárna 02",Dukelská 479,50002,Hradec Králové,Hradec Králové,Královéhradecký kraj,2007,"Dukelská 479, Hradec Králové 50002",Dukelská
+-641105.541700002,-1043589.252,100,"Hradecká 1690, Hradec Králové 50012",49621173,BENU,BENU Lékárna,Hradecká 1690/2a,50012,Hradec Králové,,,2015,"Hradecká 1690, Hradec Králové 50012",Hradecká
+-641105.541700002,-1043589.252,100,"Hradecká 1690, Hradec Králové 50012",48631442,,Lékárna pohotovostní,Hradecká 1690/2a,50012,Hradec Králové,Hradec Králové,Královéhradecký kraj,2007,"Hradecká 1690, Hradec Králové 50012",Hradecká
+-641697.975200001,-1042240.5737,100,"Jeronýmova 750, Hradec Králové 50002",26230071,Dr.Max,Dr.Max LÉKÁRNA,Jeronýmova 750,50002,Hradec Králové,,,2015,"Jeronýmova 750, Hradec Králové 50002",Jeronýmova
+-641697.975200001,-1042240.5737,100,"Jeronýmova 750, Hradec Králové 50002",49688596,Lékárny Lloyds,"Lékárny Lloyds s.r.o., Na poliklinice",Jeronýmova 750,50002,Hradec Králové,Hradec Králové,Královéhradecký kraj,2007,"Jeronýmova 750, Hradec Králové 50002",Jeronýmova
+-640346.8301,-1040599.0911,100,"K Sokolovně 309, Hradec Králové 50341",25839136,Plzeňská lékárna,Lékárna Věkoše,K Sokolovně 309,50341,Hradec Králové,,,2015,"K Sokolovně 309, Hradec Králové 50341",K
+-640346.8301,-1040599.0911,100,"K Sokolovně 309, Hradec Králové 50341",25976451,,"Lékárna Věkoše, s.r.o.",K Sokolovně 309,50341,Hradec Králové,Hradec Králové,Královéhradecký kraj,2007,"K Sokolovně 309, Hradec Králové 50341",K
+-639813.5013,-1046062.5532,100,"Pešinova 153, Hradec Králové 50008",25839136,Plzeňská lékárna,Svatojánská lékárna,Pešinova 153,50008,Hradec Králové,,,2015,"Pešinova 153, Hradec Králové 50008",Pešinova
+-639813.5013,-1046062.5532,100,"Pešinova 153, Hradec Králové 50008",27460894,,"Svatojánská lékárna, s.r.o.",Pešinova 153,50008,Hradec Králové,Hradec Králové,Královéhradecký kraj,2007,"Pešinova 153, Hradec Králové 50008",Pešinova
+-640463.6006,-1041531.2404,100,"Pilnáčkova 436, Hradec Králové 50003",26230071,Dr.Max,Dr.Max LÉKÁRNA,Pilnáčkova 436/11,50003,Hradec Králové,,,2015,"Pilnáčkova 436, Hradec Králové 50003",Pilnáčkova
+-640463.6006,-1041531.2404,100,"Pilnáčkova 436, Hradec Králové 50003",26306662,BRL Center CZ,"BRL Center CZ s.r.o., A lékárna v Kauflandu",Pilnáčkova 436/11,50003,Hradec Králové,Hradec Králové,Královéhradecký kraj,2007,"Pilnáčkova 436, Hradec Králové 50003",Pilnáčkova
+-640312.2119,-1042034.6204,100,"Pospíšilova 390, Hradec Králové 50003",49621173,BENU,BENU Lékárna,Pospíšilova 390,50003,Hradec Králové,,,2015,"Pospíšilova 390, Hradec Králové 50003",Pospíšilova
+-640311.860800002,-1042034.8377,NA,,26011409,,"PKZM s.r.o., Lékárna Pospíšilova třída",Pospíšilova třída 390,50003,Hradec Králové,Hradec Králové,Královéhradecký kraj,2007,"Pospíšilova třída 390, Hradec Králové 50003",Pospíšilova
+-642374.052900001,-1041732.5948,100,"S. K. Neumanna 329, Hradec Králové 50002",26230071,Dr.Max,Dr.Max LÉKÁRNA,S. K. Neumanna 329,50002,Hradec Králové,,,2015,"S. K. Neumanna 329, Hradec Králové 50002",S.
+-642374.052900001,-1041732.5948,100,"S. K. Neumanna 329, Hradec Králové 50002",11154781,,Lékárna Arnika,S. K. Neumanna 329,50002,Hradec Králové,Hradec Králové,Královéhradecký kraj,2007,"S. K. Neumanna 329, Hradec Králové 50002",S.
+-639537.524500001,-1042239.8219,100,"Víta Nejedlého 1063, Hradec Králové 50003",26230071,Dr.Max,Dr.Max LÉKÁRNA,Víta Nejedlého 1063,50003,Hradec Králové,,,2015,"Víta Nejedlého 1063, Hradec Králové 50003",Víta
+-639543.3347,-1042243.2148,NA,,25531603,,"Rent-Pharm, a.s., Lékárna Centrum",Víta Nejedlého 1063,50331,Hradec Králové,Hradec Králové,Královéhradecký kraj,2007,"Víta Nejedlého 1063, Hradec Králové 50331",Víta
+-701837.377900001,-962506.993999999,100,"Revoluční 106, Hrádek nad Nisou 46334",49621173,BENU,BENU Lékárna,Revoluční 106,46334,Hrádek nad Nisou,,,2015,"Revoluční 106, Hrádek nad Nisou 46334",Revoluční
+-701837.377900001,-962506.993999999,100,"Revoluční 106, Hrádek nad Nisou 46334",49108492,,Lékárna Alfa,Revoluční 106,46334,Hrádek nad Nisou,Liberec,Liberecký kraj,2007,"Revoluční 106, Hrádek nad Nisou 46334",Revoluční
+-438419.4936,-1133288.2979,100,"Školní 474, Jablunkov 73991",26230071,Dr.Max,Dr.Max LÉKÁRNA,Školní 474,73991,Jablunkov,,,2015,"Školní 474, Jablunkov 73991",Školní
+-438419.4936,-1133288.2979,100,"Školní 474, Jablunkov 73991",49688596,Lékárny Lloyds,"Lékárny Lloyds s.r.o., Lékárna U polikliniky",Školní 474,73991,Jablunkov,Frýdek-Místek,Moravskoslezský kraj,2007,"Školní 474, Jablunkov 73991",Školní
+-671659.769200001,-1013384.4432,100,"Jungmannova 1132, Jičín 50601",49621173,BENU,BENU Lékárna,Jungmannova 1132,50601,Jičín,,,2015,"Jungmannova 1132, Jičín 50601",Jungmannova
+-671659.769200001,-1013384.4432,100,"Jungmannova 1132, Jičín 50601",27144496,,"PERSICARA a.s., Lékárna U Polikliniky",Jungmannova 1132,50601,Jičín,Jičín,Královéhradecký kraj,2007,"Jungmannova 1132, Jičín 50601",Jungmannova
+-667749.399799999,-1130242.3273,100,"Brněnská 74, Jihlava 58601",26230071,Dr.Max,Dr.Max LÉKÁRNA,Brněnská 74,58601,Jihlava,,,2015,"Brněnská 74, Jihlava 58601",Brněnská
+-667749.399799999,-1130242.3273,100,"Brněnská 74, Jihlava 58601",27145131,Eurolékárna,"Eurolékárna s.r.o., Lékárna",Brněnská 74,58601,Jihlava,Jihlava,Vysočina,2007,"Brněnská 74, Jihlava 58601",Brněnská
+-670380.127700001,-1129833.7452,100,"Vrchlického 57, Jihlava 58601",26230071,Dr.Max,Dr.Max LÉKÁRNA,Vrchlického 57,58601,Jihlava,,,2015,"Vrchlického 57, Jihlava 58601",Vrchlického
+-670380.127700001,-1129833.7452,100,"Vrchlického 57, Jihlava 58601",61737704,,Lékárna,Vrchlického 57,58601,Jihlava,Jihlava,Vysočina,2007,"Vrchlického 57, Jihlava 58601",Vrchlického
+-713718.535599999,-1152776.5351,100,"Jáchymova 903, Jindřichův Hradec 37701",26230071,Dr.Max,Dr.Max LÉKÁRNA,Jáchymova 903,37701,Jindřichův Hradec,,,2015,"Jáchymova 903, Jindřichův Hradec 37701",Jáchymova
+-713718.535599999,-1152776.5351,100,"Jáchymova 903, Jindřichův Hradec 37701",26306662,BRL Center CZ,"BRL Center CZ s.r.o., A lékárna v Kauflandu",Jáchymova 903,37701,Jindřichův Hradec,Jindřichův Hradec,Jihočeský kraj,2007,"Jáchymova 903, Jindřichův Hradec 37701",Jáchymova
+-758434.719000001,-1192225.5067,100,"Gen. Fanty 36, Kaplice 38241",26230071,Dr.Max,Dr.Max LÉKÁRNA,Gen. Fanty 36,38241,Kaplice,,,2015,"Gen. Fanty 36, Kaplice 38241",Gen.
+-758434.719000001,-1192225.5067,100,"Gen. Fanty 36, Kaplice 38241",26090473,,"Lékárna Kaplice s.r.o., Lékárna Poliklinika",Gen. Fanty 36,38241,Kaplice,Český Krumlov,Jihočeský kraj,2007,"Gen. Fanty 36, Kaplice 38241",Gen.
+-757970.538600001,-1192272.1773,100,"Náměstí 44, Kaplice 38241",26230071,Dr.Max,Dr.Max LÉKÁRNA,Náměstí 44,38241,Kaplice,,,2015,"Náměstí 44, Kaplice 38241",Náměstí
+-757970.538600001,-1192272.1773,100,"Náměstí 44, Kaplice 38241",26090473,,"Lékárna Kaplice s.r.o., Lékárna Náměstí",Náměstí 44,38241,Kaplice,Český Krumlov,Jihočeský kraj,2007,"Náměstí 44, Kaplice 38241",Náměstí
+-825529.4397,-997229.9003,100,"Sadová 528, Klášterec nad Ohří 43151",26230071,Dr.Max,Dr.Max LÉKÁRNA,Sadová 528,43151,Klášterec nad Ohří,,,2015,"Sadová 528, Klášterec nad Ohří 43151",Sadová
+-825529.4397,-997229.9003,100,"Sadová 528, Klášterec nad Ohří 43151",46790721,,Lékárna U Panny Marie Pomocné,Sadová 528,43151,Klášterec nad Ohří,Chomutov,Ústecký kraj,2007,"Sadová 528, Klášterec nad Ohří 43151",Sadová
+-834459.037,-1106576.9066,100,"Dukelská 513, Klatovy 33901",26230071,Dr.Max,Dr.Max LÉKÁRNA,Dukelská 513/II,33901,Klatovy,,,2015,"Dukelská 513, Klatovy 33901",Dukelská
+-834459.037,-1106576.9066,100,"Dukelská 513, Klatovy 33901",63509580,,"Klatovské zdraví a.s., Lékárna U Nemocnice",Dukelská 513/II,33901,Klatovy,Klatovy,Plzeňský kraj,2007,"Dukelská 513, Klatovy 33901",Dukelská
+-834366.506299999,-1107444.5476,100,"Kpt. Jaroše 110, Klatovy 33901",26230071,Dr.Max,Dr.Max LÉKÁRNA,kpt. Jaroše 110/I,33901,Klatovy,,,2015,"kpt. Jaroše 110, Klatovy 33901",kpt.
+-834366.506299999,-1107444.5476,100,"Kpt. Jaroše 110, Klatovy 33901",63509580,,"Klatovské zdraví a.s., Lékárna  Poseidon",kpt. Jaroše 110/I,33901,Klatovy,Klatovy,Plzeňský kraj,2007,"kpt. Jaroše 110, Klatovy 33901",kpt.
+-834775.534899998,-1106907.677,100,"Nádražní 843, Klatovy 33901",26230071,Dr.Max,Dr.Max LÉKÁRNA,Nádražní 843/III,33901,Klatovy,,,2015,"Nádražní 843, Klatovy 33901",Nádražní
+-834775.534899998,-1106907.677,100,"Nádražní 843, Klatovy 33901",63509580,,"Klatovské zdraví a.s., Lékárna",Nádražní 843/III,33901,Klatovy,Klatovy,Plzeňský kraj,2007,"Nádražní 843, Klatovy 33901",Nádražní
+-688354.166299999,-1056838.8346,100,"Karlovo náměstí 89, Kolín 28002",26230071,Dr.Max,Dr.Max LÉKÁRNA,Karlovo náměstí 89,28002,Kolín,,,2015,"Karlovo náměstí 89, Kolín 28002",Karlovo
+-688354.166299999,-1056838.8346,100,"Karlovo náměstí 89, Kolín 28002",49621173,EUROPHARM,"EUROPHARM a.s., Lékárna U ČERNÉHO ORLA",Karlovo náměstí 89,28002,Kolín,Kolín,Středočeský kraj,2007,"Karlovo náměstí 89, Kolín 28002",Karlovo
+-729028.949000001,-1029249.2301,100,"Turenská 565, Kostelec nad Labem 27713",26230071,Dr.Max,Dr.Max LÉKÁRNA,Turenská 565,27713,Kostelec nad Labem,,,2015,"Turenská 565, Kostelec nad Labem 27713",Turenská
+-729028.949000001,-1029249.2301,100,"Turenská 565, Kostelec nad Labem 27713",49688596,Lékárny Lloyds,"Lékárny Lloyds s.r.o., Lékárna Kostelec",Turenská 565,27713,Kostelec nad Labem,Mělník,Středočeský kraj,2007,"Turenská 565, Kostelec nad Labem 27713",Turenská
+-771819.679299999,-1054256.3925,100,"Plzeňská 396, Králův Dvůr 26701",26230071,Dr.Max,Dr.Max LÉKÁRNA,Plzeňská 396,26701,Králův Dvůr,,,2015,"Plzeňská 396, Králův Dvůr 26701",Plzeňská
+-771819.679299999,-1054256.3925,100,"Plzeňská 396, Králův Dvůr 26701",27135292,,Lékárna Medinila s.r.o.,Plzeňská 396,26701,Králův Dvůr,Beroun,Středočeský kraj,2007,"Plzeňská 396, Králův Dvůr 26701",Plzeňská
+-687802.435899999,-1093945.3777,100,"Habrecká 450, Ledeč nad Sázavou 58401",26230071,Dr.Max,Dr.Max LÉKÁRNA,Habrecká 450,58401,Ledeč nad Sázavou,,,2015,"Habrecká 450, Ledeč nad Sázavou 58401",Habrecká
+-687802.435899999,-1093945.3777,100,"Habrecká 450, Ledeč nad Sázavou 58401",26006669,,"Lékárna Media, s.r.o.",Habrecká 450,58401,Ledeč nad Sázavou,Havlíčkův Brod,Vysočina,2007,"Habrecká 450, Ledeč nad Sázavou 58401",Habrecká
+-755328.157699998,-990844.432399999,100,"Na Kocandě 2201, Litoměřice 41201",26230071,Dr.Max,Dr.Max LÉKÁRNA,Na Kocandě 2201/35,41201,Litoměřice,,,2015,"Na Kocandě 2201, Litoměřice 41201",Na
+-755328.157699998,-990844.432399999,100,"Na Kocandě 35, Litoměřice 41201",26306662,BRL Center CZ,"BRL Center CZ s.r.o., A lékárna v Kauflandu",Na Kocandě 35/2201,41201,Litoměřice,Litoměřice,Ústecký kraj,2007,"Na Kocandě 35, Litoměřice 41201",Na
+-756343.657499999,-990606.233800001,100,"Palachova 9, Litoměřice 41201",26230071,Dr.Max,Dr.Max LÉKÁRNA,Palachova 9,41201,Litoměřice,,,2015,"Palachova 9, Litoměřice 41201",Palachova
+-756343.657499999,-990606.233800001,100,"Palachova 779, Litoměřice 41201",68963050,,Lékárna U Kina,Palachova 779/9,41201,Litoměřice,Litoměřice,Ústecký kraj,2007,"Palachova 779, Litoměřice 41201",Palachova
+-756725.444899999,-990513.151000001,100,"U Katovny 2023, Litoměřice 41201",25839136,Plzeňská lékárna,U Katovny,U Katovny 2023/1,41201,Litoměřice,,,2015,"U Katovny 2023, Litoměřice 41201",U
+-756725.444899999,-990513.151000001,100,"U Katovny 1, Litoměřice 41201",62769685,,Lékárna U Katovny,U Katovny 1,41201,Litoměřice,Litoměřice,Ústecký kraj,2007,"U Katovny 1, Litoměřice 41201",U
+-611311.975699998,-1083620.3786,100,"Smetanovo náměstí 122, Litomyšl 57001",49621173,BENU,BENU Lékárna,Smetanovo náměstí 122,57001,Litomyšl,,,2015,"Smetanovo náměstí 122, Litomyšl 57001",Smetanovo
+-611311.975699998,-1083620.3786,100,"Smetanovo náměstí 122, Litomyšl 57001",47490403,,Lékárna U anděla strážce,Smetanovo náměstí 122,57001,Litomyšl,Svitavy,Pardubický kraj,2007,"Smetanovo náměstí 122, Litomyšl 57001",Smetanovo
+-711374.127700001,-1034634.1345,100,"Masarykova 1102, Lysá nad Labem 28922",26230071,Dr.Max,Dr.Max LÉKÁRNA,Masarykova 1102,28922,Lysá nad Labem,,,2015,"Masarykova 1102, Lysá nad Labem 28922",Masarykova
+-711374.127700001,-1034634.1345,100,"Masarykova 1102, Lysá nad Labem 28922",49688596,Lékárny Lloyds,"Lékárny Lloyds s.r.o., Lékárna U výstaviště",Masarykova 1102,28922,Lysá nad Labem,Nymburk,Středočeský kraj,2007,"Masarykova 1102, Lysá nad Labem 28922",Masarykova
+-866697.5471,-1038199.5901,100,"Tyršova 243, Mariánské Lázně 35301",49621173,BENU,BENU Lékárna,Tyršova 243/1,35301,Mariánské Lázně,,,2015,"Tyršova 243, Mariánské Lázně 35301",Tyršova
+-866697.5471,-1038199.5901,100,"Tyršova 1, Mariánské Lázně 35301",47721740,,Lékárna Alma,Tyršova 1,35301,Mariánské Lázně,Cheb,Karlovarský kraj,2007,"Tyršova 1, Mariánské Lázně 35301",Tyršova
+-756763.187800001,-1112288.006,100,"Za Krejcárkem 150, Milevsko 39901",26230071,Dr.Max,Dr.Max LÉKÁRNA,Za Krejcárkem 150,39901,Milevsko,,,2015,"Za Krejcárkem 150, Milevsko 39901",Za
+-756763.187800001,-1112288.006,100,"Za Krejcárkem 150, Milevsko 39901",60082275,,Lékárna U polikliniky,Za Krejcárkem 150,39901,Milevsko,Písek,Jihočeský kraj,2007,"Za Krejcárkem 150, Milevsko 39901",Za
+-703314.6382,-1010194.5843,100,"U stadionu 1234, Mladá Boleslav 29301",49621173,BENU,BENU Lékárna,U Stadionu 1234,29301,Mladá Boleslav,,,2015,"U Stadionu 1234, Mladá Boleslav 29301",U
+-703314.6382,-1010194.5843,100,"U stadionu 1234, Mladá Boleslav 29301",26512297,,"REGINNA PHARMA CZ a.s., Lékárna VERA",U stadionu 1234,29301,Mladá Boleslav,Mladá Boleslav,Středočeský kraj,2007,"U stadionu 1234, Mladá Boleslav 29301",U
+-791579.588,-989856.5557,88,"tř. Budovatelů 1877, Most 43401",26230071,Dr.Max,Dr.Max LÉKÁRNA,Budovatelů 1877,43401,Most,,,2015,"Budovatelů 1877, Most 43401",Budovatelů
+-791579.588,-989856.5557,88,"tř. Budovatelů 1877, Most 43401",61537535,,"LAMED, s.r.o., Lékárna Rozkvět",Budovatelů 1877,43401,Most,Most,Ústecký kraj,2007,"Budovatelů 1877, Most 43401",Budovatelů
+-790772.878400002,-990754.151299998,100,"Lipová 807, Most 43401",26230071,Dr.Max,Dr.Max LÉKÁRNA,Lipová 807/14,43401,Most,,,2015,"Lipová 807, Most 43401",Lipová
+-790772.878400002,-990754.151299998,100,"Lipová 807, Most 43401",25762737,,"MP VALCO, s.r.o., Lékárna KAHAN",Lipová 807,43401,Most,Most,Ústecký kraj,2007,"Lipová 807, Most 43401",Lipová
+-811331.9375,-1100124.7454,90,"Na Vinici III. 487, Nepomuk 33501",26230071,Dr.Max,Dr.Max LÉKÁRNA,Na Vinici 487,33501,Nepomuk,,,2015,"Na Vinici 487, Nepomuk 33501",Na
+-811331.9375,-1100124.7454,90,"Na Vinici III. 487, Nepomuk 33501",25216791,Devětsil JST,"Devětsil JST s.r.o., Lékárna",Na Vinici 487,33501,Nepomuk,Plzeň-jih,Plzeňský kraj,2007,"Na Vinici 487, Nepomuk 33501",Na
+-616671.753400002,-1029296.441,100,"T. G. Masaryka 46, Nové Město nad Metují 54901",26230071,Dr.Max,Dr.Max LÉKÁRNA,T. G. Masaryka 46,54901,Nové Město nad Metují,,,2015,"T. G. Masaryka 46, Nové Město nad Metují 54901",T.
+-616671.753400002,-1029296.441,100,"T. G. Masaryka 46, Nové Město nad Metují 54901",48648159,,Lékárna,T. G. Masaryka 46,54901,Nové Město nad Metují,Náchod,Královéhradecký kraj,2007,"T. G. Masaryka 46, Nové Město nad Metují 54901",T.
+-723346.999699999,-970213.000399999,100,"Dvořákova 385, Nový Bor 47301",26230071,Dr.Max,Dr.Max LÉKÁRNA,Dvořákova 385,47301,Nový Bor,,,2015,"Dvořákova 385, Nový Bor 47301",Dvořákova
+-723346.999699999,-970213.000399999,100,"Dvořákova 385, Nový Bor 47301",48287423,,Lékárna Lužická,Dvořákova 385,47301,Nový Bor,Česká Lípa,Liberecký kraj,2007,"Dvořákova 385, Nový Bor 47301",Dvořákova
+-835148.999600001,-1071674.0019,100,"Masarykovo náměstí 516, Nýřany 33023",49621173,BENU,BENU Lékárna,Masarykovo náměstí 516,33023,Nýřany,,,2015,"Masarykovo náměstí 516, Nýřany 33023",Masarykovo
+-835148.999600001,-1071674.0019,100,"Masarykovo náměstí 516, Nýřany 33023",72227052,,Lékárna U zlatého hada,Masarykovo náměstí 516,33023,Nýřany,Plzeň-sever,Plzeňský kraj,2007,"Masarykovo náměstí 516, Nýřany 33023",Masarykovo
+-549006.9712,-1123348.1052,100,"Kafkova 8, Olomouc 77900",49621173,BENU,BENU Lékárna,Kafkova 8,77900,Olomouc,,,2015,"Kafkova 8, Olomouc 77900",Kafkova
+-549006.9712,-1123348.1052,100,"Kafkova 8, Olomouc 77900",27213030,,"LAVITURA a.s., Lékárna Haná",Kafkova 8,77900,Olomouc,Olomouc,Olomoucký kraj,2007,"Kafkova 8, Olomouc 77900",Kafkova
+-549083.931299999,-1120416.5088,100,"Pražská 248, Olomouc 77900",26230071,Dr.Max,Dr.Max LÉKÁRNA,Pražská 248/39,77900,Olomouc,,,2015,"Pražská 248, Olomouc 77900",Pražská
+-549083.931299999,-1120416.5088,100,"Pražská 39, Olomouc 77900",49688596,Lékárny Lloyds,"Lékárny Lloyds s.r.o., Globus Olomouc",Pražská 39/248,77900,Olomouc,Olomouc,Olomoucký kraj,2007,"Pražská 39, Olomouc 77900",Pražská
+-496810.240499999,-1087658.0849,100,"Horní náměstí 145, Opava 74601",49621173,BENU,BENU Lékárna,Horní náměstí 145/35,74601,Opava,,,2015,"Horní náměstí 145, Opava 74601",Horní
+-496810.240499999,-1087658.0849,100,"Horní náměstí 35, Opava 74601",25902423,,"Lékárna U Divadla, s.r.o.",Horní náměstí 35/145,74601,Opava,Opava,Moravskoslezský kraj,2007,"Horní náměstí 35, Opava 74601",Horní
+-496827.044500001,-1087922.6495,96.25,"Ostrožná 247, Opava 74601",49621173,BENU,BENU Lékárna,Ostrožná 27,74601,Opava,,,2015,"Ostrožná 27, Opava 74601",Ostrožná
+-496827.044500001,-1087922.6495,96.25,"Ostrožná 247, Opava 74601",70957355,,Lékárna MG Medical Center,Ostrožná 27,74601,Opava,Opava,Moravskoslezský kraj,2007,"Ostrožná 27, Opava 74601",Ostrožná
+-844027.286200002,-1003291.0939,100,"Hroznětínská 350, Ostrov 36301",49621173,BENU,BENU Lékárna,Hroznětínská 350,36301,Ostrov,,,2015,"Hroznětínská 350, Ostrov 36301",Hroznětínská
+-844027.286200002,-1003291.0939,100,"Hroznětínská 350, Ostrov 36301",26343738,,"Lékárna PINIE s.r.o., Lékárna Na Poliklinice",Hroznětínská 350,36301,Ostrov,Karlovy Vary,Karlovarský kraj,2007,"Hroznětínská 350, Ostrov 36301",Hroznětínská
+-843475.5264,-1003436.7736,100,"Lidická 1286, Ostrov 36301",49621173,BENU,BENU Lékárna,Lidická 1286,36301,Ostrov,,,2015,"Lidická 1286, Ostrov 36301",Lidická
+-843475.5264,-1003436.7736,100,"Lidická 1286, Ostrov 36301",26343738,,Lékárna PINIE s.r.o.,Lidická 1286,36301,Ostrov,Karlovy Vary,Karlovarský kraj,2007,"Lidická 1286, Ostrov 36301",Lidická
+-647140.692200001,-1061192.5336,100,"Jiřího z Poděbrad 2593, Pardubice 53002",26230071,Dr.Max,Dr.Max LÉKÁRNA,Jiřího z Poděbrad 2593,53002,Pardubice,,,2015,"Jiřího z Poděbrad 2593, Pardubice 53002",Jiřího
+-647140.692200001,-1061192.5336,100,"Jiřího z Poděbrad 2593, Pardubice 53002",26855500,,"DP Pharma, s.r.o., Lékárna U krále Jiříka",Jiřího z Poděbrad 2593,53002,Pardubice,Pardubice,Pardubický kraj,2007,"Jiřího z Poděbrad 2593, Pardubice 53002",Jiřího
+-648757.9056,-1058378.2715,100,"Poděbradská 293, Pardubice 53009",26230071,Dr.Max,Dr.Max LÉKÁRNA,Poděbradská 293,53009,Pardubice,,,2015,"Poděbradská 293, Pardubice 53009",Poděbradská
+-648757.555399999,-1058378.4087,NA,,27145131,Eurolékárna,"Eurolékárna,s.r.o., Globus",Poděbradská 293,53002,Pardubice,Pardubice,Pardubický kraj,2007,"Poděbradská 293, Pardubice 53002",Poděbradská
+-695092.436000001,-1122785.1565,100,"Svatovítské náměstí 880, Pelhřimov 39301",49621173,BENU,BENU Lékárna,Svatovítské náměstí 880,39301,Pelhřimov,,,2015,"Svatovítské náměstí 880, Pelhřimov 39301",Svatovítské
+-695092.436000001,-1122785.1565,100,"Svatovítské náměstí 880, Pelhřimov 39301",61775916,ALIPEX,"ALIPEX s.r.o., Lékárna U Sv. Víta",Svatovítské náměstí 880,39301,Pelhřimov,Pelhřimov,Vysočina,2007,"Svatovítské náměstí 880, Pelhřimov 39301",Svatovítské
+-822652.566399999,-1068364.0716,100,"Karlovarská 298, Plzeň 30100",25839136,Plzeňská lékárna,DIA lékárna,Karlovarská 298/30,30100,Plzeň,,,2015,"Karlovarská 298, Plzeň 30100",Karlovarská
+-822661.340599999,-1068362.5939,NA,,26367700,,"Plzeňská lékárna k.s., Dia lékárna",Karlovarská tř. 30,30100,Plzeň,Plzeň-město,Plzeňský kraj,2007,"Karlovarská tř. 30, Plzeň 30100",Karlovarská
+-822893.096799999,-1071457.8405,100,"Klostermannova 1219, Plzeň 30100",25839136,Plzeňská lékárna,Modrá lékárna,Klostermannova 1219/12,30100,Plzeň,,,2015,"Klostermannova 1219, Plzeň 30100",Klostermannova
+-822828.976100001,-1071470.7857,94,"Klostermannova 1327, Plzeň 30100",26367700,,"Plzeňská lékárna k.s., Modrá lékárna",Klostermannova 12,30100,Plzeň,Plzeň-město,Plzeňský kraj,2007,"Klostermannova 12, Plzeň 30100",Klostermannova
+-822311.335299999,-1069119.7819,100,"Lochotínská 1108, Plzeň 30100",25216791,Devětsil JST,Lékárna Rondel,Lochotínská 1108/18,30100,Plzeň,,,2015,"Lochotínská 1108, Plzeň 30100",Lochotínská
+-822556.746599998,-1068754.0349,96.25,"Lochotínská 184, Plzeň 30100",25226363,,"PRIMA PHARMACY s.r.o., Lékárna Penelopé",Lochotínská 18,30100,Plzeň,Plzeň-město,Plzeňský kraj,2007,"Lochotínská 18, Plzeň 30100",Lochotínská
+-819733.879799999,-1075326.0325,100,"Písecká 972, Plzeň 32600",49621173,BENU,BENU Lékárna,"Písecká 972/1, OC Olympia",32600,Plzeň,,,2015,"Písecká 972, Plzeň 32600",Písecká
+-819733.105900001,-1075325.1685,NA,,27213030,,"LAVITURA a.s., Lékárna U Radyně",Písecká 972,30100,Plzeň,Plzeň-město,Plzeňský kraj,2007,"Písecká 972, Plzeň 30100",Písecká
+-820778.459100001,-1069983.8048,100,"Rokycanská 2656, Plzeň 30100",49621173,BENU,BENU Lékárna,Rokycanská 2656/2,30100,Plzeň,,,2015,"Rokycanská 2656, Plzeň 30100",Rokycanská
+-820778.459100001,-1069983.8048,100,"Rokycanská 2, Plzeň 30100",27145131,Eurolékárna,"Eurolékárna s.r.o., Lékárna",Rokycanská 2,30100,Plzeň,Plzeň-město,Plzeňský kraj,2007,"Rokycanská 2, Plzeň 30100",Rokycanská
+-821612.768100001,-1071379.7351,100,"Slovanská 1238, Plzeň 32600",25839136,Plzeňská lékárna,Liliová lékárna,Slovanská 1238/69,32600,Plzeň,,,2015,"Slovanská 1238, Plzeň 32600",Slovanská
+-818049.0407,-1069015.3696,NA,,26367700,,"Plzeňská lékárna k.s., Liliová lékárna",Slovanská tř. 69,32600,Plzeň,Plzeň-město,Plzeňský kraj,2007,"Slovanská tř. 69, Plzeň 32600",Slovanská
+-789365.154100001,-1157196.5867,100,"Primátorská 1196, Prachatice 38301",49621173,BENU,BENU Lékárna,Primátorská 1196,38301,Prachatice,,,2015,"Primátorská 1196, Prachatice 38301",Primátorská
+-789365.154100001,-1157196.5867,100,"Primátorská 1196, Prachatice 38301",61775916,ALIPEX,"ALIPEX s.r.o., Lékárna Čtyřlístek Primátorská",Primátorská 1196,38301,Prachatice,Prachatice,Jihočeský kraj,2007,"Primátorská 1196, Prachatice 38301",Primátorská
+-789476.356600001,-1156931.746,100,"Vodňanská 51, Prachatice 38301",26230071,Dr.Max,Dr.Max LÉKÁRNA,Vodňanská 51,38301,Prachatice,,,2015,"Vodňanská 51, Prachatice 38301",Vodňanská
+-789476.356600001,-1156931.746,100,"Vodňanská 51, Prachatice 38301",60097507,,Lékárna U Bílého Lva,Vodňanská 51,38301,Prachatice,Prachatice,Jihočeský kraj,2007,"Vodňanská 51, Prachatice 38301",Vodňanská
+-742977.997499999,-1043526.0006,100,"Národní 417, Praha 11000",26230071,Dr.Max,Dr.Max LÉKÁRNA,Národní 417/35,11000,Praha 1,,,2015,"Národní 417, Praha 11000",Národní
+-742855.999600001,-1043502.0016,96.25,"Národní 365, Praha 11000",49280058,,Lékárna U Zlatého hada,Národní 35,11000,Praha 1,Praha 1,Hl. m. Praha,2007,"Národní 35, Praha 11000",Národní
+-742312.997099999,-1042612.0003,100,"Revoluční 765, Praha 11000",26230071,Dr.Max,Dr.Max LÉKÁRNA,Revoluční 765/19,11000,Praha 1,,,2015,"Revoluční 765, Praha 11000",Revoluční
+-742312.997099999,-1042612.0003,100,"Revoluční 19, Praha 11000",49621173,EUROPHARM,"EUROPHARM a.s., Lékárna Revoluční",Revoluční 19/765,11000,Praha 1,Praha 1,Hl. m. Praha,2007,"Revoluční 19, Praha 11000",Revoluční
+-742059.198600002,-1043030.9315,100,"V celnici 10, Praha 11000",26230071,Dr.Max,Dr.Max LÉKÁRNA,V Celnici 10,11000,Praha 1,,,2015,"V Celnici 10, Praha 11000",V
+-742059.198600002,-1043030.9315,100,"V celnici 10, Praha 11000",49688596,Lékárny Lloyds,"Lékárny Lloyds s.r.o., Millenium Plaza",V Celnici 10,11000,Praha 1,Praha 1,Hl. m. Praha,2007,"V Celnici 10, Praha 11000",V
+-742571.999600001,-1043671.0048,100,"Vodičkova 40, Praha 11000",26230071,Dr.Max,Dr.Max LÉKÁRNA,Vodičkova 40,11000,Praha 1,,,2015,"Vodičkova 40, Praha 11000",Vodičkova
+-742571.999600001,-1043671.0048,100,"Vodičkova 40, Praha 11000",26763966,,"Lekia a.s., Lékárna Vodičkova",Vodičkova 40,11000,Praha 1,Praha 1,Hl. m. Praha,2007,"Vodičkova 40, Praha 11000",Vodičkova
+-736707.5145,-1045722.5203,100,"Přetlucká 3295, Praha 10000",26230071,Dr.Max,Dr.Max LÉKÁRNA,Přetlucká 3295/50,10000,Praha 10,,,2015,"Přetlucká 3295, Praha 10000",Přetlucká
+-736707.5145,-1045722.5203,100,"Přetlucká 50, Praha 10000",49687832,,"Avicenum s.r.o., Lékárna TESCO Skalka",Přetlucká 50/3295,10000,Praha 10,Praha 10,Hl. m. Praha,2007,"Přetlucká 50, Praha 10000",Přetlucká
+-736836.7544,-1045993.8042,100,"Rubensova 2238, Praha 10000",49621173,BENU,BENU Lékárna,Rubensova 2238,10000,Praha 10,,,2015,"Rubensova 2238, Praha 10000",Rubensova
+-736836.7544,-1045993.8042,100,"Rubensova 2238, Praha 10000",26512297,,"REGINNA PHARMA CZ a.s., Lékárna Skalka",Rubensova 2238,10000,Praha 10,Praha 10,Hl. m. Praha,2007,"Rubensova 2238, Praha 10000",Rubensova
+-741727.999400001,-1043935.0056,100,"Italská 37, Praha 12000",25319141,Agel,LÉKÁRNA AGEL,Italská 37,12000,Praha 2,,,2015,"Italská 37, Praha 12000",Italská
+-741727.999400001,-1043935.0056,100,"Italská 37, Praha 12000",25936115,,"KaN 7 s.r.o., Lékárna Helénská",Italská 37/560,12000,Praha 2,Praha 2,Hl. m. Praha,2007,"Italská 37, Praha 12000",Italská
+-742256.605900001,-1044418.3219,100,"Jugoslávská 9, Praha 12000",49621173,BENU,BENU Lékárna,Jugoslávská 9,12000,Praha 2,,,2015,"Jugoslávská 9, Praha 12000",Jugoslávská
+-742256.605900001,-1044418.3219,100,"Jugoslávská 9, Praha 12000",27405524,,Vilímova lékárna s.r.o.,Jugoslávská 9/1,12000,Praha 2,Praha 2,Hl. m. Praha,2007,"Jugoslávská 9, Praha 12000",Jugoslávská
+-742569.738299999,-1044489.8314,100,"Kateřinská 34, Praha 12000",49621173,BENU,BENU Lékárna,Kateřinská 34,12000,Praha 2,,,2015,"Kateřinská 34, Praha 12000",Kateřinská
+-742569.738299999,-1044489.8314,100,"Kateřinská 34, Praha 12000",27086224,,"G-FAM s.r.o., Lékárna Kateřinská",Kateřinská 34/1476,12000,Praha 2,Praha 2,Hl. m. Praha,2007,"Kateřinská 34, Praha 12000",Kateřinská
+-740161.996800002,-1044478.0022,100,"Vinohradská 1784, Praha 13000",49621173,BENU,BENU Lékárna,Vinohradská 1784/2,13000,Praha 3,,,2015,"Vinohradská 1784, Praha 13000",Vinohradská
+-740161.996800002,-1044478.0022,100,"Vinohradská 134, Praha 13000",25601911,,"MEDIMAX a.s., Lékárna Na Floře",Vinohradská 134/1784,13000,Praha 3,Praha 3,Hl. m. Praha,2007,"Vinohradská 134, Praha 13000",Vinohradská
+-741664.9947,-1047684.0014,100,"Budějovická 1126, Praha 14000",26230071,Dr.Max,Dr.Max LÉKÁRNA,Budějovická 1126/9,14000,Praha 4,,,2015,"Budějovická 1126, Praha 14000",Budějovická
+-741664.9947,-1047684.0014,100,"Budějovická 9, Praha 14000",49688596,Lékárny Lloyds,"Lékárny Lloyds s.r.o., Lékárna SIRIUS",Budějovická 9/1126,14000,Praha 4,Praha 4,Hl. m. Praha,2007,"Budějovická 9, Praha 14000",Budějovická
+-741718.9954,-1045768.0045,100,"Čestmírova 363, Praha 14000",26230071,Dr.Max,Dr.Max LÉKÁRNA,Čestmírova 363/1,14000,Praha 4,,,2015,"Čestmírova 363, Praha 14000",Čestmírova
+-741718.9954,-1045768.0045,100,"Čestmírova 1, Praha 14000",70101345,,Lékárna U Zlaté koruny,Čestmírova 1,14000,Praha 4,Praha 4,Hl. m. Praha,2007,"Čestmírova 1, Praha 14000",Čestmírova
+-742048.996300001,-1048189.0025,100,"Krčská 1079, Praha 14000",26230071,Dr.Max,Dr.Max LÉKÁRNA,Krčská 1079/59,14000,Praha 4,,,2015,"Krčská 1079, Praha 14000",Krčská
+-742067.509500001,-1048189.7719,100,"Krčská 59, Praha 14000",26438062,,"E-lékárny, a.s., Lékárna Krčská",Krčská 59/1079,14000,Praha 4,Praha 4,Hl. m. Praha,2007,"Krčská 59, Praha 14000",Krčská
+-741028.116500001,-1047586.3138,100,"Želetavská 1447, Praha 14000",49621173,BENU,BENU Lékárna,Želetavská 1447/5,14000,Praha 4,,,2015,"Želetavská 1447, Praha 14000",Želetavská
+-741028.116500001,-1047586.3138,100,"Želetavská 5, Praha 14000",27086224,,"G-FAM s.r.o., Lékárna BB Centrum",Želetavská 5/1447,14000,Praha 4,Praha 4,Hl. m. Praha,2007,"Želetavská 5, Praha 14000",Želetavská
+-744045.806299999,-1045436.03,96.25,"Nádražní 280, Praha 15000",26230071,Dr.Max,Dr.Max LÉKÁRNA,Nádražní 20/286,15000,Praha 5,,,2015,"Nádražní 20, Praha 15000",Nádražní
+-744045.806299999,-1045436.03,96.25,"Nádražní 280, Praha 15000",26438062,,"E-lékárny, a.s., Lékárna U Nádraží",Nádražní 20/286,15000,Praha 5,Praha 5,Hl. m. Praha,2007,"Nádražní 20, Praha 15000",Nádražní
+-744278.994899999,-1044579.0024,100,"Plzeňská 344, Praha 15000",49621173,BENU,BENU Lékárna,Plzeňská 344/1,15000,Praha 5,,,2015,"Plzeňská 344, Praha 15000",Plzeňská
+-744278.994899999,-1044579.0024,100,"Plzeňská 344, Praha 15000",43657176,,Lékárna Zlatý Anděl,Plzeňská 344,15000,Praha 5,Praha 5,Hl. m. Praha,2007,"Plzeňská 344, Praha 15000",Plzeňská
+-744462.0299,-1044524.9606,100,"Plzeňská 8, Praha 15000",26230071,Dr.Max,Dr.Max LÉKÁRNA,Plzeňská 8,15000,Praha 5,,,2015,"Plzeňská 8, Praha 15000",Plzeňská
+-744462.0299,-1044524.9606,100,"Plzeňská 8, Praha 15000",49621173,EUROPHARM,"EUROPHARM a.s., Lékárna Racek",Plzeňská 8/233,15000,Praha 5,Praha 5,Hl. m. Praha,2007,"Plzeňská 8, Praha 15000",Plzeňská
+-744247.289900001,-1044480.5102,100,"Štefánikova 250, Praha 15000",49621173,BENU,BENU Lékárna,Štefánikova 250/6,15000,Praha 5,,,2015,"Štefánikova 250, Praha 15000",Štefánikova
+-744184.408500001,-1043906.8952,100,"Štefánikova 6, Praha 15000",43657176,,Lékárna U Anděla,Štefánikova 6,15000,Praha 5,Praha 5,Hl. m. Praha,2007,"Štefánikova 6, Praha 15000",Štefánikova
+-744386.485300001,-1040862.6103,100,"Jugoslávských partyzánů 636, Praha 16000",26230071,Dr.Max,Dr.Max LÉKÁRNA,Jugoslávských partyzánů 636/20,16000,Praha 6,,,2015,"Jugoslávských partyzánů 636, Praha 16000",Jugoslávských
+-744386.485300001,-1040862.6103,100,"Jugoslávských partyzánů 20, Praha 16000",26779544,,"In.Invid. s.r.o., Lékárna Bubeneč",Jugoslávských partyzánů 20,16000,Praha 6,Praha 6,Hl. m. Praha,2007,"Jugoslávských partyzánů 20, Praha 16000",Jugoslávských
+-746768.518599998,-1042764.4345,100,"Pod Marjánkou 1906, Praha 16900",49621173,BENU,BENU Lékárna,Pod Marjánkou 1906/12,16900,Praha 6,,,2015,"Pod Marjánkou 1906, Praha 16900",Pod
+-746601.999899998,-1042845.0009,95.2,"Pod Marjánkou 1427, Praha 16900",61856681,,"HELA s.r.o., Lékárna Pod Marjánkou",Pod Marjánkou 12/1906,16900,Praha 6,Praha 6,Hl. m. Praha,2007,"Pod Marjánkou 12, Praha 16900",Pod
+-744334.628400002,-1041363.3708,100,"Vítězné náměstí 13, Praha 16000",26230071,Dr.Max,Dr.Max LÉKÁRNA,Vítězné náměstí 13,16000,Praha 6,,,2015,"Vítězné náměstí 13, Praha 16000",Vítězné
+-744334.628400002,-1041363.3708,100,"Vítězné náměstí 13, Praha 16000",49687832,,"Avicenum s.r.o., Lékárna Berytos",Vítězné náměstí 13,16000,Praha 6,Praha 6,Hl. m. Praha,2007,"Vítězné náměstí 13, Praha 16000",Vítězné
+-741822.027800001,-1041942.3306,100,"Dukelských hrdinů 406, Praha 17000",26230071,Dr.Max,Dr.Max LÉKÁRNA,Dukelských hrdinů 406/23,17000,Praha 7,,,2015,"Dukelských hrdinů 406, Praha 17000",Dukelských
+-741743.9987,-1041534.001,98.5,"Dukelských hrdinů 233, Praha 17000",70050791,,Lékárna Na Záchrance,Dukelských hrdinů 23/406,17000,Praha 7,Praha 7,Hl. m. Praha,2007,"Dukelských hrdinů 23, Praha 17000",Dukelských
+-737879.8653,-1039192.7824,100,"Střelničná 2270, Praha 18000",26230071,Dr.Max,Dr.Max LÉKÁRNA,Střelničná 2270/46,18000,Praha 8,,,2015,"Střelničná 2270, Praha 18000",Střelničná
+-737879.8653,-1039192.7824,100,"Střelničná 46, Praha 18000",26306662,BRL Center CZ,"BRL Center CZ s.r.o., A lékárna v Kauflandu",Střelničná 46/2270,18000,Praha 8,Praha 8,Hl. m. Praha,2007,"Střelničná 46, Praha 18000",Střelničná
+-738866.726,-1041126.7814,100,"Zenklova 1545, Praha 18000",26230071,Dr.Max,Dr.Max LÉKÁRNA,Zenklova 1545/39,18000,Praha 8,,,2015,"Zenklova 1545, Praha 18000",Zenklova
+-738571.449000001,-1040566.8223,96.25,"Zenklova 309, Praha 18000",27202968,,"AGRIMONIA, a.s., Lékárna Zenklova",Zenklova 39,18000,Praha 8,Praha 8,Hl. m. Praha,2007,"Zenklova 39, Praha 18000",Zenklova
+-738864.999200001,-1041583.0033,100,"Zenklova 32, Praha 18000",49621173,BENU,BENU Lékárna,Zenklova 32/28,18000,Praha 8,,,2015,"Zenklova 32, Praha 18000",Zenklova
+-738862.996300001,-1041609.0052,96.25,"Zenklova 286, Praha 18000",25601911,,"MEDIMAX a.s., Lékárna PALMA",Zenklova 28,18000,Praha 8,Praha 8,Hl. m. Praha,2007,"Zenklova 28, Praha 18000",Zenklova
+-737094.999200001,-1039535,100,"Jablonecká 423, Praha 19000",49621173,BENU,BENU Lékárna,Jablonecká 423,19000,Praha 9,,,2015,"Jablonecká 423, Praha 19000",Jablonecká
+-737094.999200001,-1039535,100,"Jablonecká 423, Praha 19000",62930508,,Lékárna Jizerka,Jablonecká 423,19000,Praha 9,Praha 9,Hl. m. Praha,2007,"Jablonecká 423, Praha 19000",Jablonecká
+-736805.995000001,-1040244.0046,100,"Vysočanská 382, Praha 19000",49621173,BENU,BENU Lékárna,Vysočanská 382/20,19000,Praha 9,,,2015,"Vysočanská 382, Praha 19000",Vysočanská
+-737425.9987,-1039489.563,96.25,"Vysočanská 240, Praha 19000",26179164,,"HAVRA NZ s.r.o., Lékárna V BILLE",Vysočanská 20/382,19000,Praha 9,Praha 9,Hl. m. Praha,2007,"Vysočanská 20, Praha 19000",Vysočanská
+-557950.6413,-1134069.9689,100,"Trávnická 2, Prostějov 79601",49621173,BENU,BENU Lékárna,Trávnická 2,79601,Prostějov,,,2015,"Trávnická 2, Prostějov 79601",Trávnická
+-557950.6413,-1134069.9689,100,"Trávnická 2, Prostějov 79601",49144839,,Lékárna Centrum,Trávnická 2,79601,Prostějov,Prostějov,Olomoucký kraj,2007,"Trávnická 2, Prostějov 79601",Trávnická
+-791409.087000001,-1034303.364,100,"Nádražní 225, Rakovník 26901",49621173,BENU,BENU Lékárna,Nádražní 225,26901,Rakovník,,,2015,"Nádražní 225, Rakovník 26901",Nádražní
+-791409.087000001,-1034303.364,100,"Nádražní 225, Rakovník 26901",47537418,,"Lékárna U parku, spol. s r.o.",Nádražní 225,26901,Rakovník,Rakovník,Středočeský kraj,2007,"Nádražní 225, Rakovník 26901",Nádražní
+-806724.316599999,-1072736.8947,100,"Malé náměstí 105, Rokycany 33701",26230071,Dr.Max,Dr.Max LÉKÁRNA,Malé náměstí 105,33701,Rokycany,,,2015,"Malé náměstí 105, Rokycany 33701",Malé
+-806724.316599999,-1072736.8947,100,"Malé náměstí 105, Rokycany 33701",48379611,,Lékárna U Barborky,Malé náměstí 105/I,33701,Rokycany,Rokycany,Plzeňský kraj,2007,"Malé náměstí 105, Rokycany 33701",Malé
+-750641.526900001,-1004111.0422,94,"Alej 17. listopadu 2720, Roudnice nad Labem 41301",49621173,BENU,BENU Lékárna,Alej 17.listopadu 2720,41301,Roudnice nad Labem,,,2015,"Alej 17.listopadu 2720, Roudnice nad Labem 41301",Alej
+-749794.284499999,-1004362.7733,100,"Alej 17. listopadu 1101, Roudnice nad Labem 41301",25443801,,"Podřipská NsP Roudnice n.L., s.r.o., Ústavní lékárna",Alej 17. listopadu 1101,41301,Roudnice nad Labem,Litoměřice,Ústecký kraj,2007,"Alej 17. listopadu 1101, Roudnice nad Labem 41301",Alej
+-484664.764899999,-1141984.1898,100,"1. máje 1425, Rožnov pod Radhoštěm 75661",26230071,Dr.Max,Dr.Max LÉKÁRNA,1. máje 1425,75661,Rožnov pod Radhoštěm,,,2015,"1. máje 1425, Rožnov pod Radhoštěm 75661",1.
+-484664.764899999,-1141984.1898,100,"1. máje 1425, Rožnov pod Radhoštěm 75661",49688596,Lékárny Lloyds,"Lékárny Lloyds s.r.o., Lékárna ROSAVA",1. máje 1425,75661,Rožnov pod Radhoštěm,Vsetín,Zlínský kraj,2007,"1. máje 1425, Rožnov pod Radhoštěm 75661",1.
+-610552.2304,-1050268.7635,100,"Jiráskova 1389, Rychnov nad Kněžnou 51601",26230071,Dr.Max,Dr.Max LÉKÁRNA,Jiráskova 1389,51601,Rychnov nad Kněžnou,,,2015,"Jiráskova 1389, Rychnov nad Kněžnou 51601",Jiráskova
+-610552.2304,-1050268.7635,100,"Jiráskova 1389, Rychnov nad Kněžnou 51601",46460535,,Lékárna Na Láni,Jiráskova 1389,51601,Rychnov nad Kněžnou,Rychnov nad Kněžnou,Královéhradecký kraj,2007,"Jiráskova 1389, Rychnov nad Kněžnou 51601",Jiráskova
+-609547.584899999,-1051262.2729,100,"Mírová 1545, Rychnov nad Kněžnou 51601",26230071,Dr.Max,Dr.Max LÉKÁRNA,Mírová 1545,51601,Rychnov nad Kněžnou,,,2015,"Mírová 1545, Rychnov nad Kněžnou 51601",Mírová
+-609547.584899999,-1051262.2729,100,"Mírová 1545, Rychnov nad Kněžnou 51601",46460535,,Lékárna Na Drahách,Mírová 1545,51601,Rychnov nad Kněžnou,Rychnov nad Kněžnou,Královéhradecký kraj,2007,"Mírová 1545, Rychnov nad Kněžnou 51601",Mírová
+-610238.8631,-1051054.634,100,"Staré náměstí 26, Rychnov nad Kněžnou 51601",26230071,Dr.Max,Dr.Max LÉKÁRNA,Staré náměstí 26,51601,Rychnov nad Kněžnou,,,2015,"Staré náměstí 26, Rychnov nad Kněžnou 51601",Staré
+-610238.8631,-1051054.634,100,"Staré náměstí 26, Rychnov nad Kněžnou 51601",46460535,,Lékárna Na Náměstí,Staré náměstí 26,51601,Rychnov nad Kněžnou,Rychnov nad Kněžnou,Královéhradecký kraj,2007,"Staré náměstí 26, Rychnov nad Kněžnou 51601",Staré
+-610350.870200001,-1051015.5225,100,"Svatohavelská 105, Rychnov nad Kněžnou 51601",25839136,Plzeňská lékárna,Lékárna U sv. Havla,Svatohavelská 105,51601,Rychnov nad Kněžnou,,,2015,"Svatohavelská 105, Rychnov nad Kněžnou 51601",Svatohavelská
+-610381.635400001,-1051022.6236,100,"Svatohavelská 266, Rychnov nad Kněžnou 51601",25934813,,"Lékárna U Svatého Havla, s.r.o.",Svatohavelská 266,51601,Rychnov nad Kněžnou,Rychnov nad Kněžnou,Královéhradecký kraj,2007,"Svatohavelská 266, Rychnov nad Kněžnou 51601",Svatohavelská
+-748917.710000001,-1090393.8774,100,"Růžová 118, Sedlčany 26401",26230071,Dr.Max,Dr.Max LÉKÁRNA,Růžová 118,26401,Sedlčany,,,2015,"Růžová 118, Sedlčany 26401",Růžová
+-748917.710000001,-1090393.8774,100,"Růžová 118, Sedlčany 26401",46350471,,"LINEPHARM spol. s r.o., Lékárna Růžová",Růžová 118,26401,Sedlčany,Příbram,Středočeský kraj,2007,"Růžová 118, Sedlčany 26401",Růžová
+-764638.5557,-1023916.0416,100,"Wilsonova 596, Slaný 27401",49621173,BENU,BENU Lékárna,Wilsonova 596,27401,Slaný,,,2015,"Wilsonova 596, Slaný 27401",Wilsonova
+-764638.5557,-1023916.0416,100,"Wilsonova 596, Slaný 27401",25112872,,"Dalufra s.r.o., Lékárna u Divadla",Wilsonova 596,27401,Slaný,Kladno,Středočeský kraj,2007,"Wilsonova 596, Slaný 27401",Wilsonova
+-589821.601300001,-1165088.7175,100,"Karla Čapka 1656, Šlapanice 66451",26230071,Dr.Max,Dr.Max LÉKÁRNA,Karla Čapka 1656,66451,Šlapanice,,,2015,"Karla Čapka 1656, Šlapanice 66451",Karla
+-589821.601300001,-1165088.7175,100,"Karla Čapka 1656, Šlapanice 66451",49688596,Lékárny Lloyds,"Lékárny Lloyds s.r.o., Lékárna Šlapanice",Karla Čapka 1656,66451,Šlapanice,Brno-venkov,Jihomoravský kraj,2007,"Karla Čapka 1656, Šlapanice 66451",Karla
+-507328.2007,-1181688.6163,100,"Horní náměstí 112, Slavičín 76321",26230071,Dr.Max,Dr.Max LÉKÁRNA,Horní náměstí 112,76321,Slavičín,,,2015,"Horní náměstí 112, Slavičín 76321",Horní
+-507328.2007,-1181688.6163,100,"Horní náměstí 112, Slavičín 76321",47902515,,"VIAPHARM  s.r.o., Lékárna",Horní náměstí 112,76321,Slavičín,Zlín,Zlínský kraj,2007,"Horní náměstí 112, Slavičín 76321",Horní
+-865245.348900001,-1014817.8815,100,"Marie Majerové 2193, Sokolov 35601",26230071,Dr.Max,Dr.Max LÉKÁRNA,Marie Majerové 2193,35601,Sokolov,,,2015,"Marie Majerové 2193, Sokolov 35601",Marie
+-865188.387899999,-1014905.5901,100,"Marie Majerové 1804, Sokolov 35601",49739247,,Lékárna Herba,Marie Majerové 1804,35601,Sokolov,Sokolov,Karlovarský kraj,2007,"Marie Majerové 1804, Sokolov 35601",Marie
+-839575.846799999,-1079170.9597,100,"Nádražní 769, Stod 33301",25216791,Devětsil JST,Métis,Nádražní 769,33301,Stod,,,2015,"Nádražní 769, Stod 33301",Nádražní
+-839575.846799999,-1079170.9597,100,"Nádražní 769, Stod 33301",25226363,,"PRIMA PHARMACY s.r.o., Lékárna Métis",Nádražní 769,33301,Stod,Plzeň-jih,Plzeňský kraj,2007,"Nádražní 769, Stod 33301",Nádražní
+-550141.232500002,-1198665.4275,100,"Kostelní 1407, Strážnice 69662",26230071,Dr.Max,Dr.Max LÉKÁRNA,Kostelní 1407,69662,Strážnice,,,2015,"Kostelní 1407, Strážnice 69662",Kostelní
+-550141.232500002,-1198665.4275,100,"Kostelní 1407, Strážnice 69662",25508288,,"CONCORDIANA s.r.o., Lékárna DANAJ",Kostelní 1407,69662,Strážnice,Hodonín,Jihomoravský kraj,2007,"Kostelní 1407, Strážnice 69662",Kostelní
+-849143.5145,-1064889.4551,100,"Benešova 511, Stříbro 34901",49621173,BENU,BENU Lékárna,Benešova 511,34901,Stříbro,,,2015,"Benešova 511, Stříbro 34901",Benešova
+-849143.5145,-1064889.4551,100,"Benešova 511, Stříbro 34901",26403404,,"Inula s.r.o., Lékárna Na Poliklinice",Benešova 511,34901,Stříbro,Tachov,Plzeňský kraj,2007,"Benešova 511, Stříbro 34901",Benešova
+-562834.990899999,-1078329.0386,100,"Slovanská 281, Šumperk 78701",49621173,BENU,BENU Lékárna,Slovanská 281/22,78701,Šumperk,,,2015,"Slovanská 281, Šumperk 78701",Slovanská
+-562876.833500002,-1078452.1583,96.25,"Slovanská 272, Šumperk 78701",26845296,,"LÉKÁRNA U MEDVĚDA, s.r.o.",Slovanská 22/281,78701,Šumperk,Šumperk,Olomoucký kraj,2007,"Slovanská 22, Šumperk 78701",Slovanská
+-600794.4208,-1098059.1865,100,"Antonína Slavíčka 892, Svitavy 56802",26230071,Dr.Max,Dr.Max LÉKÁRNA,Antonína Slavíčka 892/1,56802,Svitavy,,,2015,"Antonína Slavíčka 892, Svitavy 56802",Antonína
+-600794.4208,-1098059.1865,100,"Antonína Slavíčka 892, Svitavy 56802",26306662,BRL Center CZ,"BRL Center CZ s.r.o., A lékárna v Kauflandu",Antonína Slavíčka 892,56802,Svitavy,Svitavy,Pardubický kraj,2007,"Antonína Slavíčka 892, Svitavy 56802",Antonína
+-681442.635000002,-1152407.2993,100,"Masarykova 330, Telč 58856",26230071,Dr.Max,Dr.Max LÉKÁRNA,Masarykova 330,58856,Telč,,,2015,"Masarykova 330, Telč 58856",Masarykova
+-681442.635000002,-1152407.2993,100,"Masarykova 330, Telč 58856",49688596,Lékárny Lloyds,"Lékárny Lloyds s.r.o., Lékárna Telč",Masarykova 330,58856,Telč,Jihlava,Vysočina,2007,"Masarykova 330, Telč 58856",Masarykova
+-776820.999000002,-976540.003800001,96.25,"Duchcovská 563, Teplice 41501",26230071,Dr.Max,Dr.Max LÉKÁRNA,Duchcovská 53,41501,Teplice,,,2015,"Duchcovská 53, Teplice 41501",Duchcovská
+-776820.999000002,-976540.003800001,96.25,"Duchcovská 563, Teplice 41501",49621173,EUROPHARM,"EUROPHARM a.s., Lékárna U Nemocnice",Duchcovská 53,41501,Teplice,Teplice,Ústecký kraj,2007,"Duchcovská 53, Teplice 41501",Duchcovská
+-775845.996800002,-975730.004999999,100,"U nádraží 529, Teplice 41501",26230071,Dr.Max,Dr.Max LÉKÁRNA,U Nádraží 529/7,41501,Teplice,,,2015,"U Nádraží 529, Teplice 41501",U
+-775845.996800002,-975730.004999999,100,"U nádraží 529, Teplice 41501",25043897,,"PALES, s.r.o., Lékárna U Nádraží",U Nádraží 529/7,41501,Teplice,Teplice,Ústecký kraj,2007,"U Nádraží 529, Teplice 41501",U
+-629894.482500002,-1044638.9118,100,"Pitrova 1319, Třebechovice pod Orebem 50346",25839136,Plzeňská lékárna,Třebechovická lékárna,Pitrova 1319,50346,Třebechovice pod Orebem,,,2015,"Pitrova 1319, Třebechovice pod Orebem 50346",Pitrova
+-629894.482500002,-1044638.9118,100,"Pitrova 1319, Třebechovice pod Orebem 50346",60109840,,"Třebechovická lékárna, s.r.o.",Pitrova 1319,50346,Třebechovice pod Orebem,Hradec Králové,Královéhradecký kraj,2007,"Pitrova 1319, Třebechovice pod Orebem 50346",Pitrova
+-745917.9989,-1182535.9997,100,"Husova 143, Trhové Sviny 37401",49621173,BENU,BENU Lékárna,Husova 143,37401,Trhové Sviny,,,2015,"Husova 143, Trhové Sviny 37401",Husova
+-745917.9989,-1182535.9997,100,"Husova 143, Trhové Sviny 37401",60827190,,Lékárna Na Náměstí,Husova 143,37401,Trhové Sviny,České Budějovice,Jihočeský kraj,2007,"Husova 143, Trhové Sviny 37401",Husova
+-444262.9223,-1121079.3359,100,"1. máje 17, Třinec 73961",49621173,BENU,BENU Lékárna,1. máje 17,73961,Třinec,,,2015,"1. máje 17, Třinec 73961",1.
+-444262.9223,-1121079.3359,100,"1. máje 17, Třinec 73961",26874571,,"Trilek a.s., Lékárna Oáza ",1. máje 17,73961,Třinec,Frýdek-Místek,Moravskoslezský kraj,2007,"1. máje 17, Třinec 73961",1.
+-443881.7634,-1122306.6271,100,"Lidická 1269, Třinec 73961",26230071,Dr.Max,Dr.Max LÉKÁRNA,Lidická 1269,73961,Třinec,,,2015,"Lidická 1269, Třinec 73961",Lidická
+-443881.7634,-1122306.6271,100,"Lidická 1269, Třinec 73961",72514752,,Lékárna Hypernova Třinec,Lidická 1269,73961,Třinec,Frýdek-Místek,Moravskoslezský kraj,2007,"Lidická 1269, Třinec 73961",Lidická
+-763675.447299998,-976776.064399999,100,"Tyršova 869, Trmice 40004",26230071,Dr.Max,Dr.Max LÉKÁRNA,Tyršova 869,40004,Trmice,,,2015,"Tyršova 869, Trmice 40004",Tyršova
+-763675.447299998,-976776.064399999,100,"Tyršova 869, Trmice 40004",27145131,Eurolékárna,"Eurolékárna s.r.o., Lékárna",Tyršova 869,40004,Trmice,Ústí nad Labem,Ústecký kraj,2007,"Tyršova 869, Trmice 40004",Tyršova
+-630949.804299999,-1003977.3033,100,"Horská 64, Trutnov 54101",26230071,Dr.Max,Dr.Max LÉKÁRNA,Horská 64,54101,Trutnov,,,2015,"Horská 64, Trutnov 54101",Horská
+-630949.804299999,-1003977.3033,100,"Horská 64, Trutnov 54101",25995154,,"BEAS pharm s.r.o., Lékárna Na Horské",Horská 64,54101,Trutnov,Trutnov,Královéhradecký kraj,2007,"Horská 64, Trutnov 54101",Horská
+-682726.616999999,-994729.704500001,100,"28. října 1000, Turnov 51101",26230071,Dr.Max,Dr.Max LÉKÁRNA,28. října 1000,51101,Turnov,,,2015,"28. října 1000, Turnov 51101",28.
+-682726.616999999,-994729.704500001,100,"28. října 1000, Turnov 51101",25926578,,"Lékárna Turnov, s.r.o.",28. října 1000,51101,Turnov,Semily,Liberecký kraj,2007,"28. října 1000, Turnov 51101",28.
+-756202.5649,-1137870.6746,100,"Sakařova 756, Týn nad Vltavou 37501",26230071,Dr.Max,Dr.Max LÉKÁRNA,Sakařova 756,37501,Týn nad Vltavou,,,2015,"Sakařova 756, Týn nad Vltavou 37501",Sakařova
+-756202.5649,-1137870.6746,100,"Sakařova 756, Týn nad Vltavou 37501",65024583,,Lékárna u Polikliniky,Sakařova 756,37501,Týn nad Vltavou,České Budějovice,Jihočeský kraj,2007,"Sakařova 756, Týn nad Vltavou 37501",Sakařova
+-623915.5528,-1010705.1945,100,"Bratří Čapků 1103, Úpice 54232",26230071,Dr.Max,Dr.Max LÉKÁRNA,Bratří Čapků 1103,54232,Úpice,,,2015,"Bratří Čapků 1103, Úpice 54232",Bratří
+-623915.179299999,-1010705.4898,NA,,49688596,Lékárny Lloyds,"Lékárny Lloyds s.r.o., Lékárna Úpice",Bratří Čapků 1103,54202,Úpice,Trutnov,Královéhradecký kraj,2007,"Bratří Čapků 1103, Úpice 54202",Bratří
+-496800.525800001,-1176508.6491,100,"Krátká 1008, Valašské Klobouky 76601",26230071,Dr.Max,Dr.Max LÉKÁRNA,Krátká 1008,76601,Valašské Klobouky,,,2015,"Krátká 1008, Valašské Klobouky 76601",Krátká
+-496800.525800001,-1176508.6491,100,"Krátká 1008, Valašské Klobouky 76601",48472417,,Lékárna,Krátká 1008,76601,Valašské Klobouky,Zlín,Zlínský kraj,2007,"Krátká 1008, Valašské Klobouky 76601",Krátká
+-496480.080899999,-1139796.6799,100,"Mostní 102, Valašské Meziříčí 75701",26230071,Dr.Max,Dr.Max LÉKÁRNA,Mostní 102/16,75701,Valašské Meziříčí,,,2015,"Mostní 102, Valašské Meziříčí 75701",Mostní
+-496480.080899999,-1139796.6799,100,"Mostní 102, Valašské Meziříčí 75701",27197123,,"TL - Pharma s.r.o., Lékárna u Fortelků",Mostní 102,75701,Valašské Meziříčí,Vsetín,Zlínský kraj,2007,"Mostní 102, Valašské Meziříčí 75701",Mostní
+-639264.625399999,-1138268.5495,100,"Náměstí 22, Velké Meziříčí 59401",26230071,Dr.Max,Dr.Max LÉKÁRNA,Náměstí 22/24,59401,Velké Meziříčí,,,2015,"Náměstí 22, Velké Meziříčí 59401",Náměstí
+-639264.625399999,-1138268.5495,100,"Náměstí 22, Velké Meziříčí 59401",27197123,,"TL - Pharma s.r.o., Lékárna Horácko",Náměstí 22/24,59401,Velké Meziříčí,Žďár nad Sázavou,Vysočina,2007,"Náměstí 22, Velké Meziříčí 59401",Náměstí
+-774770.945999999,-1144173.8963,100,"Jiráskova 218, Vodňany 38901",49621173,BENU,BENU Lékárna,Jiráskova 218,38901,Vodňany,,,2015,"Jiráskova 218, Vodňany 38901",Jiráskova
+-774770.945999999,-1144173.8963,100,"Jiráskova 218, Vodňany 38901",48226637,,Lékárna Aguileia,Jiráskova 218,38901,Vodňany,Strakonice,Jihočeský kraj,2007,"Jiráskova 218, Vodňany 38901",Jiráskova
+-650905.945700001,-994796.891100001,100,"Jihoslovanská 465, Vrchlabí 54301",25839136,Plzeňská lékárna,Lékárna Poliklinika Vrchlabí,Jihoslovanská 465,54301,Vrchlabí,,,2015,"Jihoslovanská 465, Vrchlabí 54301",Jihoslovanská
+-650905.945700001,-994796.891100001,100,"Jihoslovanská 465, Vrchlabí 54301",26337436,,"Lékárna Poliklinika Vrchlabí, s.r.o.",Jihoslovanská 465,54301,Vrchlabí,Trutnov,Královéhradecký kraj,2007,"Jihoslovanská 465, Vrchlabí 54301",Jihoslovanská
+-651163.004099999,-994333.192299999,100,"Krkonošská 8, Vrchlabí 54301",49621173,BENU,BENU Lékárna,Krkonošská 8,54301,Vrchlabí,,,2015,"Krkonošská 8, Vrchlabí 54301",Krkonošská
+-651163.004099999,-994333.192299999,100,"Krkonošská 8, Vrchlabí 54301",60935103,,"THEA, s.r.o., Lékárna ",Krkonošská 8,54301,Vrchlabí,Trutnov,Královéhradecký kraj,2007,"Krkonošská 8, Vrchlabí 54301",Krkonošská
+-520881.4124,-1164839.2065,100,"Dlouhá 4215, Zlín 76001",49621173,BENU,BENU Lékárna,Dlouhá 4215,76001,Zlín,,,2015,"Dlouhá 4215, Zlín 76001",Dlouhá
+-520881.4124,-1164839.2065,100,"Dlouhá 4215, Zlín 76001",26512297,,"REGINNA PHARMA CZ, Lékárna Cetropharm",Dlouhá 4215,76001,Zlín,Zlín,Zlínský kraj,2007,"Dlouhá 4215, Zlín 76001",Dlouhá
+-642452.005600002,-1193255.8369,100,"Jarošova 1234, Znojmo 66902",26230071,Dr.Max,Dr.Max LÉKÁRNA,"Jarošova 1234/2, OD Kaufland",66902,Znojmo,,,2015,"Jarošova 1234, Znojmo 66902",Jarošova
+-642452.005600002,-1193255.8369,100,"Jarošova 1234, Znojmo 66902",26306662,BRL Center CZ,"BRL Center CZ s.r.o., A lékárna v Kauflandu",Jarošova 1234/2,66902,Znojmo,Znojmo,Jihomoravský kraj,2007,"Jarošova 1234, Znojmo 66902",Jarošova
+-642412.753199998,-1194901.9889,100,"Vídeňská třída 684, Znojmo 66902",26230071,Dr.Max,Dr.Max LÉKÁRNA,Vídeňská třída 684/69,66902,Znojmo,,,2015,"Vídeňská třída 684, Znojmo 66902",Vídeňská
+-642412.753199998,-1194901.9889,100,"Vídeňská třída 684, Znojmo 66902",27145131,Eurolékárna,"Eurolékárna s.r.o., Lékárna",Vídeňská třída 684/69,66902,Znojmo,Znojmo,Jihomoravský kraj,2007,"Vídeňská třída 684, Znojmo 66902",Vídeňská
+-755385.078699999,-1166092.6346,NA,,26230071,Dr.Max,Dr.Max LÉKÁRNA,nám. Přem.Otakara II. 88/26,37001,České Budějovice,,,2015,"nám. Přem.Otakara II. 88, České Budějovice 37001",nám.
+-755745.444400001,-1166184.7954,100,"nám. Přemysla Otakara II. 88, České Budějovice 37001",49688596,Lékárny Lloyds,"Lékárny Lloyds s.r.o., Lékárna U Bílého orla",nám. Přemysla Otakara II. 88/26,37001,České Budějovice,České Budějovice,Jihočeský kraj,2007,"nám. Přemysla Otakara II. 88, České Budějovice 37001",nám.
+-809557.630899999,-990751.490499999,NA,,49621173,BENU,BENU Lékárna,Černovická 5430 - OC Globus,43003,Chomutov,,,2015,"Černovická 5430 - OC Globus, Chomutov 43003",Černovická
+-809888.805199999,-991691.146600001,NA,,86764446,,Lékárna ISIS,Černovická 5430,43001,Chomutov,Chomutov,Ústecký kraj,2007,"Černovická 5430, Chomutov 43001",Černovická
+-646030.927700002,-1071096.6526,NA,,26230071,Dr.Max,Dr.Max LÉKÁRNA,SNP 1081,53705,Chrudim,,,2015,"SNP 1081, Chrudim 53705",SNP
+-646030.927700002,-1071096.6526,NA,,26306662,BRL Center CZ,"BRL Center CZ s.r.o., A lékárna v Kauflandu",SNP 1081,53701,Chrudim,Chrudim,Pardubický kraj,2007,"SNP 1081, Chrudim 53701",SNP
+-746797.445300002,-964455.170200001,NA,,49621173,BENU,BENU Lékárna,Duchcovská 1,45001,Děčín,,,2015,"Duchcovská 1, Děčín 45001",Duchcovská
+-746798.426399998,-964455.565200001,100,"Duchcovská 1, Děčín 40502",25039229,,"ALTHEA, s.r.o., Lékárna CENTRUM",Duchcovská 1,40502,Děčín,Děčín,Ústecký kraj,2007,"Duchcovská 1, Děčín 40502",Duchcovská
+-746686.813999999,-965276.000700001,NA,,26230071,Dr.Max,Dr.Max LÉKÁRNA,Oblouková 1395/4,40501,Děčín,,,2015,"Oblouková 1395, Děčín 40501",Oblouková
+-746687.787799999,-965276.3946,100,"Oblouková 4, Děčín 40502",26306662,BRL Center CZ,"BRL Center CZ s.r.o., A lékárna v Kauflandu",Oblouková 4,40502,Děčín,Děčín,Ústecký kraj,2007,"Oblouková 4, Děčín 40502",Oblouková
+-640643.1226,-1043883.3939,NA,,49621173,BENU,BENU Lékárna,třída Dr. E. Beneše 1549,50012,Hradec Králové,,,2015,"třída Dr. E. Beneše 1549, Hradec Králové 50012",třída
+-640846.915100001,-1043875.155,100,"třída Edvarda Beneše 1549, Hradec Králové 50012",25293117,,"MEDIAL PHARMA, s.r.o., Lékárna PK III",třída Edvarda Beneše 1549,50012,Hradec Králové,Hradec Králové,Královéhradecký kraj,2007,"třída Edvarda Beneše 1549, Hradec Králové 50012",třída
+-640829.841400001,-1042359.6284,NA,,25839136,Plzeňská lékárna,Lékárna U Zlatého lva,Velké náměstí 29,50002,Hradec Králové,,,2015,"Velké náměstí 29, Hradec Králové 50002",Velké
+-640902.701299999,-1042393.3133,100,"Velké náměstí 29, Hradec Králové 50003",48146552,,Lékárna U zlatého lva,Velké náměstí 29,50003,Hradec Králové,Hradec Králové,Královéhradecký kraj,2007,"Velké náměstí 29, Hradec Králové 50003",Velké
+-853386.6186,-1011014.068,NA,,26230071,Dr.Max,Dr.Max LÉKÁRNA,"Chebská 370/81A, OC Tesco",36001,Karlovy Vary,,,2015,"Chebská 370, Karlovy Vary 36001",Chebská
+-853386.6186,-1011014.068,NA,,27394981,,"Revital Pharma, s.r.o., Lékárna U Mandragory",Chebská 81A/370,36001,Karlovy Vary,Karlovy Vary,Karlovarský kraj,2007,"Chebská 81A, Karlovy Vary 36001",Chebská
+-764482.0101,-1033292.7685,NA,,49621173,BENU,BENU Lékárna,"Americká 2777, OC Tesco",27201,Kladno,,,2015,"Americká 2777, OC Tesco, Kladno 27201",Americká
+-763629.458000001,-1035757.2421,100,"Americká 2777, Kladno 27201",49687832,,"Avicenum s.r.o., Lékárna Tesco Kladno",Americká 2777,27201,Kladno,Kladno,Středočeský kraj,2007,"Americká 2777, Kladno 27201",Americká
+-765147.1866,-1033565.3765,NA,,26230071,Dr.Max,Dr.Max LÉKÁRNA,nám. Svobody 1976,27201,Kladno,,,2015,"nám. Svobody 1976, Kladno 27201",nám.
+-765147.1866,-1033565.3765,NA,,25707451,,LK - SALIX s.r.o,nám. Svobody 1976,27201,Kladno,Kladno,Středočeský kraj,2007,"nám. Svobody 1976, Kladno 27201",nám.
+-734644.281199999,-1014060.6666,NA,,26230071,Dr.Max,Dr.Max LÉKÁRNA,Bezručova 3630,27601,Mělník,,,2015,"Bezručova 3630, Mělník 27601",Bezručova
+-734644.281199999,-1014060.6666,NA,,26306662,BRL Center CZ,"BRL Center CZ s.r.o., A lékárna v Kauflandu",Bezručova ul.,27601,Mělník,Mělník,Středočeský kraj,2007,"Bezručova ul., Mělník 27601",Bezručova
+-545362.320599999,-1121891.5143,NA,,25319141,Agel,LÉKÁRNA AGEL,Jeremenkova 1056/40,77200,Olomouc,,,2015,"Jeremenkova 1056, Olomouc 77200",Jeremenkova
+-545362.320599999,-1121891.5143,NA,,70994226,,"ČD a.s., Ústavní lékárna Železniční polikliniky",Jeremenkova 40/1056,77200,Olomouc,Olomouc,Olomoucký kraj,2007,"Jeremenkova 40, Olomouc 77200",Jeremenkova
+-842840.537900001,-1003282.32,NA,,49621173,BENU,BENU Lékárna,Hlavní tř. 1380,36301,Ostrov,,,2015,"Hlavní tř. 1380, Ostrov 36301",Hlavní
+-842841.8259,-1003283.2704,88,"Hlavní třída 1380, Ostrov 36301",26343738,,"Lékárna PINIE s.r.o., Lékárna Ginkgo",Hlavní 1380,36301,Ostrov,Karlovy Vary,Karlovarský kraj,2007,"Hlavní 1380, Ostrov 36301",Hlavní
+-649007.728700001,-1061044.1549,NA,,26230071,Dr.Max,Dr.Max LÉKÁRNA,Palackého tř. 2748,53002,Pardubice,,,2015,"Palackého tř. 2748, Pardubice 53002",Palackého
+-649008.0744,-1061044.0229,88,"Palackého třída 2748, Pardubice 53002",26758709,,"GINESIO PLUS a.s., Lékárna Nova",Palackého 2748,53002,Pardubice,Pardubice,Pardubický kraj,2007,"Palackého 2748, Pardubice 53002",Palackého
+-822710.658399999,-1070052.6701,NA,,49621173,BENU,BENU Lékárna,Americká 11,30150,Plzeň,,,2015,"Americká 11, Plzeň 30150",Americká
+-822710.658399999,-1070052.6701,NA,,61775916,ALIPEX,"ALIPEX s.r.o., Lékárna Čtyřlístek - Bílá Růže",Americká tř. 11,30100,Plzeň,Plzeň-město,Plzeňský kraj,2007,"Americká tř. 11, Plzeň 30100",Americká
+-819480.8649,-1069336.5151,NA,,49621173,BENU,BENU Lékárna,Masarykova 62,31212,Plzeň,,,2015,"Masarykova 62, Plzeň 31212",Masarykova
+-822938.8147,-1070354.396,NA,,61775916,ALIPEX,"ALIPEX s.r.o., Lékárna Čtyřlístek",Masarykova tř. 62,31200,Plzeň,Plzeň-město,Plzeňský kraj,2007,"Masarykova tř. 62, Plzeň 31200",Masarykova
+-818184.710900001,-1070476.5997,NA,,26230071,Dr.Max,Dr.Max LÉKÁRNA,Rokycanská 1424/128,31216,Plzeň,,,2015,"Rokycanská 1424, Plzeň 31216",Rokycanská
+-818184.710900001,-1070476.5997,NA,,26306662,BRL Center CZ,"BRL Center CZ s.r.o., Dr.MAX Lékárna",Rokycanská 128,31216,Plzeň,Plzeň-město,Plzeňský kraj,2007,"Rokycanská 128, Plzeň 31216",Rokycanská
+-822043.9353,-1065839.0436,NA,,49621173,BENU,BENU Lékárna,Tachovská 80,32318,Plzeň,,,2015,"Tachovská 80, Plzeň 32318",Tachovská
+-822043.9353,-1065839.0436,NA,,72227052,,Lékárna U Zlatého hada III,Tachovská 80,30100,Plzeň,Plzeň-město,Plzeňský kraj,2007,"Tachovská 80, Plzeň 30100",Tachovská
+-825166.896299999,-1071442.64,NA,,26230071,Dr.Max,Dr.Max LÉKÁRNA,U Letiště 2,32001,Plzeň,,,2015,"U Letiště 2, Plzeň 32001",U
+-825167.7161,-1071443.5328,100,"U Letiště 2, Plzeň 30100",49688596,Lékárny Lloyds,"Lékárny Lloyds s.r.o., Lékárna Borská pole",U Letiště 2,30100,Plzeň,Plzeň-město,Plzeňský kraj,2007,"U Letiště 2, Plzeň 30100",U
+-739029.443999998,-1045310.0475,NA,,26230071,Dr.Max,Dr.Max LÉKÁRNA,Kubánské nám. 1271/5,10000,Praha 10,,,2015,"Kubánské nám. 1271, Praha 10000",Kubánské
+-739030.008499999,-1045310.3201,100,"Kubánské náměstí 5, Praha 10000",26438062,,"E-lékárny, a.s., Lékárna KUBA",Kubánské náměstí 5/1271,10000,Praha 10,Praha 10,Hl. m. Praha,2007,"Kubánské náměstí 5, Praha 10000",Kubánské
+-739683.9553,-1045641.3453,NA,,26230071,Dr.Max,Dr.Max LÉKÁRNA,U Slávie 1527/1,10100,Praha 10,,,2015,"U Slávie 1527, Praha 10100",U
+-739845.8572,-1045594.9838,100,"U Slavie 1, Praha 10000",26438062,,"E-lékárny, a.s., Lékárna Mexiko",U Slávie 1/1527,10000,Praha 10,Praha 10,Hl. m. Praha,2007,"U Slávie 1, Praha 10000",U
+-744351.403900001,-1041264.7022,NA,,49621173,BENU,BENU Lékárna,Vítězné nám. 9,16000,Praha 6,,,2015,"Vítězné nám. 9, Praha 16000",Vítězné
+-744351.996300001,-1041265.0019,100,"Vítězné náměstí 9, Praha 16000",61775916,ALIPEX,"ALIPEX s.r.o., Lékárna Kulatá",Vítězné náměstí 9/817,16000,Praha 6,Praha 6,Hl. m. Praha,2007,"Vítězné náměstí 9, Praha 16000",Vítězné
+-736634.8607,-1039309.622,NA,,26230071,Dr.Max,Dr.Max LÉKÁRNA,Lovosická,19000,Praha 9,,,2015,"Lovosická, Praha 19000",Lovosická
+-737315.994399998,-1039100.1636,98.13,"Lovosická 440, Praha 19000",45245878,,"Lékárna Poliklinika Prosek, Lékárna",Lovosická 40/440,19000,Praha 9,Praha 9,Hl. m. Praha,2007,"Lovosická 40, Praha 19000",Lovosická
+-532607.637699999,-1138245.244,NA,,25319141,Agel,LÉKÁRNA AGEL,Dvořákova 75,75152,Přerov,,,2015,"Dvořákova 75, Přerov 75152",Dvořákova
+-532607.637699999,-1138245.244,NA,,44888830,,"Nemocnice Přerov, Ústavní lékárna",Dvořákova 75,75152,Přerov,Přerov,Olomoucký kraj,2007,"Dvořákova 75, Přerov 75152",Dvořákova
+-559697.939599998,-1133786.411,NA,,26230071,Dr.Max,Dr.Max LÉKÁRNA,Plumlovská 4210,79601,Prostějov,,,2015,"Plumlovská 4210, Prostějov 79601",Plumlovská
+-559697.939599998,-1133786.411,NA,,63996782,,"DREYER s.r.o., Lékárna Plumlovská",Plumlovská 4210,79601,Prostějov,Prostějov,Olomoucký kraj,2007,"Plumlovská 4210, Prostějov 79601",Plumlovská
+-791395.2355,-1034208.7195,NA,,49621173,BENU,BENU Lékárna,Husovo nám. 2347,26901,Rakovník,,,2015,"Husovo nám. 2347, Rakovník 26901",Husovo
+-791396.059599999,-1034209.3121,100,"Husovo náměstí 2347, Rakovník 26901",63806096,,Lékárna U raka,Husovo náměstí 2347,26901,Rakovník,Rakovník,Středočeský kraj,2007,"Husovo náměstí 2347, Rakovník 26901",Husovo
+-764392.612399999,-1023858.1534,NA,,26230071,Dr.Max,Dr.Max LÉKÁRNA,Husova tř. 105/12,27401,Slaný,,,2015,"Husova tř. 105, Slaný 27401",Husova
+-764392.612399999,-1023858.1534,NA,,48704032,,Lékárna  CENTRUM,Husova třída 105,27401,Slaný,Kladno,Středočeský kraj,2007,"Husova třída 105, Slaný 27401",Husova
+-734782.944800001,-1119836.5223,NA,,49621173,BENU,BENU Lékárna,Husovo náměstí 530/1,39002,Tábor,,,2015,"Husovo náměstí 530, Tábor 39002",Husovo
+-734782.944800001,-1119836.5223,NA,,46633936,,Bořivojova lékárna,Husovo náměstí 530/I,39002,Tábor,Tábor,Jihočeský kraj,2007,"Husovo náměstí 530, Tábor 39002",Husovo
+-631817.343699999,-1002369.9197,NA,,26230071,Dr.Max,Dr.Max LÉKÁRNA,Horská 647,54101,Trutnov,,,2015,"Horská 647, Trutnov 54101",Horská
+-632059.273699999,-1001514.4744,100,"Horská 647, Trutnov 54102",26306662,BRL Center CZ,"BRL Center CZ s.r.o., A lékárna v Kauflandu",Horská 647,54102,Trutnov,Trutnov,Královéhradecký kraj,2007,"Horská 647, Trutnov 54102",Horská
+-496207.282200001,-1140917.4838,NA,,25319141,Agel,LÉKÁRNA AGEL,U nemocnice 980,75742,Valašské Meziříčí,,,2015,"U nemocnice 980, Valašské Meziříčí 75742",U
+-496207.282200001,-1140917.4838,NA,,26822105,,"Nemocnice Valašské Meziříčí a.s., Lékárna",U Nemocnice 980,75742,Valašské Meziříčí,Vsetín,Zlínský kraj,2007,"U Nemocnice 980, Valašské Meziříčí 75742",U
+-493917.561000001,-1155138.3545,NA,,26230071,Dr.Max,Dr.Max LÉKÁRNA,Jasenická 301,75501,Vsetín,,,2015,"Jasenická 301, Vsetín 75501",Jasenická
+-493917.561000001,-1155138.3545,NA,,26306662,BRL Center CZ,"BRL Center CZ s.r.o., A lékárna v Kauflandu",Jasenická 301,75501,Vsetín,Vsetín,Zlínský kraj,2007,"Jasenická 301, Vsetín 75501",Jasenická

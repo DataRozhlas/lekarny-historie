@@ -1,0 +1,19 @@
+fotka: Plzeňská 143, Králův Dvůr 26701
+pro natáčení: Praha Karlovo náměstí, Vrchlabí Krkonošská
+
+mapa: 
+jaký podíl poboček jsou řetězce (2015: 613/2806, 2007: 201/2492, 1999: 27/1999) 
+kolik lékáren skoupily řetězce (cca 300, tj. polovina)
+kde se lékárny a řetězce koncentrují (Celkem:, Dr.Max:, BENU:, Agel:, Plzeňská lékárna:, Devětsil:)
+kde lékárny a řetězce skupují
+
+slope: 
+jak řetězců přibývalo (1999: 1,4 %, 2007: 8,1 %, 2015: 21,8 %)
+
+qGis: 
+počet lidí, bydlících v půlkilometrovém dosahu řetězců (1999: , 2007:, 2015: )
+počet lidí, bydlících v půlkilometrovém dosahu Dr.Max (2015: )
+počet lidí, bydlících v půlkilometrovém dosahu BENU (2015: )
+
+
+ 
