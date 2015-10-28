@@ -1,14 +1,14 @@
-,1999,2007,2015
-Dr.Max,NA,37,361
-BENU/EUROPHARM,NA,55,182
-Plzeňská lékárna,NA,NA,26
-Agel,NA,NA,24
-Devětsil JST,NA,14,20
-Lékárny Lloyds/INPHARMA,12,41,NA
-BRL Center CZ,NA,26,NA
-Eurolékárna,NA,15,NA
-ALIPEX,NA,13,NA
-Červený bod,15,NA,NA
-,,,
-Celkem řetězce,27,201,613
-Celkem lékáren,1999,2492,2806
+,1999,2007,2015,prevzeti
+Dr.Max,NA,37,361,133
+BENU/EUROPHARM,NA,55,182,95
+Plzeňská lékárna,NA,NA,26,19
+Agel,NA,NA,24,7
+Devětsil JST,NA,14,20,6
+Lékárny Lloyds/INPHARMA,12,41,NA,NA
+BRL Center CZ,NA,26,NA,NA
+Eurolékárna,NA,15,NA,NA
+ALIPEX,NA,13,NA,NA
+Červený bod,15,NA,NA,NA
+,,,,NA
+Celkem řetězce,27,201,613,260
+Celkem lékáren,1999,2492,2806,NA

@@ -4,16 +4,56 @@ pro natáčení: Praha Karlovo náměstí, Vrchlabí Krkonošská
 mapa: 
 jaký podíl poboček jsou řetězce (2015: 613/2806, 2007: 201/2492, 1999: 27/1999) 
 kolik lékáren skoupily řetězce (cca 300, tj. polovina)
-kde se lékárny a řetězce koncentrují (Celkem:, Dr.Max:, BENU:, Agel:, Plzeňská lékárna:, Devětsil:)
+kde se lékárny a řetězce koncentrují (Celkem:, Dr.Max: města, BENU: města, Agel: Ostrava, Plzeňská lékárna: Hradec Králové, města v Čechách mimo Prahu, Devětsil: západní, jižní Čechy)
 kde lékárny a řetězce skupují
 
-slope: 
+bar: 
 jak řetězců přibývalo (1999: 1,4 %, 2007: 8,1 %, 2015: 21,8 %)
 
+slope:
+kterých řetězců přibývalo (Dr.Max, BENU)
+
 qGis: 
-počet lidí, bydlících v půlkilometrovém dosahu řetězců (1999: , 2007:, 2015: )
-počet lidí, bydlících v půlkilometrovém dosahu Dr.Max (2015: )
-počet lidí, bydlících v půlkilometrovém dosahu BENU (2015: )
+počet lidí, bydlících v půlkilometrovém dosahu řetězců (1999: 94 tis., 2007: 703 tis., 2015: 2,2 mil.)
+počet lidí, bydlících v půlkilometrovém dosahu Dr.Max (2015: 1,22 mil.)
+počet lidí, bydlících v půlkilometrovém dosahu BENU (2015: 761 tis.)
 
-
+struktura: 
+- řetězcový lékárny jsou špatně, bo monopol, nevaří mastičky a bůhví co
+- teď jich je pětina ze všech lékáren, většina z nich Dr.Max a BENU (tady někde ten slope chart)
+- nejvíc jich vyrostlo po roce 2007 (nebo tady)
+- polovina vyrostla na zelené louce, polovina převzala samostatné lékárny nebo požrala menší řetězce (tady mapa)
  
+citace:
+Zdravotnický deník se zvlášť zajímal o pohled ministra na finanční situaci veřejných lékáren. Tento segment je závislý na obchodní přirážce k cenám léků, které v Česku již několik let klesají. Lékárníci proto velmi usilují o to, aby alespoň část jejich příjmů v dalších letech plynula z výkonů za odborné úkony, což by zároveň více odpovídalo tomu, že skutečně vykonávají – stejně jako lékaři – zdravotnické povolání. Zatím jediným výkonem, který však nepovažují za plnohodnotný, je tzv. signální kód, respektive signální výkon. Ten není ohodnocením jejich odborné práce, ale nástrojem, jak lékárnám kompenzovat zrušené poplatky za recept. Lékárníci požadovali plnou kompenzaci, tedy 30 korun za jeden recept, avšak v úhradové vyhlášce pro příští rok nakonec zůstalo 12 korun, stejně jako tomu bylo letos. Komora přitom upozorňovala, že „zejména u 390 jedinečných venkovských malých lékáren a 250 výdejen je příjem z úhrady signálního výkonu prvkem zajišťujícím ekonomické přežití“.
+
+„Vnímám povzdech malých lékáren jako oprávněný,“ řekl ZD ministr s tím, že by jim chtěl pomoci, ale není to vůbec jednoduché. Nechce jít cestou signálního kódu, který slouží ke kompenzaci poplatků a nehodlá už dál vést debaty o jeho výši. Už dříve nám řekl, že nebylo možné rozlišit, kdo poplatky vybíral a kdo nikoliv a že tedy částečnou kompenzaci vnímal jako kompromis. Řešení by se mohlo najít v plnohodnotných výkonech, které ale musejí mít své náležitosti, včetně například záznamu v dokumentaci. Ministr by uvítal pomoc s technickým řešením.
+
+„Více bych čekal od zástupců komory a odborné farmaceutické společnosti. Měli by navrhnout, jak to udělat, abychom přidali malým lékárnám a přitom nepodporovali zbytečně velké řetězce, ale zároveň se nedostali do problémů, že narušujeme svobodnou soutěž. Pokud někdo přijde s technickým řešením, jak pomoci primárně malým lékárnám, bude to nákladově řekněme ve stovkách miliónů, tak to určitě podpořím,“ uvedl ministr zdravotnictví. Je to pro organizace, hájící nezávislé lékárníky, výzva. Chopí se jí?
+
+http://www.zdravotnickydenik.cz/2015/10/pomohu-malym-lekarnam-kdyz-mi-nekdo-poradi-jak-rika-ministr-zdravotnictvi/
+
+---
+
+Česká farmaceutická společnost ČLSJEP, sekce lékárenství konstatuje ústy svých členů, lékárníků, že situace malých nezávislých lékáren začíná být velmi vážná. Stálé snižování cen nejvíce předepisovaných léčiv, marketingové praktiky většiny provozovatelů  řetězcových  lékáren, stále rostoucí vstupní náklady přivádějí lékárníky k rozhodnutí ve svém podnikání dále nepokračovat. Víme, že neustále se zvyšující počet lékáren v naší zemi toho není důkazem, ale když se podíváme na vlastnické poměry nových subjektů, nikdy v nich nefiguruje nezávislý lékárník. Otevřít si lékárnu pro mladého, perspektivního lékárníka je ekonomicky prakticky nemožné.
+
+Cesta ven vede jedině ve změně odměňování lékárenské péče. Marže z nízké ceny léku ,byť by se zvýšila, lékárny nezachrání. Odměna za výkon farmaceuta by byla perspektivním řešením, např.standardy výdejní činnosti v lékárnách jsou již komorou i námi dobře připraveny, zbývá je jen uvést v život. Tak jako se to před několika lety podařilo v některých zemích EU, např.v Belgii či Portugalsku. V některých zemích je lékárníkovi vyplácena odměna formou fixního dispenzačního poplatku ke každému balení či druhu léčivého přípravku.
+
+Myslíme si, že by Česká republika měla přijmout některý z těchto modelů. Jinak se může stát, že nerovnoměrné pokrytí regionů ČR sítí lékáren se bude dále prohlubovat a pacienti budou muset za lékárnami dojíždět do větších měst, kde je lékáren zbytečně mnoho.
+
+Signální výkon ve výši 12Kč není dostačující pro kompenzaci zrušených regulačních poplatků, dispenzační poplatek v rozumné výši by byl krátkodobým opatřením k záchraně malých lékáren.
+
+PharmDr.Pavel Grodza, předseda Sekce lékárenství ČFSČLSJEP
+
+http://www.lekarnici.cz/Media/Tiskove-zpravy/Zprava-CFS-CLSJEP-k-soucasne-situaci-v-ceskem-leka.aspx
+
+---
+
+Ono jsou špatné hlavně proto, že pro žádný trh, o to víc tak specifický, není dobrá jakákoliv monopolizace. Ta způsobuje dominanci na trhu, diktát cen a nabídiy. Již nyní se farma firmy snaží dostat na jejich pozitivni listy, aby jejich produkty byly těmi preferovanými. Na úkor těch ostatních, které nabízejí své produkty za stejných podmínek pro všechny. Řetězce tak využívají své monopolní (přesněji ologopolní) síly, mohou mít nižší ceny (cenová konkurence) a klasické nezávislé lékárny tak mohou konkurovat pouze necenovou konkurencí, tedy kvalitou poskytovaných služeb. A jak víme, v ČR lidé preferují nižší cenu a menší kvalitu a to je ve zdravotnictví nebezpečná situace. Fronty v kauflandských lékárnách ani neumožní, aby se jim lékárník adekvátně věnoval. Jsou odměňováni za množství, ne kvalitu. Navíc zaměňují přípravky za ty, co jsou zrovna preferované. Bez ohledu toho, že jakákoliv záměna není bez rizika, zvlášť u starých lidí, co užívá více léků. Postupná monopolizace trhu spočívá i v tom, že řetězce neskupují jen lékárny, ale také distribuci, výrobu, ordinace a chybí už jen pojišťovny a kruh se uzavře zcela. K tomu moc nechybí. Další problém je brutální marketing, neetické praktiky křivící zákony (placení pacientovi za přinesený recept, vracení poplatků,...), privátní značky - produkty vyrobené v Egyptě, Indii, Číně bez označení země původu "přebalené" za "známoz a bezpečnou" značku registrovanou někde např. v Londýně, kde ve skutečnosti sídlí pouze kanceláře.
+Obecně řetězce obecně křiví trh, což je primárně nebezpečné pro nezávislou a slabou konkurenci a následně i po čase pro pacienta a stát (regulátora a plátce). Proto v tolika zemích je vlastnictví více lékáren omezeno, zakázáno, proto jsou v mnoha zemích fixní doplatky (neexistuje cenová, ale pouze necenová konkurence, kdy lékárny o pacienta soutěží pouze kvalitou poskytovaných služeb).
+
+Jan Kostřiba
+
+---
+
+

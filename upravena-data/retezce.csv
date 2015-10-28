@@ -197,8 +197,6 @@ X,Y,Score,Match_addr,ICO,ZNACKA,NAZEV,ULICE,PSC,MESTO,OKRES,KRAJ,rok,addr,ul
 -496800.525800001,-1176508.6491,100,"Krátká 1008, Valašské Klobouky 76601",48472417,,Lékárna,Krátká 1008,76601,Valašské Klobouky,Zlín,Jižní Morava,1999,"Krátká 1008, Valašské Klobouky 76601",Krátká
 -496480.080899999,-1139796.6799,100,"Mostní 102, Valašské Meziříčí 75701",26230071,Dr.Max,Dr.Max LÉKÁRNA,Mostní 102/16,75701,Valašské Meziříčí,,,2015,"Mostní 102, Valašské Meziříčí 75701",Mostní
 -496480.080899999,-1139796.6799,100,"Mostní 102, Valašské Meziříčí 75701",60042435,,Lékárna,Mostní 102,75701,Valašské Meziříčí,Vsetín,Severní Morava,1999,"Mostní 102, Valašské Meziříčí 75701",Mostní
--496209.8719,-1140917.7377,100,"U Nemocnice 980, Valašské Meziříčí 75701",64124142,,Ústavní lékárna,U nemocnice 980,75701,Valašské Meziříčí,Vsetín,Severní Morava,1999,"U nemocnice 980, Valašské Meziříčí 75701",U
--496209.8719,-1140917.7377,100,"U Nemocnice 980, Valašské Meziříčí 75701",64124142,,Lékárna 1004,U nemocnice 980,75701,Valašské Meziříčí,Vsetín,Severní Morava,1999,"U nemocnice 980, Valašské Meziříčí 75701",U
 -805830.3684,-1149888.0499,100,"Pivovarská 332, Vimperk 38501",49621173,BENU,BENU Lékárna,Pivovarská 332/18,38501,Vimperk,,,2015,"Pivovarská 332, Vimperk 38501",Pivovarská
 -805350.535100002,-1150275.2879,100,"Pivovarská 111, Vimperk 38501",49062433,,MEDICO K+S spol. s r.o.,Pivovarská 111,38501,Vimperk,Prachatice,Jižní Čechy,1999,"Pivovarská 111, Vimperk 38501",Pivovarská
 -520881.4124,-1164839.2065,100,"Dlouhá 4215, Zlín 76001",49621173,BENU,BENU Lékárna,Dlouhá 4215,76001,Zlín,,,2015,"Dlouhá 4215, Zlín 76001",Dlouhá
@@ -229,8 +227,6 @@ X,Y,Score,Match_addr,ICO,ZNACKA,NAZEV,ULICE,PSC,MESTO,OKRES,KRAJ,rok,addr,ul
 -822938.8147,-1070354.396,NA,,61775916,,"ALIPEX, s.r.o., lékárna Čtyřlístek",Masarykova tř. 62,30100,Plzeň,Plzeň-město,Západní Čechy,1999,"Masarykova tř. 62, Plzeň 30100",Masarykova
 -823136.861499999,-1070351.6931,NA,,49621173,BENU,BENU Lékárna,Skrétova 47,30125,Plzeň,,,2015,"Skrétova 47, Plzeň 30125",Skrétova
 -823136.861499999,-1070351.6931,NA,,61775916,,"ALIPEX, s.r.o., lékárna Čtyřlístek",Skrétova 47,30122,Plzeň,Plzeň-město,Západní Čechy,1999,"Skrétova 47, Plzeň 30122",Skrétova
--746601.999899998,-1042845.0009,95.2,"Pod Marjánkou 1427, Praha 16900",48574368,,Lékárna Pod Marjánkou,Pod Marjánkou 12,16900,Praha 6,Praha 6,Hl.m.Praha,1999,"Pod Marjánkou 12, Praha 16900",Pod
--746767.921599999,-1042764.1185,NA,,67786723,,Zdravotnické potřeby,Pod Marjánkou 12,16000,Praha 6,Praha 6,Hl.m.Praha,1999,"Pod Marjánkou 12, Praha 16000",Pod
 -744351.403900001,-1041264.7022,NA,,49621173,BENU,BENU Lékárna,Vítězné nám. 9,16000,Praha 6,,,2015,"Vítězné nám. 9, Praha 16000",Vítězné
 -744351.996300001,-1041265.0019,100,"Vítězné náměstí 9, Praha 16000",25650378,,"Lékárna KULATÁ, s.r.o.",Vítězné náměstí 9,16000,Praha 6,Praha 6,Hl.m.Praha,1999,"Vítězné náměstí 9, Praha 16000",Vítězné
 -730992.0405,-1042138.5065,NA,,49621173,BENU,BENU Lékárna,Chlumecká 765/6,19819,Praha 9,,,2015,"Chlumecká 765, Praha 19819",Chlumecká
