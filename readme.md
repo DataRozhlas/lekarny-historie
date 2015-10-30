@@ -1,4 +1,4 @@
-# Nezávislé kékárny ubývají, přechází pod velké řetězce
+# Nezávislé lékárny ubývají, přechází pod velké řetězce
 
 [Článek na Rozhlas.cz](http://www.rozhlas.cz/zpravy/data/)
 
